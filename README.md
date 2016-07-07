@@ -17,6 +17,7 @@
  - [ActionScript](#actionscript)
  - [Clojure](#clojure)
  - [Go](#go)
+ - [Haskell](#haskell)
 
 ### JavaScript #
 :star2: | Name | Description | 🌍
@@ -581,6 +582,29 @@
 2 | [@cskr](https://github.com/cskr)/[**jsoncast**](https://github.com/cskr/jsoncast) | A Go library to read arbitrary JSON |
 2 | [@cbonello](https://github.com/cbonello)/[**gp-config**](https://github.com/cbonello/gp-config) | Configuration file parser for golang. |
 2 | [@rabeesh](https://github.com/rabeesh)/[**negroni-nocache**](https://github.com/rabeesh/negroni-nocache) | No cache negroni middleware |
+### Haskell #
+:star2: | Name | Description | 🌍
+--- | --- | --- | ---
+28 | [@ajnsit](https://github.com/ajnsit)/[**wai-routes**](https://github.com/ajnsit/wai-routes) | Wai Routes provides typesafe URLs for Wai applications | [:arrow_upper_right:](https://ajnsit.github.io/wai-routes)
+9 | [@ajnsit](https://github.com/ajnsit)/[**luautils**](https://github.com/ajnsit/luautils) | Helpers for Haskell integration with Lua |
+6 | [@kapilash](https://github.com/kapilash)/[**ScaTeX**](https://github.com/kapilash/ScaTeX) | literate programming in scala |
+5 | [@ckkashyap](https://github.com/ckkashyap)/[**really-simple-xml-pa…**](https://github.com/ckkashyap/really-simple-xml-parser) | A really simple xml parser in Haskell using Parsec |
+4 | [@donatello](https://github.com/donatello)/[**plivo-haskell**](https://github.com/donatello/plivo-haskell) | Helper library for the Plivo Web-Telephony API in Haskell |
+4 | [@ajnsit](https://github.com/ajnsit)/[**FactorCSS**](https://github.com/ajnsit/FactorCSS) | FactorCSS (Haskell based CSS refactoring tool) modified to support vendor specific css properties. Original code imported from the FactorCSS repo at http://zamez.org/source/factorcss/ | [:arrow_upper_right:](http://zamez.org/source/factorcss/)
+3 | [@ajnsit](https://github.com/ajnsit)/[**haystack**](https://github.com/ajnsit/haystack) | The haskell web stack |
+3 | [@ajnsit](https://github.com/ajnsit)/[**luachunk**](https://github.com/ajnsit/luachunk) | Haskell library for reading and writing Lua bytecode chunks |
+2 | [@ckkashyap](https://github.com/ckkashyap)/[**LearningPrograms**](https://github.com/ckkashyap/LearningPrograms) | Programs to learn stuffs |
+2 | [@ckkashyap](https://github.com/ckkashyap)/[**gmail**](https://github.com/ckkashyap/gmail) | Build a DLL/shared object in Haskell to download gmail attachments. Such that it could be linked to C/C++ programs ... why? not sure yet |
+2 | [@donatello](https://github.com/donatello)/[**xmonad-conf**](https://github.com/donatello/xmonad-conf) | My Xmonad/GNOME configuration |
+2 | [@ajnsit](https://github.com/ajnsit)/[**monadbi**](https://github.com/ajnsit/monadbi) | BiDirectional monads that can be transformed into each other (atleast partially). | [:arrow_upper_right:](http://github.com/ajnsit/monadbi)
+2 | [@ajnsit](https://github.com/ajnsit)/[**monadfibre**](https://github.com/ajnsit/monadfibre) | Monadic functions which provide Choice and Parallelism. Also provides a good example of how to use the MonadBi library. | [:arrow_upper_right:](http://github.com/ajnsit/monadfibre)
+2 | [@ajnsit](https://github.com/ajnsit)/[**SimpleServer**](https://github.com/ajnsit/SimpleServer) | A simple static server written in Haskell, for when Apache is overkill |
+2 | [@ajnsit](https://github.com/ajnsit)/[**react-flux**](https://github.com/ajnsit/react-flux) | A git mirror of the mercurial repo for react-flux (https://bitbucket.org/wuzzeb/react-flux… |
+2 | [@ajnsit](https://github.com/ajnsit)/[**fay-build**](https://github.com/ajnsit/fay-build) | A Build System For Fay (Haskell) Code |
+2 | [@ajnsit](https://github.com/ajnsit)/[**haste-markup**](https://github.com/ajnsit/haste-markup) | A port of blaze-markup and blaze-html to Haste. In particular, this removes the bytestring and text dependencies, and replaces Text with JSString.  |
+2 | [@ajnsit](https://github.com/ajnsit)/[**vyom**](https://github.com/ajnsit/vyom) | Extensible algebra for creating typesafe DSLs in Haskell |
+2 | [@dj08](https://github.com/dj08)/[**projecteuler**](https://github.com/dj08/projecteuler) | My solutions to Project Euler problems |
+2 | [@ajnsit](https://github.com/ajnsit)/[**dot.xmonad**](https://github.com/ajnsit/dot.xmonad) | My XMonad configuration |
 
 ## :yum: How to contribute
 Have an idea? Found a bug? See [how to contribute][contributing].
