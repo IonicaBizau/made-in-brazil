@@ -70,7 +70,8 @@
           "[Haskell](#haskell)",
           "[Lua](#lua)",
           "[Matlab](#matlab)",
-          "[Objective-C](#objective-c)"
+          "[Objective-C](#objective-c)",
+          "[Perl](#perl)"
         ]
       },
       {
@@ -4040,6 +4041,117 @@
               "2",
               "[@n9986](https://github.com/n9986)/[**ObservingUIViewMovem…**](https://github.com/n9986/ObservingUIViewMovement)",
               "Quick clean fix for monitoring UIViews for movement when they are nested inside another UIView",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Perl #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "6133",
+              "[@sitaramc](https://github.com/sitaramc)/[**gitolite**](https://github.com/sitaramc/gitolite)",
+              "Hosting git repositories -- Gitolite allows you to setup git hosting on a central server, with very fine-grained access control and many (many!) more powerful features.",
+              "[:arrow_upper_right:](http://wiki.github.com/sitaramc/gitolite/)"
+            ],
+            [
+              "121",
+              "[@Prajithp](https://github.com/Prajithp)/[**letsencrypt-cpanel**](https://github.com/Prajithp/letsencrypt-cpanel)",
+              " cPanel/WHM plugin for Let's Encrypt client  by http://ndimensionz.com/",
+              ""
+            ],
+            [
+              "65",
+              "[@sitaramc](https://github.com/sitaramc)/[**gitpod**](https://github.com/sitaramc/gitpod)",
+              "local caching server for git when the actual server is on the other side of a (possibly slow) WAN link",
+              ""
+            ],
+            [
+              "25",
+              "[@sitaramc](https://github.com/sitaramc)/[**map**](https://github.com/sitaramc/map)",
+              "(EXISTING USERS: please see wiki).  map -- simpler than xargs, more power than xargs.",
+              ""
+            ],
+            [
+              "16",
+              "[@sitaramc](https://github.com/sitaramc)/[**git-tools**](https://github.com/sitaramc/git-tools)",
+              "little tools to make life easier in git",
+              ""
+            ],
+            [
+              "11",
+              "[@sitaramc](https://github.com/sitaramc)/[**gitolite-doc**](https://github.com/sitaramc/gitolite-doc)",
+              "detailed documentation for gitolite, split out from the main gitolite repo.  CC-BY-NC-SA (mostly)",
+              ""
+            ],
+            [
+              "8",
+              "[@sitaramc](https://github.com/sitaramc)/[**tsh**](https://github.com/sitaramc/tsh)",
+              "quick and easy testing/assertion shell",
+              ""
+            ],
+            [
+              "4",
+              "[@Prajithp](https://github.com/Prajithp)/[**cp_addon_converter**](https://github.com/Prajithp/cp_addon_converter)",
+              "This is a small perl script for converting cpanel addon domain to main domain",
+              ""
+            ],
+            [
+              "4",
+              "[@sitaramc](https://github.com/sitaramc)/[**hap2**](https://github.com/sitaramc/hap2)",
+              "hash-a-pass with a twist, using the basic idea behind 'scrypt'",
+              ""
+            ],
+            [
+              "3",
+              "[@sitaramc](https://github.com/sitaramc)/[**active-aliases**](https://github.com/sitaramc/active-aliases)",
+              "\"active aliases\" -- aliases like you've never seen before.  Documentation at http://gitolite.com/active-aliases/",
+              ""
+            ],
+            [
+              "3",
+              "[@sitaramc](https://github.com/sitaramc)/[**bq**](https://github.com/sitaramc/bq)",
+              "simple job queue manager",
+              ""
+            ],
+            [
+              "3",
+              "[@sitaramc](https://github.com/sitaramc)/[**totport**](https://github.com/sitaramc/totport)",
+              "totport -- TOTP anywhere, any service",
+              ""
+            ],
+            [
+              "2",
+              "[@Prajithp](https://github.com/Prajithp)/[**Dancer-Plugin-Auth-F…**](https://github.com/Prajithp/Dancer-Plugin-Auth-Facebook)",
+              "Authenticate users with Facebook OAuth",
+              ""
+            ],
+            [
+              "2",
+              "[@dipanjanS](https://github.com/dipanjanS)/[**Temperature-Aware-Li…**](https://github.com/dipanjanS/Temperature-Aware-Linux)",
+              "A temperature-aware application for creating a temperature-aware variant of the linux OS",
+              ""
+            ],
+            [
+              "2",
+              "[@ppant](https://github.com/ppant)/[**perl-csp**](https://github.com/ppant/perl-csp)",
+              "Perl implementation of Constraint Satisfaction Problem (CSP) Algorithms",
+              "[:arrow_upper_right:](http://pradeeppant.com)"
+            ],
+            [
+              "2",
+              "[@sitaramc](https://github.com/sitaramc)/[**hashlite**](https://github.com/sitaramc/hashlite)",
+              "Store and retrieve small amounts of data from perl or shell.  Think \"git config\" in some ways, but different.  Uses Sqlite3.",
               ""
             ]
           ]
