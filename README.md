@@ -27,6 +27,7 @@
  - [R](#r)
  - [Ruby](#ruby)
  - [Scala](#scala)
+ - [Shell](#shell)
 
 ### JavaScript #
 :star2: | Name | Description | 🌍
@@ -1062,6 +1063,19 @@
 2 | [@pamu](https://github.com/pamu)/[**BulkMailer**](https://github.com/pamu/BulkMailer) | send bulk emails to email contacts |
 2 | [@debasishg](https://github.com/debasishg)/[**qcon-ny-12**](https://github.com/debasishg/qcon-ny-12) | Code base for presentation in QCon NY 2012 |
 2 | [@debasishg](https://github.com/debasishg)/[**recon**](https://github.com/debasishg/recon) | Attempt to make a generalized reconciliation service |
+### Shell #
+:star2: | Name | Description | 🌍
+--- | --- | --- | ---
+5 | [@SpEcHiDe](https://github.com/SpEcHiDe)/[**APK-DeCompiler**](https://github.com/SpEcHiDe/APK-DeCompiler) | Program to get the source code from APK file | [:arrow_upper_right:](https://SpEcHiDe.github.io/APK-DeCompiler/index.html)
+5 | [@dhamaniasad](https://github.com/dhamaniasad)/[**eyeos**](https://github.com/dhamaniasad/eyeos) | eyeos open source archive |
+4 | [@anubhavchaturvedi](https://github.com/anubhavchaturvedi)/[**ConnectifyLinux**](https://github.com/anubhavchaturvedi/ConnectifyLinux) | Shell Script to simulate the behavior similar to Connectify for Windows/Mac |
+3 | [@Jackeagle](https://github.com/Jackeagle)/[**android_device_xiaom…**](https://github.com/Jackeagle/android_device_xiaomi_dior) | CyanogenMod Device Tree For Dior |
+2 | [@Abhinav1997](https://github.com/Abhinav1997)/[**speed-up-android**](https://github.com/Abhinav1997/speed-up-android) | Script to speed up your build process by 357.233% |
+2 | [@jyotiska](https://github.com/jyotiska)/[**TraceNumber**](https://github.com/jyotiska/TraceNumber) | Takes a 10 digit Indian cell phone number and displays the Operator name and the location of that number |
+2 | [@SpEcHiDe](https://github.com/SpEcHiDe)/[**scripts**](https://github.com/SpEcHiDe/scripts) | Useful scripts to have fun. |
+2 | [@pranavcode](https://github.com/pranavcode)/[**gnuplot-scripts**](https://github.com/pranavcode/gnuplot-scripts) | My experiments with gnuplot. |
+2 | [@pranavcode](https://github.com/pranavcode)/[**dotfiles**](https://github.com/pranavcode/dotfiles) | My dotfiles. |
+2 | [@kiranp11](https://github.com/kiranp11)/[**scripts**](https://github.com/kiranp11/scripts) | scripts |
 
 ## :yum: How to contribute
 Have an idea? Found a bug? See [how to contribute][contributing].
