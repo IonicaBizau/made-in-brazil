@@ -28,6 +28,7 @@
  - [Ruby](#ruby)
  - [Scala](#scala)
  - [Shell](#shell)
+ - [Swift](#swift)
 
 ### JavaScript #
 :star2: | Name | Description | 🌍
@@ -1076,6 +1077,20 @@
 2 | [@pranavcode](https://github.com/pranavcode)/[**gnuplot-scripts**](https://github.com/pranavcode/gnuplot-scripts) | My experiments with gnuplot. |
 2 | [@pranavcode](https://github.com/pranavcode)/[**dotfiles**](https://github.com/pranavcode/dotfiles) | My dotfiles. |
 2 | [@kiranp11](https://github.com/kiranp11)/[**scripts**](https://github.com/kiranp11/scripts) | scripts |
+### Swift #
+:star2: | Name | Description | 🌍
+--- | --- | --- | ---
+5 | [@DharmeshKheni](https://github.com/DharmeshKheni)/[**QR-and-BarCode-Scann…**](https://github.com/DharmeshKheni/QR-and-BarCode-Scanner-with-Swift) | QR and barcode Scanner with swift |
+5 | [@vinit5320](https://github.com/vinit5320)/[**PaperMenuViewControl…**](https://github.com/vinit5320/PaperMenuViewController) | Guide: https://swiftyos.wordpress.com/2016/03/2… |
+4 | [@vinit5320](https://github.com/vinit5320)/[**AnimatedLogin**](https://github.com/vinit5320/AnimatedLogin) |  Guide: https://swiftyos.wordpress.com/2015/09/1… |
+3 | [@ArunPrasanth-R](https://github.com/ArunPrasanth-R)/[**APAlertView**](https://github.com/ArunPrasanth-R/APAlertView) | Alertview with label and input textfield. |
+3 | [@DharmeshKheni](https://github.com/DharmeshKheni)/[**Music-player-with-sw…**](https://github.com/DharmeshKheni/Music-player-with-swift) | Music player with swift |
+3 | [@vinit5320](https://github.com/vinit5320)/[**SwiftyCollectionView**](https://github.com/vinit5320/SwiftyCollectionView) | Guide: https://swiftyos.wordpress.com/2015/08/0… |
+3 | [@vinit5320](https://github.com/vinit5320)/[**TableView---PullToRe…**](https://github.com/vinit5320/TableView---PullToRefresh) | Guide: https://swiftyos.wordpress.com/2015/09/2… |
+2 | [@abdullah-chhatra](https://github.com/abdullah-chhatra)/[**iDispatch**](https://github.com/abdullah-chhatra/iDispatch) | Easy to use wrapper over GCD for iOS |
+2 | [@iappvk](https://github.com/iappvk)/[**TableView-Swift**](https://github.com/iappvk/TableView-Swift) |  |
+2 | [@vishnupillai9](https://github.com/vishnupillai9)/[**F1nfo**](https://github.com/vishnupillai9/F1nfo) | iOS app that lets users follow their favorite drivers and the latest standings and schedule for the current Formula One season. |
+2 | [@abdullah-chhatra](https://github.com/abdullah-chhatra)/[**iLayout**](https://github.com/abdullah-chhatra/iLayout) | Framework with high level and intuitive methods to write Auto Layout constraints |
 
 ## :yum: How to contribute
 Have an idea? Found a bug? See [how to contribute][contributing].
