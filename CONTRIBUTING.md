@@ -61,6 +61,6 @@ Thanks! :sweat_smile:
 
 
 
-[1]: https://github.com/IonicaBizau/made-in-romania/issues
+[1]: https://github.com/IonicaBizau/made-in-brazil/issues
 
 [2]: https://github.com/IonicaBizau/code-style
