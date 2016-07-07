@@ -9,6 +9,8 @@
 
  - [JavaScript](#javascript)
  - [Java](#java)
+ - [C#](#c-1)
+ - [CSS](#css)
 
 ### JavaScript #
 :star2: | Name | Description | 🌍
@@ -357,6 +359,49 @@
 2 | [@manishsri01](https://github.com/manishsri01)/[**ListViewIntoScrollVi…**](https://github.com/manishsri01/ListViewIntoScrollView) |  |
 2 | [@PareshMayani](https://github.com/PareshMayani)/[**Android-JustifyText**](https://github.com/PareshMayani/Android-JustifyText) | How do i display information with Justify alignment? |
 2 | [@omerjerk](https://github.com/omerjerk)/[**stickTracker**](https://github.com/omerjerk/stickTracker) |  |
+### C# #
+:star2: | Name | Description | 🌍
+--- | --- | --- | ---
+30 | [@rnand](https://github.com/rnand)/[**Youtube-downloader**](https://github.com/rnand/Youtube-downloader) | A GUI application to download videos from youtube |
+24 | [@prashantvc](https://github.com/prashantvc)/[**Xamarin.iOS-MessageB…**](https://github.com/prashantvc/Xamarin.iOS-MessageBar) | Dropdown message bar for iOS |
+19 | [@amaneureka](https://github.com/amaneureka)/[**SharpBrain**](https://github.com/amaneureka/SharpBrain) | A C# based Machine Learning Library which aims to implement user interactive Deep Learning Architecture & Algorithms. |
+18 | [@akhilmittal](https://github.com/akhilmittal)/[**REST-WebAPI**](https://github.com/akhilmittal/REST-WebAPI) | Enterprise level application with MVC4 Web API's using Entity Framework ,Generic Repository pattern and Unit of Work. |
+15 | [@prashantvc](https://github.com/prashantvc)/[**SpecialCopy**](https://github.com/prashantvc/SpecialCopy) | Paste JSON as C# Classes |
+11 | [@prashantvc](https://github.com/prashantvc)/[**AndroidInAppBillingD…**](https://github.com/prashantvc/AndroidInAppBillingDemo) | In app billing demo with Xamarin.Android |
+5 | [@Vadi](https://github.com/Vadi)/[**Cedar**](https://github.com/Vadi/Cedar) | A scalable shard-based data store middleware |
+5 | [@mafiya69](https://github.com/mafiya69)/[**Credit**](https://github.com/mafiya69/Credit) | CreditSharp |
+5 | [@mafiya69](https://github.com/mafiya69)/[**SharpChat**](https://github.com/mafiya69/SharpChat) | A Simple Chat Program. |
+5 | [@goldytech](https://github.com/goldytech)/[**QTec-II**](https://github.com/goldytech/QTec-II) | A standard asp.net mvc project showcasing the best patterns and practices |
+5 | [@satish860](https://github.com/satish860)/[**RuleComposer**](https://github.com/satish860/RuleComposer) | Wrist Friendly Rule Engine for .net . |
+4 | [@rzee7](https://github.com/rzee7)/[**PRAPinnedListview**](https://github.com/rzee7/PRAPinnedListview) | Sticky Headres |
+4 | [@prashantvc](https://github.com/prashantvc)/[**FlatUI.iOS**](https://github.com/prashantvc/FlatUI.iOS) | A collection of flat UI controls for iOS. C# port of https://github.com/Grouper/FlatUIKit |
+4 | [@prashantvc](https://github.com/prashantvc)/[**Basic-Image-Editor**](https://github.com/prashantvc/Basic-Image-Editor) | This Android app shows the ability to adjust Contrast, Brightness and Saturation using the ColorMatrix and ColorMatrixFilters |
+3 | [@akhilmittal](https://github.com/akhilmittal)/[**CURD-operations-usin…**](https://github.com/akhilmittal/CURD-operations-using-AutoMapper-in-an-Asp.Net-MVC-application) | How to do custom mapping and entity to entity mapping with the help of AutoMapper. |
+3 | [@zoebchhatriwala](https://github.com/zoebchhatriwala)/[**zKeyLogger**](https://github.com/zoebchhatriwala/zKeyLogger) | Key Logging Application Developed in C# [for Educational Purpose]  |
+3 | [@mafiya69](https://github.com/mafiya69)/[**sharicles**](https://github.com/mafiya69/sharicles) | Learn Windows 10 App Development Here. |
+3 | [@zoebchhatriwala](https://github.com/zoebchhatriwala)/[**Zencryptor**](https://github.com/zoebchhatriwala/Zencryptor) | Text Encrypting Application Developed in C#  |
+3 | [@zoebchhatriwala](https://github.com/zoebchhatriwala)/[**WikiApp**](https://github.com/zoebchhatriwala/WikiApp) | Wikipedia Unofficial App Developed in C# |
+3 | [@zoebchhatriwala](https://github.com/zoebchhatriwala)/[**Regen-Windows-Phone-…**](https://github.com/zoebchhatriwala/Regen-Windows-Phone-App-) | Regen is a Regular Expression based Text|Password Generator Developed in C# |
+3 | [@zoebchhatriwala](https://github.com/zoebchhatriwala)/[**ICS-I-can-speak-**](https://github.com/zoebchhatriwala/ICS-I-can-speak-) | This Application Converts Your Input Text Into Speech. Developed For Windows Phone In C#. |
+3 | [@akhilmittal](https://github.com/akhilmittal)/[**AttributeRouting-in-…**](https://github.com/akhilmittal/AttributeRouting-in-WebAPI) | How to implement Attribute based Routing in Asp.net WebAPI using AttributeRouting library |
+2 | [@rzee7](https://github.com/rzee7)/[**PRAXamForms**](https://github.com/rzee7/PRAXamForms) | All functionality related to Json & Web API included  in this Xamarin Forms app :) |
+2 | [@amaneureka](https://github.com/amaneureka)/[**LunchTime**](https://github.com/amaneureka/LunchTime) | Few lines of code, which reduces huge tasks for me. |
+2 | [@sharat](https://github.com/sharat)/[**Winstagram**](https://github.com/sharat/Winstagram) | A simple WP7 Client for Instagram |
+2 | [@zoebchhatriwala](https://github.com/zoebchhatriwala)/[**WebCloud**](https://github.com/zoebchhatriwala/WebCloud) | An HTML Writer and Viewer Developed in C# |
+2 | [@zoebchhatriwala](https://github.com/zoebchhatriwala)/[**Multicopier**](https://github.com/zoebchhatriwala/Multicopier) | An Multi Copy Application Developed in C# |
+### CSS #
+:star2: | Name | Description | 🌍
+--- | --- | --- | ---
+206 | [@naveenshaji](https://github.com/naveenshaji)/[**material**](https://github.com/naveenshaji/material) | An HTML5 responsive template incorporating Google's Material Design Standards along with Jekyll -- Work in Progress -- | [:arrow_upper_right:](http://naveenshaji.github.io/material)
+4 | [@Ritvik1512](https://github.com/Ritvik1512)/[**AngArduino**](https://github.com/Ritvik1512/AngArduino) | Angular with Arduino. It's a pain. |
+4 | [@tapasweni-pathak](https://github.com/tapasweni-pathak)/[**No-Feed**](https://github.com/tapasweni-pathak/No-Feed) | :books: Chrome Extension which hides all your Facebook news feed. | [:arrow_upper_right:](http://tapasweni-pathak.github.io/No-Feed/)
+3 | [@tapasweni-pathak](https://github.com/tapasweni-pathak)/[**Help-The-Needy**](https://github.com/tapasweni-pathak/Help-The-Needy) | Nearby NGOs Finder. | [:arrow_upper_right:](https://help-the-needy.herokuapp.com/)
+3 | [@TrigonaMinima](https://github.com/TrigonaMinima)/[**TrigonaMinima.github…**](https://github.com/TrigonaMinima/TrigonaMinima.github.io) | My awesome blog! | [:arrow_upper_right:](TrigonaMinima.github.io)
+2 | [@CuriousLearner](https://github.com/CuriousLearner)/[**git-intro**](https://github.com/CuriousLearner/git-intro) | Learning version control with git | [:arrow_upper_right:](http://www.SanyamKhurana.com/git-intro)
+2 | [@joshpitzalis](https://github.com/joshpitzalis)/[**websites**](https://github.com/joshpitzalis/websites) | A simple landing page template | [:arrow_upper_right:](http://joshpitzalis.github.io/websites/)
+2 | [@astha](https://github.com/astha)/[**ConsumerConnect**](https://github.com/astha/ConsumerConnect) | A web interface to buy and sell services. |
+2 | [@tapasweni-pathak](https://github.com/tapasweni-pathak)/[**CodeBenders-IGDTU**](https://github.com/tapasweni-pathak/CodeBenders-IGDTU) | :computer: The programming club of IGDTUW. Aims at providing a platform for competitive programming under CodeChef. | [:arrow_upper_right:](http://tapasweni-pathak.github.io/CodeBenders-IGDTU/)
+2 | [@ayusharma](https://github.com/ayusharma)/[**MyFirstApp**](https://github.com/ayusharma/MyFirstApp) | How to code for  Firefox OS . | [:arrow_upper_right:](http://ayusharma.in/magicalstack/)
 
 ## :yum: How to contribute
 Have an idea? Found a bug? See [how to contribute][contributing].
