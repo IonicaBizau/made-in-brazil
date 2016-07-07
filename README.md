@@ -24,6 +24,7 @@
  - [Perl](#perl)
  - [PHP](#php)
  - [Python](#python)
+ - [R](#r)
 
 ### JavaScript #
 :star2: | Name | Description | 🌍
@@ -928,6 +929,19 @@
 2 | [@amitu](https://github.com/amitu)/[**dtwitter**](https://github.com/amitu/dtwitter) | Django App for Twitter Integration |
 2 | [@amitu](https://github.com/amitu)/[**django-encrypted-id**](https://github.com/amitu/django-encrypted-id) | Encrypted IDs for Django Models |
 2 | [@harshasrinivas](https://github.com/harshasrinivas)/[**pypi-check**](https://github.com/harshasrinivas/pypi-check) | PyPI module name availability checker |
+### R #
+:star2: | Name | Description | 🌍
+--- | --- | --- | ---
+14 | [@rohanrao91](https://github.com/rohanrao91)/[**Kaggle_TFI**](https://github.com/rohanrao91/Kaggle_TFI) | TFI competition on Kaggle | [:arrow_upper_right:](https://www.kaggle.com/c/restaurant-revenue-prediction)
+13 | [@adityashrm21](https://github.com/adityashrm21)/[**Bike-Sharing-Demand-…**](https://github.com/adityashrm21/Bike-Sharing-Demand---Kaggle) | Solutions to some Kaggle competitions |
+11 | [@rohanrao91](https://github.com/rohanrao91)/[**Kaggle_AirBnB**](https://github.com/rohanrao91/Kaggle_AirBnB) | AirBnB competition on Kaggle | [:arrow_upper_right:](https://www.kaggle.com/c/airbnb-recruiting-new-user-bookings)
+8 | [@rohanrao91](https://github.com/rohanrao91)/[**AnalyticsVidhya_Last…**](https://github.com/rohanrao91/AnalyticsVidhya_LastManStanding) | Last Man Standing competition on AnalyticsVidhya |
+6 | [@rohanrao91](https://github.com/rohanrao91)/[**AnalyticsVidhya_Seer…**](https://github.com/rohanrao91/AnalyticsVidhya_SeersAccuracy) | Seers Accuracy competition on Analytics Vidhya |
+6 | [@rohanrao91](https://github.com/rohanrao91)/[**AnalyticsVidhya_Blac…**](https://github.com/rohanrao91/AnalyticsVidhya_BlackFriday) | Black Friday Hackathon on AnalyticsVidhya |
+5 | [@bishwarup307](https://github.com/bishwarup307)/[**AV_Last_Man_Standing**](https://github.com/bishwarup307/AV_Last_Man_Standing) |  |
+5 | [@rohanrao91](https://github.com/rohanrao91)/[**Models_R**](https://github.com/rohanrao91/Models_R) | Cross-Validation functions for various models in R |
+3 | [@nishantsbi](https://github.com/nishantsbi)/[**R-Programming-Assign…**](https://github.com/nishantsbi/R-Programming-Assignment-3) | R-Programming Project 3 |
+2 | [@rohanrao91](https://github.com/rohanrao91)/[**DataProcessing_R**](https://github.com/rohanrao91/DataProcessing_R) | Standard data processing functions |
 
 ## :yum: How to contribute
 Have an idea? Found a bug? See [how to contribute][contributing].
