@@ -67,7 +67,8 @@
           "[ActionScript](#actionscript)",
           "[Clojure](#clojure)",
           "[Go](#go)",
-          "[Haskell](#haskell)"
+          "[Haskell](#haskell)",
+          "[Lua](#lua)"
         ]
       },
       {
@@ -3548,6 +3549,81 @@
               "2",
               "[@ajnsit](https://github.com/ajnsit)/[**dot.xmonad**](https://github.com/ajnsit/dot.xmonad)",
               "My XMonad configuration",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Lua #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "66",
+              "[@ROClientSide](https://github.com/ROClientSide)/[**Translation**](https://github.com/ROClientSide/Translation)",
+              "Ragnarok Online ClientSide Translation.",
+              ""
+            ],
+            [
+              "12",
+              "[@dufferzafar](https://github.com/dufferzafar)/[**Cmder**](https://github.com/dufferzafar/Cmder)",
+              "A fork of the Cmder Project - a terminal emulator package for Windows. Unmaintained.",
+              ""
+            ],
+            [
+              "11",
+              "[@SatheeshJM](https://github.com/SatheeshJM)/[**Lua-Preference-Libra…**](https://github.com/SatheeshJM/Lua-Preference-Library)",
+              "save and retrieve tables,numbers,strings or boolean",
+              ""
+            ],
+            [
+              "11",
+              "[@SatheeshJM](https://github.com/SatheeshJM)/[**Auto-Renewable-In-Ap…**](https://github.com/SatheeshJM/Auto-Renewable-In-App-Purchase-Validation-using-Corona-SDK)",
+              "Validating Auto-Renewable In-App purchases using Corona SDK",
+              ""
+            ],
+            [
+              "10",
+              "[@aliasgar84](https://github.com/aliasgar84)/[**Appirater**](https://github.com/aliasgar84/Appirater)",
+              "The famous Appirater is now ported for Corona SDK. Uses lua code.",
+              ""
+            ],
+            [
+              "5",
+              "[@edwynxero](https://github.com/edwynxero)/[**ensage-scripts**](https://github.com/edwynxero/ensage-scripts)",
+              "Lua scripts for Ensage",
+              ""
+            ],
+            [
+              "5",
+              "[@dufferzafar](https://github.com/dufferzafar)/[**Project-Euler-Soluti…**](https://github.com/dufferzafar/Project-Euler-Solutions)",
+              "Soultions of Project Euler Problems in Lua",
+              ""
+            ],
+            [
+              "5",
+              "[@dufferzafar](https://github.com/dufferzafar)/[**Lua-Scripts**](https://github.com/dufferzafar/Lua-Scripts)",
+              "A collection of libraries and functions for Lua.",
+              ""
+            ],
+            [
+              "4",
+              "[@SatheeshJM](https://github.com/SatheeshJM)/[**Amazon-SimpleDB-Modu…**](https://github.com/SatheeshJM/Amazon-SimpleDB-Module-for-Lua)",
+              "Amazon SimpleDB API for Corona SDK",
+              ""
+            ],
+            [
+              "4",
+              "[@SatheeshJM](https://github.com/SatheeshJM)/[**Ascii85-Encoding-in-…**](https://github.com/SatheeshJM/Ascii85-Encoding-in-Pure-Lua)",
+              "",
               ""
             ]
           ]
