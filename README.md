@@ -11,6 +11,7 @@
  - [Java](#java)
  - [C#](#c-1)
  - [CSS](#css)
+ - [HTML](#html)
 
 ### JavaScript #
 :star2: | Name | Description | 🌍
@@ -402,6 +403,17 @@
 2 | [@CuriousLearner](https://github.com/CuriousLearner)/[**git-intro**](https://github.com/CuriousLearner/git-intro) | Learning version control with git | [:arrow_upper_right:](http://www.SanyamKhurana.com/git-intro)
 2 | [@joshpitzalis](https://github.com/joshpitzalis)/[**websites**](https://github.com/joshpitzalis/websites) | A simple landing page template | [:arrow_upper_right:](http://joshpitzalis.github.io/websites/)
 2 | [@tapasweni-pathak](https://github.com/tapasweni-pathak)/[**CodeBenders-IGDTU**](https://github.com/tapasweni-pathak/CodeBenders-IGDTU) | :computer: The programming club of IGDTUW. Aims at providing a platform for competitive programming under CodeChef. | [:arrow_upper_right:](http://tapasweni-pathak.github.io/CodeBenders-IGDTU/)
+### HTML #
+:star2: | Name | Description | 🌍
+--- | --- | --- | ---
+41 | [@igneustech](https://github.com/igneustech)/[**html-exercise-file**](https://github.com/igneustech/html-exercise-file) | Exercise files for students of HTML leaning class |
+8 | [@ansarimofid](https://github.com/ansarimofid)/[**blog-iiitv**](https://github.com/ansarimofid/blog-iiitv) |  |
+4 | [@shipra1509](https://github.com/shipra1509)/[**PSD**](https://github.com/shipra1509/PSD) |  |
+3 | [@ansarimofid](https://github.com/ansarimofid)/[**portfolio**](https://github.com/ansarimofid/portfolio) |  |
+2 | [@copygift](https://github.com/copygift)/[**copygift.github.io**](https://github.com/copygift/copygift.github.io) | The official project website | [:arrow_upper_right:](https://copygift.github.io)
+2 | [@shipra1509](https://github.com/shipra1509)/[**shipra1509.github.io**](https://github.com/shipra1509/shipra1509.github.io) |  |
+2 | [@salman-bhai](https://github.com/salman-bhai)/[**HandCricket**](https://github.com/salman-bhai/HandCricket) | This is a game of hand cricket that is played against a computer opponent. |
+2 | [@salman-bhai](https://github.com/salman-bhai)/[**salman-bhai.github.i…**](https://github.com/salman-bhai/salman-bhai.github.io) | My Personal Website - Find who I am over here |
 
 ## :yum: How to contribute
 Have an idea? Found a bug? See [how to contribute][contributing].
