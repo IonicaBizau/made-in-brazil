@@ -61,7 +61,8 @@
           "[Java](#java)",
           "[C#](#c-1)",
           "[CSS](#css)",
-          "[HTML](#html)"
+          "[HTML](#html)",
+          "[C](undefined)"
         ]
       },
       {
@@ -2451,6 +2452,285 @@
               "[@salman-bhai](https://github.com/salman-bhai)/[**salman-bhai.github.i…**](https://github.com/salman-bhai/salman-bhai.github.io)",
               "My Personal Website - Find who I am over here",
               ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "C #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "168",
+              "[@jarun](https://github.com/jarun)/[**keysniffer**](https://github.com/jarun/keysniffer)",
+              "Linux kernel module to log pressed keys in debugfs",
+              ""
+            ],
+            [
+              "52",
+              "[@championswimmer](https://github.com/championswimmer)/[**kernel-tools**](https://github.com/championswimmer/kernel-tools)",
+              "tools to tinker with kernels and ramdisks and bootsplash images",
+              ""
+            ],
+            [
+              "24",
+              "[@ankurs](https://github.com/ankurs)/[**Hash-Table**](https://github.com/ankurs/Hash-Table)",
+              "simple implementation of a hash table",
+              ""
+            ],
+            [
+              "22",
+              "[@AdiPat](https://github.com/AdiPat)/[**Android_Toolchains**](https://github.com/AdiPat/Android_Toolchains)",
+              "This repository contains ARM EABI Toolchains for Android.",
+              ""
+            ],
+            [
+              "17",
+              "[@jarun](https://github.com/jarun)/[**dslib**](https://github.com/jarun/dslib)",
+              "Academic C data structures library growing on itself",
+              ""
+            ],
+            [
+              "15",
+              "[@ashwinr64](https://github.com/ashwinr64)/[**android_device_onepl…**](https://github.com/ashwinr64/android_device_oneplus_onyx)",
+              "",
+              ""
+            ],
+            [
+              "14",
+              "[@abhishek-kakkar](https://github.com/abhishek-kakkar)/[**STM32F4Player**](https://github.com/abhishek-kakkar/STM32F4Player)",
+              "The demo implements a GUI demo on a 2.4\" LCD with the STM32F4-Discovery board. Also included is a simple drawing application and wave player.",
+              ""
+            ],
+            [
+              "13",
+              "[@ankurs](https://github.com/ankurs)/[**Poll-Event**](https://github.com/ankurs/Poll-Event)",
+              "a simple epoll wrapper",
+              ""
+            ],
+            [
+              "11",
+              "[@dhiru1602](https://github.com/dhiru1602)/[**android_kernel_samsu…**](https://github.com/dhiru1602/android_kernel_samsung_latona)",
+              "3.0.y OMAP3 Kernel for Samsung Galaxy SL (I9003)",
+              ""
+            ],
+            [
+              "8",
+              "[@ankurs](https://github.com/ankurs)/[**TIK**](https://github.com/ankurs/TIK)",
+              "TIK Is Kernel - a small hobby kernel",
+              "[:arrow_upper_right:](http://tik.ankurs.com)"
+            ],
+            [
+              "8",
+              "[@percy-g2](https://github.com/percy-g2)/[**android_kernel_motor…**](https://github.com/percy-g2/android_kernel_motorola_msm8610)",
+              "",
+              ""
+            ],
+            [
+              "8",
+              "[@sakindia123](https://github.com/sakindia123)/[**android_kernel_htc_p…**](https://github.com/sakindia123/android_kernel_htc_pico)",
+              "Linux Kernel 3.0.101 for HTC Explorer(Stable)",
+              ""
+            ],
+            [
+              "7",
+              "[@ashwinr64](https://github.com/ashwinr64)/[**android_kernel_onepl…**](https://github.com/ashwinr64/android_kernel_oneplus_onyx)",
+              "",
+              ""
+            ],
+            [
+              "6",
+              "[@jarun](https://github.com/jarun)/[**lsstack64**](https://github.com/jarun/lsstack64)",
+              "Trace process execution stack on Linux x86_64",
+              ""
+            ],
+            [
+              "6",
+              "[@percy-g2](https://github.com/percy-g2)/[**GNU-kernel**](https://github.com/percy-g2/GNU-kernel)",
+              "GNU kernel for samsung galaxy y (GT-S5360)",
+              ""
+            ],
+            [
+              "6",
+              "[@vivekp](https://github.com/vivekp)/[**minix-nbsd**](https://github.com/vivekp/minix-nbsd)",
+              "GSoC project for porting NetBSD userland to MINIX3",
+              "[:arrow_upper_right:](http://www.minix3.org/)"
+            ],
+            [
+              "5",
+              "[@CallMeAldy](https://github.com/CallMeAldy)/[**AK-Mako**](https://github.com/CallMeAldy/AK-Mako)",
+              "",
+              ""
+            ],
+            [
+              "5",
+              "[@CallMeAldy](https://github.com/CallMeAldy)/[**kernel_lge_mako**](https://github.com/CallMeAldy/kernel_lge_mako)",
+              "Unofficial Marshmallow Kernel for Nexus 4 (MAKO)",
+              ""
+            ],
+            [
+              "5",
+              "[@vivekp](https://github.com/vivekp)/[**C-Network-Programmin…**](https://github.com/vivekp/C-Network-Programming)",
+              "Network programming done in course works !",
+              ""
+            ],
+            [
+              "4",
+              "[@sakindia123](https://github.com/sakindia123)/[**kernel-htc-pico**](https://github.com/sakindia123/kernel-htc-pico)",
+              "Cranium Kernel for Htc Explorer/Pico (MSM7227A)",
+              ""
+            ],
+            [
+              "4",
+              "[@prashants](https://github.com/prashants)/[**comedi**](https://github.com/prashants/comedi)",
+              "Dynalog comedi drivers",
+              ""
+            ],
+            [
+              "4",
+              "[@narendraj9](https://github.com/narendraj9)/[**recoSpeech**](https://github.com/narendraj9/recoSpeech)",
+              "speech recognition for controlling an mbed robot. Uses CMU pocketsphinx.",
+              "[:arrow_upper_right:](https://mbed.org/users/narendraj9/)"
+            ],
+            [
+              "3",
+              "[@AdiPat](https://github.com/AdiPat)/[**i9003_Kernel**](https://github.com/AdiPat/i9003_Kernel)",
+              "Galaxy SL i9003 TitaniumS kernel",
+              ""
+            ],
+            [
+              "3",
+              "[@sakindia123](https://github.com/sakindia123)/[**Cranium_I927**](https://github.com/sakindia123/Cranium_I927)",
+              "Cranium Kernel for Samsung Captivate Glide i927/i927r",
+              "[:arrow_upper_right:](http://forum.xda-developers.com/showthread.php?t=1460081)"
+            ],
+            [
+              "3",
+              "[@sakindia123](https://github.com/sakindia123)/[**kernel_i9100G**](https://github.com/sakindia123/kernel_i9100G)",
+              "Cranium Kernel For Samsung Galaxy S2 GT-I9100G with TI OMAP4430",
+              "[:arrow_upper_right:](http://forum.xda-developers.com/showthread.php?t=1565218)"
+            ],
+            [
+              "3",
+              "[@ashwinr64](https://github.com/ashwinr64)/[**furnace-condor**](https://github.com/ashwinr64/furnace-condor)",
+              "Linux Kernel for Motorola Moto E (condor)",
+              ""
+            ],
+            [
+              "3",
+              "[@prashants](https://github.com/prashants)/[**km**](https://github.com/prashants/km)",
+              "Sample Linux kernel modules",
+              ""
+            ],
+            [
+              "3",
+              "[@ashwinr64](https://github.com/ashwinr64)/[**android_device_alcat…**](https://github.com/ashwinr64/android_device_alcatel_idol355)",
+              "Idol 3 5.5",
+              ""
+            ],
+            [
+              "3",
+              "[@percy-g2](https://github.com/percy-g2)/[**android_device_sony_…**](https://github.com/percy-g2/android_device_sony_nypon)",
+              "cm10.1 for xperia P",
+              ""
+            ],
+            [
+              "3",
+              "[@dhiru1602](https://github.com/dhiru1602)/[**android_device_lge_u…**](https://github.com/dhiru1602/android_device_lge_u2-common)",
+              "Common Device tree for U2 Optimus L9 Devices.",
+              ""
+            ],
+            [
+              "2",
+              "[@chirayudesai](https://github.com/chirayudesai)/[**android_bootable_boo…**](https://github.com/chirayudesai/android_bootable_bootloader_lk)",
+              "Little Kernel Bootloader",
+              ""
+            ],
+            [
+              "2",
+              "[@electronut](https://github.com/electronut)/[**nRF51-pwm-test**](https://github.com/electronut/nRF51-pwm-test)",
+              "A simple example that demonstrates PWM, GPIOTE events, and NUS (Nordic UART Service) using the S110 softdevice on the nRF51-DK.",
+              ""
+            ],
+            [
+              "2",
+              "[@eyantra](https://github.com/eyantra)/[**Experiment**](https://github.com/eyantra/Experiment)",
+              "This folder contains experiments to be performed on Firebird-V",
+              ""
+            ],
+            [
+              "2",
+              "[@abhishek-kakkar](https://github.com/abhishek-kakkar)/[**STM32F4SDIOAudio**](https://github.com/abhishek-kakkar/STM32F4SDIOAudio)",
+              "SDIO card interfacing and audio playback with the F4 Discovery board after hardware modifications.",
+              "[:arrow_upper_right:](http://www.youtube.com/watch?v=S4L9t4TpSYM)"
+            ],
+            [
+              "2",
+              "[@sakindia123](https://github.com/sakindia123)/[**android_kernel_samsu…**](https://github.com/sakindia123/android_kernel_samsung_j700F)",
+              "Custom Kernel for Samsung Galaxy J7",
+              "[:arrow_upper_right:](http://forum.xda-developers.com/android/development/kernel-custom-kernel-v1-0-samsung-t3246209)"
+            ],
+            [
+              "2",
+              "[@ashwinr64](https://github.com/ashwinr64)/[**android_device_alcat…**](https://github.com/ashwinr64/android_device_alcatel_idol347)",
+              "Device Tree for Idol 4.7",
+              ""
+            ],
+            [
+              "2",
+              "[@charulagrl](https://github.com/charulagrl)/[**cs50-pset4**](https://github.com/charulagrl/cs50-pset4)",
+              "Problem Set 4: Forensics",
+              ""
+            ],
+            [
+              "2",
+              "[@chirayudesai](https://github.com/chirayudesai)/[**android_kernel_goldf…**](https://github.com/chirayudesai/android_kernel_goldfish)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@AdiPat](https://github.com/AdiPat)/[**android_kernel_htc_p…**](https://github.com/AdiPat/android_kernel_htc_pico)",
+              "HTC Explorer/Pico Kernel source ",
+              ""
+            ],
+            [
+              "2",
+              "[@dhiru1602](https://github.com/dhiru1602)/[**android_device_lge_p…**](https://github.com/dhiru1602/android_device_lge_p768)",
+              "Device Tree for LG Optimus L9 P768.",
+              ""
+            ],
+            [
+              "2",
+              "[@dhiru1602](https://github.com/dhiru1602)/[**android_device_lge_p…**](https://github.com/dhiru1602/android_device_lge_p765)",
+              "Device Tree for LG Optimus L9 P765.",
+              ""
+            ],
+            [
+              "2",
+              "[@AdiPat](https://github.com/AdiPat)/[**android_kernel_tegra…**](https://github.com/AdiPat/android_kernel_tegra_n1)",
+              "Samsung Galaxy R GT-I9103 Sources ",
+              ""
+            ],
+            [
+              "2",
+              "[@dhiru1602](https://github.com/dhiru1602)/[**android_device_lge_p…**](https://github.com/dhiru1602/android_device_lge_p760)",
+              "Device Tree for LG Optimus L9 P760.",
+              ""
+            ],
+            [
+              "2",
+              "[@ankurs](https://github.com/ankurs)/[**HttpServe**](https://github.com/ankurs/HttpServe)",
+              "Implementation of a Libevent based web server in C",
+              "[:arrow_upper_right:](http://ankurs.com)"
             ]
           ]
         }
