@@ -63,7 +63,8 @@
           "[CSS](#css)",
           "[HTML](#html)",
           "[C](undefined)",
-          "[C++](#c-2)"
+          "[C++](#c-2)",
+          "[ActionScript](#actionscript)"
         ]
       },
       {
@@ -2897,6 +2898,81 @@
               "[@nevinvalsaraj](https://github.com/nevinvalsaraj)/[**image-processing-ope…**](https://github.com/nevinvalsaraj/image-processing-opencv)",
               "Image Processing using OpenCV 2.4.6",
               ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "ActionScript #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "165",
+              "[@hsharma](https://github.com/hsharma)/[**Hungry-Hero**](https://github.com/hsharma/Hungry-Hero)",
+              "Hungry Hero is an open source Flash game built on Starling Framework.",
+              "[:arrow_upper_right:](http://www.hungryherogame.com)"
+            ],
+            [
+              "15",
+              "[@hegdemahesh](https://github.com/hegdemahesh)/[**hanuman**](https://github.com/hegdemahesh/hanuman)",
+              "A sample game built on starling and nape",
+              ""
+            ],
+            [
+              "8",
+              "[@circuitvalley](https://github.com/circuitvalley)/[**IR-Remote-Control**](https://github.com/circuitvalley/IR-Remote-Control)",
+              "",
+              ""
+            ],
+            [
+              "4",
+              "[@HKDev](https://github.com/HKDev)/[**Platformer**](https://github.com/HKDev/Platformer)",
+              "Platform game using Flixel engine. ",
+              ""
+            ],
+            [
+              "4",
+              "[@nsdevaraj](https://github.com/nsdevaraj)/[**SwizDAO**](https://github.com/nsdevaraj/SwizDAO)",
+              "Built an AS3 Project to Work with GenericDAO using Swiz and AS3Signals  The project was inspired by Java Spring Framework: IBM Generic Dao  The project uses the benefits of DI provided by Swiz 1.0. The Deferred Instantiation of Swiz builds DAO Object only when [Inject] keyword is used.  Also, uses the latest Spark SkinnableComponent Framework for the View Part with passive view..",
+              "[:arrow_upper_right:](http://nsdevaraj.wordpress.com/2010/05/11/generic-dao-in-as3/)"
+            ],
+            [
+              "3",
+              "[@nsdevaraj](https://github.com/nsdevaraj)/[**FaceDetect**](https://github.com/nsdevaraj/FaceDetect)",
+              "Live FaceDetection",
+              ""
+            ],
+            [
+              "2",
+              "[@riaxe](https://github.com/riaxe)/[**Screenshot-ANE-Mac**](https://github.com/riaxe/Screenshot-ANE-Mac)",
+              "Adobe AIR Native Extension for generating screenshot in Mac OSX.",
+              ""
+            ],
+            [
+              "2",
+              "[@nsdevaraj](https://github.com/nsdevaraj)/[**Room**](https://github.com/nsdevaraj/Room)",
+              "3D Room in Away3D",
+              ""
+            ],
+            [
+              "2",
+              "[@nsdevaraj](https://github.com/nsdevaraj)/[**FlexMock**](https://github.com/nsdevaraj/FlexMock)",
+              "Mock Exam helping the preparation of ACE",
+              "[:arrow_upper_right:](http://nsdevaraj.wordpress.com/)"
+            ],
+            [
+              "2",
+              "[@nsdevaraj](https://github.com/nsdevaraj)/[**Universal-Currency**](https://github.com/nsdevaraj/Universal-Currency)",
+              "Currency Converter, Swiz Framework for Mobile development (using SwizDAO for HTTPService)",
+              "[:arrow_upper_right:](http://nsdevaraj.wordpress.com/)"
             ]
           ]
         }
