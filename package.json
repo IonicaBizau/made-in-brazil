@@ -62,7 +62,8 @@
           "[C#](#c-1)",
           "[CSS](#css)",
           "[HTML](#html)",
-          "[C](undefined)"
+          "[C](undefined)",
+          "[C++](#c-2)"
         ]
       },
       {
@@ -2731,6 +2732,171 @@
               "[@ankurs](https://github.com/ankurs)/[**HttpServe**](https://github.com/ankurs/HttpServe)",
               "Implementation of a Libevent based web server in C",
               "[:arrow_upper_right:](http://ankurs.com)"
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "C++ #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "47",
+              "[@kartikkukreja](https://github.com/kartikkukreja)/[**blog-codes**](https://github.com/kartikkukreja/blog-codes)",
+              "This is a repository for the codes that I write for my blog posts at http://kartikkukreja.wordpress.com.",
+              ""
+            ],
+            [
+              "40",
+              "[@ashkulz](https://github.com/ashkulz)/[**NppFTP**](https://github.com/ashkulz/NppFTP)",
+              "Plugin for Notepad++ allowing FTP, FTPS, FTPES and SFTP communications",
+              "[:arrow_upper_right:](http://ashkulz.github.io/NppFTP/)"
+            ],
+            [
+              "33",
+              "[@jaybosamiya](https://github.com/jaybosamiya)/[**chaos-game**](https://github.com/jaybosamiya/chaos-game)",
+              ":collision: Play the chaos game to create amazing fractal images",
+              ""
+            ],
+            [
+              "13",
+              "[@jaybosamiya](https://github.com/jaybosamiya)/[**network-protocol-sim…**](https://github.com/jaybosamiya/network-protocol-simulations)",
+              ":wrench: Simulations of Stop-and-Wait, Go-Back-N, Selective-Repeat",
+              ""
+            ],
+            [
+              "10",
+              "[@jaybosamiya](https://github.com/jaybosamiya)/[**CryptoGuy**](https://github.com/jaybosamiya/CryptoGuy)",
+              ":tophat: CryptoGuy is a tool usefull to find out various decryptions of a string",
+              ""
+            ],
+            [
+              "6",
+              "[@jaybosamiya](https://github.com/jaybosamiya)/[**triangulate-tool**](https://github.com/jaybosamiya/triangulate-tool)",
+              " :triangular_ruler: Easily convert any image into low-poly art in just a few clicks",
+              ""
+            ],
+            [
+              "6",
+              "[@utrade](https://github.com/utrade)/[**muTradeApi**](https://github.com/utrade/muTradeApi)",
+              "",
+              ""
+            ],
+            [
+              "4",
+              "[@salil93](https://github.com/salil93)/[**Sudoku-Grabber**](https://github.com/salil93/Sudoku-Grabber)",
+              "",
+              ""
+            ],
+            [
+              "4",
+              "[@indradhanush](https://github.com/indradhanush)/[**Multiplayer-tic-tac-…**](https://github.com/indradhanush/Multiplayer-tic-tac-toe)",
+              "A Multiplayer Tic-Tac-Toe game written in C++ based on the client-server model using the basics of socket programming.",
+              ""
+            ],
+            [
+              "3",
+              "[@pakhandi](https://github.com/pakhandi)/[**Spoj**](https://github.com/pakhandi/Spoj)",
+              "Solutions to some problems on SPOJ",
+              ""
+            ],
+            [
+              "3",
+              "[@shubhamchaudhary](https://github.com/shubhamchaudhary)/[**qmpris**](https://github.com/shubhamchaudhary/qmpris)",
+              "Creating QMpris library",
+              ""
+            ],
+            [
+              "3",
+              "[@waseem18](https://github.com/waseem18)/[**SPOJ-Solutions**](https://github.com/waseem18/SPOJ-Solutions)",
+              "My solutions to the SPOJ problems.",
+              ""
+            ],
+            [
+              "3",
+              "[@pakhandi](https://github.com/pakhandi)/[**UVA**](https://github.com/pakhandi/UVA)",
+              "solutions to some UVA problems",
+              ""
+            ],
+            [
+              "3",
+              "[@rhnvrm](https://github.com/rhnvrm)/[**brick_game**](https://github.com/rhnvrm/brick_game)",
+              ":space_invader: A classic game written in Turbo C++ | Highschool Project",
+              ""
+            ],
+            [
+              "3",
+              "[@shubhamchaudhary](https://github.com/shubhamchaudhary)/[**uiet**](https://github.com/shubhamchaudhary/uiet)",
+              "Everything I did in UIET College Labs",
+              ""
+            ],
+            [
+              "3",
+              "[@viranch](https://github.com/viranch)/[**textin**](https://github.com/viranch/textin)",
+              "Small Qt based tool to send SMS (across India only) through Way2SMS account.",
+              ""
+            ],
+            [
+              "3",
+              "[@ankeshanand](https://github.com/ankeshanand)/[**auv-simulator**](https://github.com/ankeshanand/auv-simulator)",
+              "Simulates the working environment for Kraken-our Autonomous Underwater Vehicle.",
+              ""
+            ],
+            [
+              "3",
+              "[@pakhandi](https://github.com/pakhandi)/[**CODECHEF**](https://github.com/pakhandi/CODECHEF)",
+              "Code",
+              ""
+            ],
+            [
+              "3",
+              "[@utrade](https://github.com/utrade)/[**ecl**](https://github.com/utrade/ecl)",
+              "Exchange Connectivity Layer",
+              ""
+            ],
+            [
+              "2",
+              "[@viranch](https://github.com/viranch)/[**clipboard**](https://github.com/viranch/clipboard)",
+              "A small tool to share clipboard contents with peers on local network.",
+              ""
+            ],
+            [
+              "2",
+              "[@viranch](https://github.com/viranch)/[**ip-monitor-kde-plasm…**](https://github.com/viranch/ip-monitor-kde-plasmoid)",
+              "A KDE plasmoid that simply lists and shows the IPv4 addresses of the various network interfaces available on the system",
+              ""
+            ],
+            [
+              "2",
+              "[@rhnvrm](https://github.com/rhnvrm)/[**chat-server**](https://github.com/rhnvrm/chat-server)",
+              "A simple chat server using boost libraries.",
+              ""
+            ],
+            [
+              "2",
+              "[@utrade](https://github.com/utrade)/[**marketDataDispatcher**](https://github.com/utrade/marketDataDispatcher)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@aapav01](https://github.com/aapav01)/[**android_hardware_sam…**](https://github.com/aapav01/android_hardware_samsung_slsi-cm_exynos_libcamera)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@nevinvalsaraj](https://github.com/nevinvalsaraj)/[**image-processing-ope…**](https://github.com/nevinvalsaraj/image-processing-opencv)",
+              "Image Processing using OpenCV 2.4.6",
+              ""
             ]
           ]
         }
