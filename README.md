@@ -11,6 +11,7 @@
  - [Java](#java)
  - [C#](#c-1)
  - [CSS](#css)
+ - [HTML](#html)
 
 ### JavaScript #
 :star2: | Name | Description | 🌍
@@ -402,6 +403,17 @@
 2 | [@astha](https://github.com/astha)/[**ConsumerConnect**](https://github.com/astha/ConsumerConnect) | A web interface to buy and sell services. |
 2 | [@tapasweni-pathak](https://github.com/tapasweni-pathak)/[**CodeBenders-IGDTU**](https://github.com/tapasweni-pathak/CodeBenders-IGDTU) | :computer: The programming club of IGDTUW. Aims at providing a platform for competitive programming under CodeChef. | [:arrow_upper_right:](http://tapasweni-pathak.github.io/CodeBenders-IGDTU/)
 2 | [@ayusharma](https://github.com/ayusharma)/[**MyFirstApp**](https://github.com/ayusharma/MyFirstApp) | How to code for  Firefox OS . | [:arrow_upper_right:](http://ayusharma.in/magicalstack/)
+### HTML #
+:star2: | Name | Description | 🌍
+--- | --- | --- | ---
+41 | [@igneustech](https://github.com/igneustech)/[**html-exercise-file**](https://github.com/igneustech/html-exercise-file) | Exercise files for students of HTML leaning class |
+8 | [@ansarimofid](https://github.com/ansarimofid)/[**blog-iiitv**](https://github.com/ansarimofid/blog-iiitv) |  |
+4 | [@shipra1509](https://github.com/shipra1509)/[**PSD**](https://github.com/shipra1509/PSD) |  |
+3 | [@ansarimofid](https://github.com/ansarimofid)/[**portfolio**](https://github.com/ansarimofid/portfolio) |  |
+2 | [@copygift](https://github.com/copygift)/[**copygift.github.io**](https://github.com/copygift/copygift.github.io) | The official project website | [:arrow_upper_right:](https://copygift.github.io)
+2 | [@salman-bhai](https://github.com/salman-bhai)/[**HandCricket**](https://github.com/salman-bhai/HandCricket) | This is a game of hand cricket that is played against a computer opponent. |
+2 | [@salman-bhai](https://github.com/salman-bhai)/[**salman-bhai.github.i…**](https://github.com/salman-bhai/salman-bhai.github.io) | My Personal Website - Find who I am over here |
+2 | [@shipra1509](https://github.com/shipra1509)/[**shipra1509.github.io**](https://github.com/shipra1509/shipra1509.github.io) |  |
 
 ## :yum: How to contribute
 Have an idea? Found a bug? See [how to contribute][contributing].
