@@ -78,7 +78,8 @@
           "[Ruby](#ruby)",
           "[Scala](#scala)",
           "[Shell](#shell)",
-          "[Swift](#swift)"
+          "[Swift](#swift)",
+          "[TeX](#tex)"
         ]
       },
       {
@@ -6376,6 +6377,33 @@
               "2",
               "[@abdullah-chhatra](https://github.com/abdullah-chhatra)/[**iLayout**](https://github.com/abdullah-chhatra/iLayout)",
               "Framework with high level and intuitive methods to write Auto Layout constraints",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "TeX #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "4",
+              "[@dasarpmar](https://github.com/dasarpmar)/[**lowerbounds-survey**](https://github.com/dasarpmar/lowerbounds-survey)",
+              "A survey of known lower bounds in arithmetic circuits. ",
+              ""
+            ],
+            [
+              "2",
+              "[@santhosbaala](https://github.com/santhosbaala)/[**vitmsprojectreport**](https://github.com/santhosbaala/vitmsprojectreport)",
+              "A LaTeX template for MS Software Engineering final year project report",
               ""
             ]
           ]

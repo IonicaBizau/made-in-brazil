@@ -29,6 +29,7 @@
  - [Scala](#scala)
  - [Shell](#shell)
  - [Swift](#swift)
+ - [TeX](#tex)
 
 ### JavaScript #
 :star2: | Name | Description | 🌍
@@ -1091,6 +1092,11 @@
 2 | [@iappvk](https://github.com/iappvk)/[**TableView-Swift**](https://github.com/iappvk/TableView-Swift) |  |
 2 | [@vishnupillai9](https://github.com/vishnupillai9)/[**F1nfo**](https://github.com/vishnupillai9/F1nfo) | iOS app that lets users follow their favorite drivers and the latest standings and schedule for the current Formula One season. |
 2 | [@abdullah-chhatra](https://github.com/abdullah-chhatra)/[**iLayout**](https://github.com/abdullah-chhatra/iLayout) | Framework with high level and intuitive methods to write Auto Layout constraints |
+### TeX #
+:star2: | Name | Description | 🌍
+--- | --- | --- | ---
+4 | [@dasarpmar](https://github.com/dasarpmar)/[**lowerbounds-survey**](https://github.com/dasarpmar/lowerbounds-survey) | A survey of known lower bounds in arithmetic circuits.  |
+2 | [@santhosbaala](https://github.com/santhosbaala)/[**vitmsprojectreport**](https://github.com/santhosbaala/vitmsprojectreport) | A LaTeX template for MS Software Engineering final year project report |
 
 ## :yum: How to contribute
 Have an idea? Found a bug? See [how to contribute][contributing].
