@@ -16,6 +16,7 @@
  - [C++](#c-2)
  - [ActionScript](#actionscript)
  - [Clojure](#clojure)
+ - [Go](#go)
 
 ### JavaScript #
 :star2: | Name | Description | 🌍
@@ -562,6 +563,24 @@
 2 | [@kumarshantanu](https://github.com/kumarshantanu)/[**ide-files**](https://github.com/kumarshantanu/ide-files) | DEPCRATED. Leiningen template to generate IDE files for existing projects. Superseded by the lein-idefiles plugin. | [:arrow_upper_right:](https://github.com/kumarshantanu/lein-idefiles)
 2 | [@gowda](https://github.com/gowda)/[**tomcat-example**](https://github.com/gowda/tomcat-example) | A simple web application built using noir to be deployed using tomcat application server |
 2 | [@kumarshantanu](https://github.com/kumarshantanu)/[**ring-jdbc-session**](https://github.com/kumarshantanu/ring-jdbc-session) | JDBC based HTTP session store for Ring (Clojure) |
+### Go #
+:star2: | Name | Description | 🌍
+--- | --- | --- | ---
+89 | [@cskr](https://github.com/cskr)/[**pubsub**](https://github.com/cskr/pubsub) | A simple pubsub package for go. |
+51 | [@cbonello](https://github.com/cbonello)/[**revel-csrf**](https://github.com/cbonello/revel-csrf) | CSRF prevention for Revel framework. |
+20 | [@cskr](https://github.com/cskr)/[**gorepos**](https://github.com/cskr/gorepos) | A tool to help 'go get' private packages |
+15 | [@adnaan](https://github.com/adnaan)/[**gomobileandroidgradl…**](https://github.com/adnaan/gomobileandroidgradle) | A sample Android Studio project integrated with Go's NativeActivity lib. |
+6 | [@biswarupadhikari](https://github.com/biswarupadhikari)/[**gomysql**](https://github.com/biswarupadhikari/gomysql) | GoMysql is a Google Go Language Based Database Wraper.Using this Package you can easily intract with mysql database from Go lang. |
+6 | [@teamldcs](https://github.com/teamldcs)/[**sflag**](https://github.com/teamldcs/sflag) | cmdLine args parser |
+6 | [@uttamgandhi24](https://github.com/uttamgandhi24)/[**pre-sales-huddle-web…**](https://github.com/uttamgandhi24/pre-sales-huddle-webservice) | A golang webservice with mongoDB database |
+4 | [@adnaan](https://github.com/adnaan)/[**hapreload**](https://github.com/adnaan/hapreload) | A simple tool to add rules to haproxy.cfg and reload the Haproxy container. |
+4 | [@psankar](https://github.com/psankar)/[**korkai**](https://github.com/psankar/korkai) | A corpus builder for Tamil by analyzing wordpress, blogger, wikipedia dumps |
+3 | [@uttamgandhi24](https://github.com/uttamgandhi24)/[**expenseManager**](https://github.com/uttamgandhi24/expenseManager) | webservice in go with mongoDB database |
+2 | [@psankar](https://github.com/psankar)/[**kuvalai**](https://github.com/psankar/kuvalai) | A multi-language developer-focused slideshow tool to teach Programming languages, inspired by Go Tour |
+2 | [@psankar](https://github.com/psankar)/[**keeri**](https://github.com/psankar/keeri) |  |
+2 | [@cskr](https://github.com/cskr)/[**jsoncast**](https://github.com/cskr/jsoncast) | A Go library to read arbitrary JSON |
+2 | [@cbonello](https://github.com/cbonello)/[**gp-config**](https://github.com/cbonello/gp-config) | Configuration file parser for golang. |
+2 | [@rabeesh](https://github.com/rabeesh)/[**negroni-nocache**](https://github.com/rabeesh/negroni-nocache) | No cache negroni middleware |
 
 ## :yum: How to contribute
 Have an idea? Found a bug? See [how to contribute][contributing].
