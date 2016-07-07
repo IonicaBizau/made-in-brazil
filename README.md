@@ -22,6 +22,7 @@
  - [Matlab](#matlab)
  - [Objective-C](#objective-c)
  - [Perl](#perl)
+ - [PHP](#php)
 
 ### JavaScript #
 :star2: | Name | Description | 🌍
@@ -711,6 +712,66 @@
 2 | [@dipanjanS](https://github.com/dipanjanS)/[**Temperature-Aware-Li…**](https://github.com/dipanjanS/Temperature-Aware-Linux) | A temperature-aware application for creating a temperature-aware variant of the linux OS |
 2 | [@ppant](https://github.com/ppant)/[**perl-csp**](https://github.com/ppant/perl-csp) | Perl implementation of Constraint Satisfaction Problem (CSP) Algorithms | [:arrow_upper_right:](http://pradeeppant.com)
 2 | [@sitaramc](https://github.com/sitaramc)/[**hashlite**](https://github.com/sitaramc/hashlite) | Store and retrieve small amounts of data from perl or shell.  Think "git config" in some ways, but different.  Uses Sqlite3. |
+### PHP #
+:star2: | Name | Description | 🌍
+--- | --- | --- | ---
+65 | [@kayalshri](https://github.com/kayalshri)/[**socialmedia-oauth-lo…**](https://github.com/kayalshri/socialmedia-oauth-login) | SocialMedia sites login by using oauth connect |
+35 | [@rishabhp](https://github.com/rishabhp)/[**mentions**](https://github.com/rishabhp/mentions) | Check Social mentions count for a particular URL or all URLs from RSS feeds. | [:arrow_upper_right:](http://mentions.in)
+28 | [@shivamdixit](https://github.com/shivamdixit)/[**WebGoatPHP**](https://github.com/shivamdixit/WebGoatPHP) | WebGoatPHP is a port of WebGoat to PHP and MySQL/SQLite databases.  | [:arrow_upper_right:](http://webgoatphp.com/)
+27 | [@xaneem](https://github.com/xaneem)/[**flipkart-api-php**](https://github.com/xaneem/flipkart-api-php) | A simple PHP wrapper for the official Flipkart API |
+16 | [@kayalshri](https://github.com/kayalshri)/[**oauthlogin**](https://github.com/kayalshri/oauthlogin) | oauth login for famous social media apps |
+15 | [@sudar](https://github.com/sudar)/[**rolopress-core**](https://github.com/sudar/rolopress-core) | Open Source Contact Manager built on top of WordPress. Rolopress core theme | [:arrow_upper_right:](http://www.rolopress.com)
+15 | [@skbly7](https://github.com/skbly7)/[**codechef-ranking**](https://github.com/skbly7/codechef-ranking) | The full code of Codechef Ranking which ismade to provide all the features one need to know about other programmers of their college. This site is an initiative to increase number of active codechef users from all the colleges in India. | [:arrow_upper_right:](http://www.okrdx.com)
+13 | [@mauryaratan](https://github.com/mauryaratan)/[**stagtools**](https://github.com/mauryaratan/stagtools) | StagTools is a powerful plugin to extend functionality to your WordPress themes offering shortcodes, FontAwesome icons and useful widgets. | [:arrow_upper_right:](https://wordpress.org/plugins/stagtools/)
+12 | [@rishirdua](https://github.com/rishirdua)/[**commerce-ccavenue**](https://github.com/rishirdua/commerce-ccavenue) | Edited the module commerce_ccavenue to make it work with the new CCAvenue multi-currency processing payment gateway |
+11 | [@harikt](https://github.com/harikt)/[**php-hyperclick**](https://github.com/harikt/php-hyperclick) | PHP hyperclick package for atom text editor, open your files on the go |
+9 | [@sahildua2305](https://github.com/sahildua2305)/[**duckduckgo-ia-search**](https://github.com/sahildua2305/duckduckgo-ia-search) | :speech_balloon: Slash command for searching Instant Answers right from the chat window on Slack |
+8 | [@sahildua2305](https://github.com/sahildua2305)/[**tweetogram**](https://github.com/sahildua2305/tweetogram) | Twitter API Demonstration |
+8 | [@sudar](https://github.com/sudar)/[**bulk-delete**](https://github.com/sudar/bulk-delete) | #WordPress Plugin. Bulk Delete is a WordPress Plugin that allows you to delete posts, pages and users in bulk based on different conditions and filters. | [:arrow_upper_right:](http://bulkwp.com)
+8 | [@sudar](https://github.com/sudar)/[**rolopress-default**](https://github.com/sudar/rolopress-default) | Open Source Contact Manager built on top of WordPress. Rolopress default theme | [:arrow_upper_right:](http://www.rolopress.com)
+8 | [@skbly7](https://github.com/skbly7)/[**fb-group-links**](https://github.com/skbly7/fb-group-links) | This repository contains code for converted a Facebook music sharing group into playlists, and lots more. | [:arrow_upper_right:](http://okrdx.com/files/music/)
+7 | [@harikt](https://github.com/harikt)/[**phpform**](https://github.com/harikt/phpform) | Standalone Forms for PHP with Aura.Input, Aura.View helpers and optional dependency Aura.Filter | [:arrow_upper_right:](http://harikt.com/phpform)
+7 | [@sandeepshetty](https://github.com/sandeepshetty)/[**ftt**](https://github.com/sandeepshetty/ftt) | Single-file drop-in Function Testing Tool (FTT) and auto-documenter |
+6 | [@harikt](https://github.com/harikt)/[**conduit-skelton**](https://github.com/harikt/conduit-skelton) | A micro framework on top of conduit, which supports PSR-7 in core |
+6 | [@rishirdua](https://github.com/rishirdua)/[**smart-chat**](https://github.com/rishirdua/smart-chat) | Real-time personalized recommender for instant messaging | [:arrow_upper_right:](http://www.rishidua.com/smart-chat)
+6 | [@sudar](https://github.com/sudar)/[**bbpress-subscription…**](https://github.com/sudar/bbpress-subscription-in-mandrill) | A WordPress plugin that allows you to send topic subscription emails in bbPress through wpMandrill | [:arrow_upper_right:](http://bulkwp.com/blog/using-wpmandrill-to-send-subscription-notification-from-bbpress/)
+6 | [@kayalshri](https://github.com/kayalshri)/[**phpcrawler**](https://github.com/kayalshri/phpcrawler) | Light-weight Search Engine (Google,Bing,Yahoo,Ask,Amazon) data crawler |
+6 | [@ManrajGrover](https://github.com/ManrajGrover)/[**MokshaWebsite**](https://github.com/ManrajGrover/MokshaWebsite) | [Depricated] Moksha Website |
+5 | [@xaneem](https://github.com/xaneem)/[**Treasure-Hunt**](https://github.com/xaneem/Treasure-Hunt) | A fully functional online treasure hunt built in CodeIgniter, for Clueless 2013, conducted as a part of Tathva, at NIT Calicut, India. |
+5 | [@sahildua2305](https://github.com/sahildua2305)/[**browser-tail-log**](https://github.com/sahildua2305/browser-tail-log) | A php application for serving tail -F output to the browser. |
+5 | [@sahildua2305](https://github.com/sahildua2305)/[**A-B-testing-PHP**](https://github.com/sahildua2305/A-B-testing-PHP) | A light-weight and modular framework written in PHP that automates A/B testing |
+5 | [@sudar](https://github.com/sudar)/[**bulk-move**](https://github.com/sudar/bulk-move) | #WordPress Plugin. Bulk Move is a WordPress Plugin, that allows you to move posts between categories and tags | [:arrow_upper_right:](http://sudarmuthu.com/wordpress/bulk-move)
+5 | [@sudar](https://github.com/sudar)/[**email-log**](https://github.com/sudar/email-log) | Email Log is a WordPress Plugin that allows you to log all emails that are sent through WordPress.   |
+4 | [@sudar](https://github.com/sudar)/[**wp-github-gist**](https://github.com/sudar/wp-github-gist) | #WordPress Plugin which provides the ability to embed gist and files from Github in your blog posts or pages | [:arrow_upper_right:](http://sudarmuthu.com/wordpress/wp-github-gist)
+4 | [@sudar](https://github.com/sudar)/[**posts-by-tag**](https://github.com/sudar/posts-by-tag) | #WordPress Plugin. Posts by Tag WordPress Plugin, provides sidebar widgets which can be used to display posts from a specific set of tags in the sidebar. | [:arrow_upper_right:](http://sudarmuthu.com/wordpress/posts-by-tag)
+4 | [@sudar](https://github.com/sudar)/[**github-ribbon**](https://github.com/sudar/github-ribbon) | #WordPress Plugin. Github Ribbon is a WordPress Plugin that adds "Fork me" Github ribbons to your website. | [:arrow_upper_right:](http://sudarmuthu.com/wordpress/github-ribbon)
+4 | [@harikt](https://github.com/harikt)/[**ghdocs**](https://github.com/harikt/ghdocs) | Render github markdown files. A work for easy documentation | [:arrow_upper_right:](http://ghdocs.herokuapp.com/)
+3 | [@nisargjhaveri](https://github.com/nisargjhaveri)/[**minimalMVC**](https://github.com/nisargjhaveri/minimalMVC) | A minimal MVC framework in PHP |
+3 | [@sudar](https://github.com/sudar)/[**wp-plugin-reviews**](https://github.com/sudar/wp-plugin-reviews) | #WordPress Plugin. Displays the latest reviews of a WordPress Plugin in the sidebar. |
+3 | [@sudar](https://github.com/sudar)/[**wp-github-commits**](https://github.com/sudar/wp-github-commits) | #WordPress Plugin. Displays the latest commits of a github repo in the sidebar. |
+3 | [@sudar](https://github.com/sudar)/[**easy-note-uploads-fo…**](https://github.com/sudar/easy-note-uploads-for-rolopress) |  |
+3 | [@nisargjhaveri](https://github.com/nisargjhaveri)/[**saathi**](https://github.com/nisargjhaveri/saathi) | A simple disaster management system - as part of an academic project |
+3 | [@sahildua2305](https://github.com/sahildua2305)/[**village-connect**](https://github.com/sahildua2305/village-connect) | Making internet available to people with no internet connection | [:arrow_upper_right:](http://devpost.com/software/village-connect)
+3 | [@aniketpant](https://github.com/aniketpant)/[**igniteplate**](https://github.com/aniketpant/igniteplate) | Template for all your new applications using CodeIgniter | [:arrow_upper_right:](http://aniketpant.com/igniteplate)
+3 | [@shivamdixit](https://github.com/shivamdixit)/[**kayako**](https://github.com/shivamdixit/kayako) | Kayako Twitter challenge |
+2 | [@sahildua2305](https://github.com/sahildua2305)/[**resume-host**](https://github.com/sahildua2305/resume-host) | Application for hosting resume online and access with one simple and memorable link |
+2 | [@harikt](https://github.com/harikt)/[**cakephp-orm-shell**](https://github.com/harikt/cakephp-orm-shell) | Cakephp ORM shell/cli for standalone users |
+2 | [@mirfan](https://github.com/mirfan)/[**dal**](https://github.com/mirfan/dal) | An object-oriented wrapper to PHP's native mysql_* functions | [:arrow_upper_right:](http://github.com/mirfan/dal/tree/master)
+2 | [@harikt](https://github.com/harikt)/[**TweetRelation**](https://github.com/harikt/TweetRelation) | Tweets has relationship, lets find for what the tweet was :D | [:arrow_upper_right:](http://harikt.com/twitter.php)
+2 | [@AnupamSaraph](https://github.com/AnupamSaraph)/[**BudgetTracker**](https://github.com/AnupamSaraph/BudgetTracker) | Track public spend and share it |
+2 | [@sudar](https://github.com/sudar)/[**rolopress-importer**](https://github.com/sudar/rolopress-importer) | A RoloPress Plugin to import CSV files |
+2 | [@sudar](https://github.com/sudar)/[**google-maps-for-rolo…**](https://github.com/sudar/google-maps-for-rolopress) |  |
+2 | [@sudar](https://github.com/sudar)/[**twitter-avatar-reloa…**](https://github.com/sudar/twitter-avatar-reloaded) | Twitter avatar reloaded Plugin adds a new field to the comment form to get the user’s Twitter username and stores it together with comments and using it replaces gravatar with twitter avatar when the comment is displayed | [:arrow_upper_right:](http://sudarmuthu.com/wordpress/twitter-avatar-reloaded)
+2 | [@sahildua2305](https://github.com/sahildua2305)/[**Local-tweet-map**](https://github.com/sahildua2305/Local-tweet-map) | Local Tweet Map : Visualize the most recent tweets within 1-mile radius of your current location |
+2 | [@ashfame](https://github.com/ashfame)/[**email-cop**](https://github.com/ashfame/email-cop) | WordPress plugin for stopping outgoing emails with the option of viewing them | [:arrow_upper_right:](http://wordpress.org/plugins/email-cop/)
+2 | [@ashfame](https://github.com/ashfame)/[**Moneyflow**](https://github.com/ashfame/Moneyflow) | Silly yet good looking WordPress plugin for keeping log of how much moolah I need to trade off |
+2 | [@aniketpant](https://github.com/aniketpant)/[**stencil**](https://github.com/aniketpant/stencil) | [WIP] A static site generator written in PHP |
+2 | [@ashfame](https://github.com/ashfame)/[**WPRealtime**](https://github.com/ashfame/WPRealtime) | Nothing to see here, move on. |
+2 | [@aniketpant](https://github.com/aniketpant)/[**bits-inventory-app**](https://github.com/aniketpant/bits-inventory-app) | A simple inventory allotment app for the college |
+2 | [@kayalshri](https://github.com/kayalshri)/[**Facebook-idcard**](https://github.com/kayalshri/Facebook-idcard) | Facebook Idcard build, post |
+2 | [@ashfame](https://github.com/ashfame)/[**Directory-Last-Modif…**](https://github.com/ashfame/Directory-Last-Modified-Timestamp) |  |
+2 | [@ashfame](https://github.com/ashfame)/[**facebook-like-thumbn…**](https://github.com/ashfame/facebook-like-thumbnail) | WordPress plugin which specifies the thumbnail FB should use while embedding links | [:arrow_upper_right:](http://wordpress.org/plugins/facebook-like-thumbnail/)
+2 | [@AnupamSaraph](https://github.com/AnupamSaraph)/[**AssetTracker**](https://github.com/AnupamSaraph/AssetTracker) | Track public assets and share them |
 
 ## :yum: How to contribute
 Have an idea? Found a bug? See [how to contribute][contributing].
