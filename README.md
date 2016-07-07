@@ -8,6 +8,7 @@
 ## Contents
 
  - [JavaScript](#javascript)
+ - [Java](#java)
 
 ### JavaScript #
 :star2: | Name | Description | 🌍
@@ -220,6 +221,142 @@
 2 | [@s-yadav](https://github.com/s-yadav)/[**FlakeId**](https://github.com/s-yadav/FlakeId) | Twittter Snowflake like unique id generator plugin for nodejs and browser |
 2 | [@threepointone](https://github.com/threepointone)/[**disto-hot-loader**](https://github.com/threepointone/disto-hot-loader) | hot load disto/flux stores |
 2 | [@dineshkummarc](https://github.com/dineshkummarc)/[**Google-body-r26**](https://github.com/dineshkummarc/Google-body-r26) | Google Bode Code upto Revision 26 |
+### Java #
+:star2: | Name | Description | 🌍
+--- | --- | --- | ---
+1807 | [@ragunathjawahar](https://github.com/ragunathjawahar)/[**android-saripaar**](https://github.com/ragunathjawahar/android-saripaar) | UI form validation library for Android |
+1775 | [@naman14](https://github.com/naman14)/[**Timber**](https://github.com/naman14/Timber) | Material Design Music Player |
+732 | [@rahulrj](https://github.com/rahulrj)/[**YahooNewsOnboarding**](https://github.com/rahulrj/YahooNewsOnboarding) | Demo of the onboarding animations of Yahoo News App |
+674 | [@naman14](https://github.com/naman14)/[**MaterialPowerMenu**](https://github.com/naman14/MaterialPowerMenu) | A demo of the power menu with Reveal and other animations |
+503 | [@FaizMalkani](https://github.com/FaizMalkani)/[**Fabulous**](https://github.com/FaizMalkani/Fabulous) | [DEPRECATED] |
+465 | [@anupcowkur](https://github.com/anupcowkur)/[**Reservoir**](https://github.com/anupcowkur/Reservoir) | Android library to easily serialize and cache your objects to disk using key/value pairs. |
+394 | [@ragunathjawahar](https://github.com/ragunathjawahar)/[**adapter-kit**](https://github.com/ragunathjawahar/adapter-kit) | Adapter Kit is a set of useful adapters for Android. |
+379 | [@naman14](https://github.com/naman14)/[**PlayAnimations**](https://github.com/naman14/PlayAnimations) | A demo of various animation in latest PlayGames app |
+354 | [@anupcowkur](https://github.com/anupcowkur)/[**Android-Wheel-Menu**](https://github.com/anupcowkur/Android-Wheel-Menu) | Simple and easy to use circular menu widget for Android.  |
+344 | [@naman14](https://github.com/naman14)/[**WashingMachineView**](https://github.com/naman14/WashingMachineView) | An interactive view with water waves flowing like in a Washing machine |
+339 | [@learnNcode](https://github.com/learnNcode)/[**MediaChooser**](https://github.com/learnNcode/MediaChooser) | Library to browse & select videos and images from disk. |
+308 | [@naman14](https://github.com/naman14)/[**PlayNewsStandDemo**](https://github.com/naman14/PlayNewsStandDemo) | Demo app for achieving UI like the one used in latest Google Play Newsstand app. |
+293 | [@Suleiman19](https://github.com/Suleiman19)/[**Android-Material-Des…**](https://github.com/Suleiman19/Android-Material-Design-for-pre-Lollipop) | Various UI implementations, animations & effects  based on Material Design compatible with pre Lollipop devices as well. (Work in progess) | [:arrow_upper_right:](http://blog.grafixartist.com)
+270 | [@RaghavSood](https://github.com/RaghavSood)/[**AndroidCircularSeekB…**](https://github.com/RaghavSood/AndroidCircularSeekBar) | A circular seek bar for Android |
+246 | [@ragunathjawahar](https://github.com/ragunathjawahar)/[**instant-adapter**](https://github.com/ragunathjawahar/instant-adapter) | Just like instant coffee, saves 78% of your time on Android's Custom Adapters. |
+222 | [@learnNcode](https://github.com/learnNcode)/[**GmailLikePullToRefre…**](https://github.com/learnNcode/GmailLikePullToRefresh) | Gmail like pull to refresh implementation. |
+217 | [@ishan1604](https://github.com/ishan1604)/[**uberprogressview**](https://github.com/ishan1604/uberprogressview) | :hourglass_flowing_sand: An android progress view developed after taking inspiration from Uber app. |
+194 | [@rahulrj](https://github.com/rahulrj)/[**ChromeOverflowMenu**](https://github.com/rahulrj/ChromeOverflowMenu) | Overflow Menu animation similar to Chrome For Android |
+169 | [@learnNcode](https://github.com/learnNcode)/[**ScrollBarPanelWithCl…**](https://github.com/learnNcode/ScrollBarPanelWithClock) | Path like scrollbar panel with clock. |
+159 | [@rahulrj](https://github.com/rahulrj)/[**Swipe_RecyclerView**](https://github.com/rahulrj/Swipe_RecyclerView) | Modifed SwipeList by 47deg to work with RecyclerView |
+157 | [@naman14](https://github.com/naman14)/[**S-Tools**](https://github.com/naman14/S-Tools) | Keep track of your CPU and Sensors alongwith useful features like Color Picker,Compass and device information |
+153 | [@ragunathjawahar](https://github.com/ragunathjawahar)/[**simple-section-adapt…**](https://github.com/ragunathjawahar/simple-section-adapter) | The SIMPLEST Section Adapter for Android |
+119 | [@omerjerk](https://github.com/omerjerk)/[**RemoteDroid**](https://github.com/omerjerk/RemoteDroid) | App to control your android device from another Android device or a PC over the internet connection |
+114 | [@PareshMayani](https://github.com/PareshMayani)/[**DesignSupportLibrary…**](https://github.com/PareshMayani/DesignSupportLibraryExamples) | Examples - Android design support library components  |
+93 | [@rahulrj](https://github.com/rahulrj)/[**WinKal**](https://github.com/rahulrj/WinKal) | Android version of Windows Phone Date Picker |
+84 | [@RaghavSood](https://github.com/RaghavSood)/[**ProAndroidAugmentedR…**](https://github.com/RaghavSood/ProAndroidAugmentedReality) | Official repository for Pro Android Augmented Reality (http://www.apress.com/9781430239451) |
+76 | [@sivaprasadreddy](https://github.com/sivaprasadreddy)/[**Java-Persistence-wit…**](https://github.com/sivaprasadreddy/Java-Persistence-with-MyBatis3) | MyBatis |
+73 | [@ragunathjawahar](https://github.com/ragunathjawahar)/[**android-typeface-tex…**](https://github.com/ragunathjawahar/android-typeface-textview) | [DEPRECATED] TextView that allows custom typefaces from XML |
+71 | [@in28minutes](https://github.com/in28minutes)/[**SpringIn28Minutes**](https://github.com/in28minutes/SpringIn28Minutes) | Spring Tutorial For Beginners | [:arrow_upper_right:](http://www.in28minutes.com)
+65 | [@naman14](https://github.com/naman14)/[**FieldMapView**](https://github.com/naman14/FieldMapView) | A demo of MapView as in FieldTrip with smooth animations |
+52 | [@in28minutes](https://github.com/in28minutes)/[**SpringMvcStepByStep**](https://github.com/in28minutes/SpringMvcStepByStep) | Spring MVC Tutorial for beginners - In 25 Small Steps | [:arrow_upper_right:](http://www.in28minutes.com)
+49 | [@anupcowkur](https://github.com/anupcowkur)/[**MVPSample**](https://github.com/anupcowkur/MVPSample) | A sample project showing the use of MVP in android |
+43 | [@PareshMayani](https://github.com/PareshMayani)/[**Gallery-MultiPhotoSe…**](https://github.com/PareshMayani/Gallery-MultiPhotoSelect) | How to select multiple photos from Gallery? |
+41 | [@RaghavSood](https://github.com/RaghavSood)/[**AppaholicsUpdateChec…**](https://github.com/RaghavSood/AppaholicsUpdateChecker) | A free and open source library to check for and install updates for non app store apps. |
+28 | [@ragunathjawahar](https://github.com/ragunathjawahar)/[**circular-list-adapte…**](https://github.com/ragunathjawahar/circular-list-adapter) | A simple Circular List Adapter for Android |
+27 | [@algorithmica-reposit…](https://github.com/algorithmica-repository)/[**top20**](https://github.com/algorithmica-repository/top20) | It consists of all the code examples of Top-20 course across all years. |
+26 | [@Suleiman19](https://github.com/Suleiman19)/[**Masonry**](https://github.com/Suleiman19/Masonry) | Pinterest style Masonry Layout using StaggeredGrid | [:arrow_upper_right:](http://blog.grafixartist.com/pinterest-masonry-layout-staggered-grid/)
+24 | [@learnNcode](https://github.com/learnNcode)/[**2DScroller**](https://github.com/learnNcode/2DScroller) | Customized listview implementation. |
+24 | [@manishsri01](https://github.com/manishsri01)/[**CustomCalendarAndroi…**](https://github.com/manishsri01/CustomCalendarAndroid) | calendar view in android | [:arrow_upper_right:](http://www.androidhub4you.com/2012/10/custom-calendar-in-android.html)
+22 | [@RaghavSood](https://github.com/RaghavSood)/[**CompilingLauncher2**](https://github.com/RaghavSood/CompilingLauncher2) | A compiling version of Launcher 2 from the Android ICS source code |
+19 | [@PareshMayani](https://github.com/PareshMayani)/[**WearableListViewDemo**](https://github.com/PareshMayani/WearableListViewDemo) | WeableListView basic examples  | [:arrow_upper_right:](http://www.technotalkative.com/android-wear-part-5-wearablelistview/)
+19 | [@Suleiman19](https://github.com/Suleiman19)/[**ParseApp**](https://github.com/Suleiman19/ParseApp) | Android app using Parse SDK as backend with a Facebook Login. | [:arrow_upper_right:](http://blog.grafixartist.com/facebook-login-with-parse-part-1/)
+19 | [@manishsri01](https://github.com/manishsri01)/[**CustomGridView**](https://github.com/manishsri01/CustomGridView) | Custom Grid View Example in Android |
+17 | [@PareshMayani](https://github.com/PareshMayani)/[**Contextual-Action-Ba…**](https://github.com/PareshMayani/Contextual-Action-Bar) | A Contextual action bar (CAB) is a temporary action bar that overlays the app’s action bar for the duration of a particular sub-task. |
+16 | [@Swati4star](https://github.com/Swati4star)/[**NSIT-App-v2**](https://github.com/Swati4star/NSIT-App-v2) | :books: The official NSITonline app - 'NSIT Connect' that aims to act as a companion app for NSIT students | [:arrow_upper_right:](https://goo.gl/QVEibR)
+16 | [@RaghavSood](https://github.com/RaghavSood)/[**CompilingAndroidMail**](https://github.com/RaghavSood/CompilingAndroidMail) | Android mail client from AOSP modified to compile |
+14 | [@PareshMayani](https://github.com/PareshMayani)/[**CardslibDemo**](https://github.com/PareshMayani/CardslibDemo) |  |
+13 | [@Swati4star](https://github.com/Swati4star)/[**Travel-Mate**](https://github.com/Swati4star/Travel-Mate) | :handbag: A complete travel guide |
+13 | [@in28minutes](https://github.com/in28minutes)/[**JavaWebApplicationSt…**](https://github.com/in28minutes/JavaWebApplicationStepByStep) | JSP Servlets Video Tutorial For Beginners - in 25 Steps | [:arrow_upper_right:](www.in28mintues.com)
+13 | [@Suleiman19](https://github.com/Suleiman19)/[**Gallery**](https://github.com/Suleiman19/Gallery) | Quick Simple Android Image Gallery with Glide | [:arrow_upper_right:](http://blog.grafixartist.com/image-gallery-app-android-studio-1-4-glide/)
+12 | [@omerjerk](https://github.com/omerjerk)/[**processing-video-and…**](https://github.com/omerjerk/processing-video-android) | Processing Video implementation for Android |
+12 | [@PareshMayani](https://github.com/PareshMayani)/[**Android-LoadWebImage…**](https://github.com/PareshMayani/Android-LoadWebImageAndCache) | Example/demo on loading image from web and caching |
+11 | [@manishsri01](https://github.com/manishsri01)/[**FitbitIntegration**](https://github.com/manishsri01/FitbitIntegration) |  |
+11 | [@ragunathjawahar](https://github.com/ragunathjawahar)/[**saripaar-x**](https://github.com/ragunathjawahar/saripaar-x) | The Android Saripaar Extensions Project | [:arrow_upper_right:](https://github.com/ragunathjawahar/android-saripaar)
+11 | [@learnNcode](https://github.com/learnNcode)/[**DemoTwitterImagePost**](https://github.com/learnNcode/DemoTwitterImagePost) | Demo to post a tweet/tweet with image using twitter4j |
+10 | [@Swati4star](https://github.com/Swati4star)/[**Hackathon-airtel**](https://github.com/Swati4star/Hackathon-airtel) | :iphone:One Estimote beacon in each Airtel store and with that users can get numerous facilities. |
+10 | [@manishsri01](https://github.com/manishsri01)/[**SearchActionBarDemo**](https://github.com/manishsri01/SearchActionBarDemo) |  |
+10 | [@PareshMayani](https://github.com/PareshMayani)/[**Android-WebView-Prog…**](https://github.com/PareshMayani/Android-WebView-ProgressBar) | How to load WebView with ProgressBar? |
+10 | [@ashish1294](https://github.com/ashish1294)/[**ChessOOP**](https://github.com/ashish1294/ChessOOP) | A simple chess game that implements basic OOP concepts. |
+8 | [@Swati4star](https://github.com/Swati4star)/[**Images-to-PDF**](https://github.com/Swati4star/Images-to-PDF) | :camera: An app to convert images to PDF file |
+7 | [@PareshMayani](https://github.com/PareshMayani)/[**Android-JSON-Parsing**](https://github.com/PareshMayani/Android-JSON-Parsing) | Tutorial about JSON Parsing in Android |
+7 | [@sivaprasadreddy](https://github.com/sivaprasadreddy)/[**primefaces-beginners…**](https://github.com/sivaprasadreddy/primefaces-beginners-guide) | PrimeFaces Beginner's Guide Book Source Code |
+7 | [@Suleiman19](https://github.com/Suleiman19)/[**Marshmallow-Sample**](https://github.com/Suleiman19/Marshmallow-Sample) | Sample App to desmonstrate new features in Android Marshmallow |
+7 | [@RaghavSood](https://github.com/RaghavSood)/[**UserManagement**](https://github.com/RaghavSood/UserManagement) | A GUI app for Android 4.1 users to create and manage multiple accounts on rooted devices |
+7 | [@manishsri01](https://github.com/manishsri01)/[**CameraGallerySqliteD…**](https://github.com/manishsri01/CameraGallerySqliteDemo) | Capture Image from Camera and Gallery and save into local database sqlite and display into listview. |
+7 | [@manishsri01](https://github.com/manishsri01)/[**GCMPushDemo**](https://github.com/manishsri01/GCMPushDemo) | Google cloud messaging demo in Android | [:arrow_upper_right:](http://www.androidhub4you.com/2013/04/google-cloud-messaging-example-in.html)
+7 | [@in28minutes](https://github.com/in28minutes)/[**TDDin28Minutes**](https://github.com/in28minutes/TDDin28Minutes) | TDD Tutorial For Beginners - from in28Minutes | [:arrow_upper_right:](http://www.in28minutes.com)
+7 | [@in28minutes](https://github.com/in28minutes)/[**JUnitIn28Minutes**](https://github.com/in28minutes/JUnitIn28Minutes) | Get started with Junit |
+6 | [@algorithmica-reposit…](https://github.com/algorithmica-repository)/[**top20-May**](https://github.com/algorithmica-repository/top20-May) |  |
+6 | [@rahulrj](https://github.com/rahulrj)/[**Deep-Dive**](https://github.com/rahulrj/Deep-Dive) | Internal implementations of various components in Android and Java |
+6 | [@dpr-odoo](https://github.com/dpr-odoo)/[**trainee-om-shop**](https://github.com/dpr-odoo/trainee-om-shop) | Odoo Mobile Trainee Projects |
+6 | [@naman14](https://github.com/naman14)/[**FaisalCrush**](https://github.com/naman14/FaisalCrush) |  |
+6 | [@ishan1604](https://github.com/ishan1604)/[**MaterialCheckBox**](https://github.com/ishan1604/MaterialCheckBox) | A simple checkbox view interaction that tweens between tick and a cross. |
+6 | [@Suleiman19](https://github.com/Suleiman19)/[**Bottom-Navigation-De…**](https://github.com/Suleiman19/Bottom-Navigation-Demo) | Implementation of Bottom Navigation with Fragments, using https://github.com/aurelhubert/ahbottomn… library |
+6 | [@FaizMalkani](https://github.com/FaizMalkani)/[**KeylineTileSample**](https://github.com/FaizMalkani/KeylineTileSample) | A sample project demonstrating the use of the QuickSettings Tile API in Android N, using KeylinePushing's GridService as an action |
+6 | [@manishsri01](https://github.com/manishsri01)/[**AndroidCustomImageVi…**](https://github.com/manishsri01/AndroidCustomImageView) |  |
+6 | [@omerjerk](https://github.com/omerjerk)/[**ProcessingAndroidDem…**](https://github.com/omerjerk/ProcessingAndroidDemo) | This demo explains how to embed processing sketch in your own app |
+5 | [@rahulrj](https://github.com/rahulrj)/[**CanvasMediaControls**](https://github.com/rahulrj/CanvasMediaControls) | Media controls Of Android drawn on Canvas |
+5 | [@learnNcode](https://github.com/learnNcode)/[**ListWithDiffRowViewT…**](https://github.com/learnNcode/ListWithDiffRowViewType) |  Demo showing the functionality of getViewTypeCount() and getItemViewType(…)  in list-view. |
+5 | [@omerjerk](https://github.com/omerjerk)/[**droidcv**](https://github.com/omerjerk/droidcv) | Useful Java APIs to use with OpenCv for Android |
+5 | [@RaghavSood](https://github.com/RaghavSood)/[**ListViewFont**](https://github.com/RaghavSood/ListViewFont) | Sample project demonstrating how to use a custom font in all TextViews in a ListView. |
+5 | [@PareshMayani](https://github.com/PareshMayani)/[**CheckstyleDemo**](https://github.com/PareshMayani/CheckstyleDemo) | Checkstyle is a development tool to help programmers write Java code that adheres to a coding standard. It automates the process of checking Java code to spare humans of this boring (but important) task. This makes it ideal for projects that want to enforce a coding standard. | [:arrow_upper_right:](http://engineering.letsnurture.com/checkstyle-android-enforce-coding-rules-and-patterns-across-android-projects/)
+5 | [@naman14](https://github.com/naman14)/[**Armageddon-2014**](https://github.com/naman14/Armageddon-2014) | App for the Annual Tech Week of IET DTU |
+5 | [@in28minutes](https://github.com/in28minutes)/[**MavenIn28Minutes**](https://github.com/in28minutes/MavenIn28Minutes) | Maven Tutorial for Beginners with Examples | [:arrow_upper_right:](http://www.in28minutes.com)
+5 | [@PareshMayani](https://github.com/PareshMayani)/[**Android-GridView-Exa…**](https://github.com/PareshMayani/Android-GridView-Example) | Example for implementing GridView in Android |
+5 | [@ragunathjawahar](https://github.com/ragunathjawahar)/[**deselectable-radio-b…**](https://github.com/ragunathjawahar/deselectable-radio-button) | Deselectable Radio Button for Android |
+5 | [@algorithmica-reposit…](https://github.com/algorithmica-repository)/[**hadoop-bigdata**](https://github.com/algorithmica-repository/hadoop-bigdata) | It consists of all code examples of hadoop course taken at algorithmica |
+4 | [@PareshMayani](https://github.com/PareshMayani)/[**Android-SAX-Parsing**](https://github.com/PareshMayani/Android-SAX-Parsing) | Example of SAX Parsing in Android |
+4 | [@sankha93](https://github.com/sankha93)/[**Panther**](https://github.com/sankha93/Panther) | Panther encodes media files from one format to another. It has a simple user interface, and should be very easy to get started with. It can reduce the size of music files.  | [:arrow_upper_right:](http://sankhs.com/Panther)
+4 | [@PareshMayani](https://github.com/PareshMayani)/[**Android-WebViewClien…**](https://github.com/PareshMayani/Android-WebViewClient-Example) | Example for implementing WebViewClient in Android |
+4 | [@PareshMayani](https://github.com/PareshMayani)/[**Android-LodeWebImage**](https://github.com/PareshMayani/Android-LodeWebImage) | Example for loading images from web |
+4 | [@omerjerk](https://github.com/omerjerk)/[**Screenshotter**](https://github.com/omerjerk/Screenshotter) | A library to take screenshots without root access |
+4 | [@manishsri01](https://github.com/manishsri01)/[**TabGroupChildDemo**](https://github.com/manishsri01/TabGroupChildDemo) | child group demo | [:arrow_upper_right:](http://www.androidhub4you.com/2013/04/android-child-group-activity-android.html)
+4 | [@manishsri01](https://github.com/manishsri01)/[**SqliteQueryBrowser**](https://github.com/manishsri01/SqliteQueryBrowser) | sq-lite query browser demo |
+4 | [@in28minutes](https://github.com/in28minutes)/[**MockitoIn28Minutes**](https://github.com/in28minutes/MockitoIn28Minutes) | Learn Mockito from In28Minutes |
+3 | [@manishsri01](https://github.com/manishsri01)/[**MultiLevelListview**](https://github.com/manishsri01/MultiLevelListview) |  |
+3 | [@manishsri01](https://github.com/manishsri01)/[**TabHostDemo**](https://github.com/manishsri01/TabHostDemo) | tab host demo in android | [:arrow_upper_right:](http://www.androidhub4you.com/2013/04/android-tabactivity-tab-layout-demo-tab.html)
+3 | [@manishsri01](https://github.com/manishsri01)/[**SQLiteImageDemo**](https://github.com/manishsri01/SQLiteImageDemo) | take image from gallery and camera and save in sqlite | [:arrow_upper_right:](http://www.androidhub4you.com/2013/04/sqlite-example-in-android-add-image.html)
+3 | [@MrDHat](https://github.com/MrDHat)/[**RainCollector-libGDX**](https://github.com/MrDHat/RainCollector-libGDX) | A Rain Collector Game implemented using libGDX |
+3 | [@sivaprasadreddy](https://github.com/sivaprasadreddy)/[**twitter4j-spring-boo…**](https://github.com/sivaprasadreddy/twitter4j-spring-boot-starter) | SpringBoot Starter for Twitter4J |
+3 | [@learnNcode](https://github.com/learnNcode)/[**DemoTwitterAction**](https://github.com/learnNcode/DemoTwitterAction) | Twitter tutorial covering hashtags, reply & favorite/un-favorite Using twiiter4j. |
+3 | [@Suleiman19](https://github.com/Suleiman19)/[**Android-Note-app-wit…**](https://github.com/Suleiman19/Android-Note-app-with-Sugar-ORM) | Demonstrating SQLite database using Sugar ORM for a note app, similar to Google Keep. | [:arrow_upper_right:](http://blog.grafixartist.com)
+3 | [@RaghavSood](https://github.com/RaghavSood)/[**AppaholicsAndroid**](https://github.com/RaghavSood/AppaholicsAndroid) | Source code for the tutorials at appaholics.in | [:arrow_upper_right:](http://www.appaholics.in)
+3 | [@PareshMayani](https://github.com/PareshMayani)/[**Android-CopyFiles**](https://github.com/PareshMayani/Android-CopyFiles) | Example for copying files from  |
+3 | [@PareshMayani](https://github.com/PareshMayani)/[**Android-DashBoard-Ex…**](https://github.com/PareshMayani/Android-DashBoard-Example) | Example for the implementation of Dashboard design pattern implementation in Android |
+3 | [@Swati4star](https://github.com/Swati4star)/[**HackIIITD-2015-event…**](https://github.com/Swati4star/HackIIITD-2015-events-guide) | :book: A Delhi Events Android App, which can act as a complete master control for an explorer :runner: |
+3 | [@dpr-odoo](https://github.com/dpr-odoo)/[**odoo-widgets**](https://github.com/dpr-odoo/odoo-widgets) | Odoo App Widgets Library |
+3 | [@dpr-odoo](https://github.com/dpr-odoo)/[**odoo-calendar**](https://github.com/dpr-odoo/odoo-calendar) |  |
+3 | [@rahulrj](https://github.com/rahulrj)/[**VIT-Login**](https://github.com/rahulrj/VIT-Login) | App for Acdemics site of VIT University |
+3 | [@manishsri01](https://github.com/manishsri01)/[**PagingnationDemo**](https://github.com/manishsri01/PagingnationDemo) |  |
+3 | [@karthikb351](https://github.com/karthikb351)/[**map.a.ble-Android**](https://github.com/karthikb351/map.a.ble-Android) | Indoor mapping shenanigans. King Gormsson would be proud. |
+3 | [@omerjerk](https://github.com/omerjerk)/[**androidVersionUpgrad…**](https://github.com/omerjerk/androidVersionUpgrader) | Android app which deals with the SuperUser access stuffs and edit the build.prop file to change the android version. |
+3 | [@ishan1604](https://github.com/ishan1604)/[**audio-processor**](https://github.com/ishan1604/audio-processor) | An android based sound processing app to plot graph based on sound signals |
+2 | [@PareshMayani](https://github.com/PareshMayani)/[**Android-JustifyText**](https://github.com/PareshMayani/Android-JustifyText) | How do i display information with Justify alignment? |
+2 | [@viggyprabhu](https://github.com/viggyprabhu)/[**SillyCardTrick**](https://github.com/viggyprabhu/SillyCardTrick) | An Android App to implement a simple card trick |
+2 | [@Suleiman19](https://github.com/Suleiman19)/[**People-API-App**](https://github.com/Suleiman19/People-API-App) | Demo app for Google Sign-in and People API |
+2 | [@sankha93](https://github.com/sankha93)/[**jupdater**](https://github.com/sankha93/jupdater) | A simple library to check whether a new update for a program is available |
+2 | [@learnNcode](https://github.com/learnNcode)/[**CustomTabletUI**](https://github.com/learnNcode/CustomTabletUI) | Custom tablet UI animation. |
+2 | [@sankha93](https://github.com/sankha93)/[**wetunes-android**](https://github.com/sankha93/wetunes-android) | a social music player for android |
+2 | [@learnNcode](https://github.com/learnNcode)/[**TabWidgetSample**](https://github.com/learnNcode/TabWidgetSample) | This is a simple tutorial on how to use tabs with fragment  in android application. |
+2 | [@sivaprasadreddy](https://github.com/sivaprasadreddy)/[**spring-training**](https://github.com/sivaprasadreddy/spring-training) | Spring Training Material |
+2 | [@karthikb351](https://github.com/karthikb351)/[**vitinfo2**](https://github.com/karthikb351/vitinfo2) | NOTE: We've moved! Development for the VITinfo suite of applications. Including Attendance, Marks, etc. |
+2 | [@FaizMalkani](https://github.com/FaizMalkani)/[**ViewPagerWithDrawer**](https://github.com/FaizMalkani/ViewPagerWithDrawer) | Sample application using a ViewPager with Indicator and a Navigation Drawer |
+2 | [@ragunathjawahar](https://github.com/ragunathjawahar)/[**winzipaes**](https://github.com/ragunathjawahar/winzipaes) | Automatically exported from code.google.com/p/winzipaes |
+2 | [@omerjerk](https://github.com/omerjerk)/[**stickTracker**](https://github.com/omerjerk/stickTracker) |  |
+2 | [@manishsri01](https://github.com/manishsri01)/[**AndroidAlarmManagerD…**](https://github.com/manishsri01/AndroidAlarmManagerDemo) | http://www.androidhub4you.com/2013/12/an… |
+2 | [@PareshMayani](https://github.com/PareshMayani)/[**Android-ReadFileAsse…**](https://github.com/PareshMayani/Android-ReadFileAssets) | Example of reading files from Assets folder |
+2 | [@in28minutes](https://github.com/in28minutes)/[**BasicWebServletsIn28…**](https://github.com/in28minutes/BasicWebServletsIn28Minutes) |  |
+2 | [@manishsri01](https://github.com/manishsri01)/[**GoogleMapCircleDemo**](https://github.com/manishsri01/GoogleMapCircleDemo) | Google Map Version Map-2 Demo for Draw Circle in Android | [:arrow_upper_right:](http://www.androidhub4you.com/2013/07/google-map-version-2-integration-in_8530.html)
+2 | [@manishsri01](https://github.com/manishsri01)/[**ListViewIntoScrollVi…**](https://github.com/manishsri01/ListViewIntoScrollView) |  |
+2 | [@in28minutes](https://github.com/in28minutes)/[**JavaInterviewQuestio…**](https://github.com/in28minutes/JavaInterviewQuestionsAndAnswers) | Java Interview Questions and Answers | [:arrow_upper_right:](http://www.in28minutes.com)
+2 | [@manishsri01](https://github.com/manishsri01)/[**GooglePrintDemo**](https://github.com/manishsri01/GooglePrintDemo) |  |
+2 | [@ishan1604](https://github.com/ishan1604)/[**QDroid**](https://github.com/ishan1604/QDroid) | Android Quiz Application |
 
 ## :yum: How to contribute
 Have an idea? Found a bug? See [how to contribute][contributing].
