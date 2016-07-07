@@ -58,7 +58,8 @@
       {
         "ul": [
           "[JavaScript](#javascript)",
-          "[Java](#java)"
+          "[Java](#java)",
+          "[C#](#c-1)"
         ]
       },
       {
@@ -2132,6 +2133,183 @@
               "2",
               "[@ishan1604](https://github.com/ishan1604)/[**QDroid**](https://github.com/ishan1604/QDroid)",
               "Android Quiz Application",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "C# #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "30",
+              "[@rnand](https://github.com/rnand)/[**Youtube-downloader**](https://github.com/rnand/Youtube-downloader)",
+              "A GUI application to download videos from youtube",
+              ""
+            ],
+            [
+              "24",
+              "[@prashantvc](https://github.com/prashantvc)/[**Xamarin.iOS-MessageB…**](https://github.com/prashantvc/Xamarin.iOS-MessageBar)",
+              "Dropdown message bar for iOS",
+              ""
+            ],
+            [
+              "19",
+              "[@amaneureka](https://github.com/amaneureka)/[**SharpBrain**](https://github.com/amaneureka/SharpBrain)",
+              "A C# based Machine Learning Library which aims to implement user interactive Deep Learning Architecture & Algorithms.",
+              ""
+            ],
+            [
+              "18",
+              "[@akhilmittal](https://github.com/akhilmittal)/[**REST-WebAPI**](https://github.com/akhilmittal/REST-WebAPI)",
+              "Enterprise level application with MVC4 Web API's using Entity Framework ,Generic Repository pattern and Unit of Work.",
+              ""
+            ],
+            [
+              "15",
+              "[@prashantvc](https://github.com/prashantvc)/[**SpecialCopy**](https://github.com/prashantvc/SpecialCopy)",
+              "Paste JSON as C# Classes",
+              ""
+            ],
+            [
+              "11",
+              "[@prashantvc](https://github.com/prashantvc)/[**AndroidInAppBillingD…**](https://github.com/prashantvc/AndroidInAppBillingDemo)",
+              "In app billing demo with Xamarin.Android",
+              ""
+            ],
+            [
+              "5",
+              "[@satish860](https://github.com/satish860)/[**RuleComposer**](https://github.com/satish860/RuleComposer)",
+              "Wrist Friendly Rule Engine for .net .",
+              ""
+            ],
+            [
+              "5",
+              "[@mafiya69](https://github.com/mafiya69)/[**Credit**](https://github.com/mafiya69/Credit)",
+              "CreditSharp",
+              ""
+            ],
+            [
+              "5",
+              "[@mafiya69](https://github.com/mafiya69)/[**SharpChat**](https://github.com/mafiya69/SharpChat)",
+              "A Simple Chat Program.",
+              ""
+            ],
+            [
+              "5",
+              "[@goldytech](https://github.com/goldytech)/[**QTec-II**](https://github.com/goldytech/QTec-II)",
+              "A standard asp.net mvc project showcasing the best patterns and practices",
+              ""
+            ],
+            [
+              "5",
+              "[@Vadi](https://github.com/Vadi)/[**Cedar**](https://github.com/Vadi/Cedar)",
+              "A scalable shard-based data store middleware",
+              ""
+            ],
+            [
+              "4",
+              "[@prashantvc](https://github.com/prashantvc)/[**Basic-Image-Editor**](https://github.com/prashantvc/Basic-Image-Editor)",
+              "This Android app shows the ability to adjust Contrast, Brightness and Saturation using the ColorMatrix and ColorMatrixFilters",
+              ""
+            ],
+            [
+              "4",
+              "[@prashantvc](https://github.com/prashantvc)/[**FlatUI.iOS**](https://github.com/prashantvc/FlatUI.iOS)",
+              "A collection of flat UI controls for iOS. C# port of https://github.com/Grouper/FlatUIKit",
+              ""
+            ],
+            [
+              "4",
+              "[@rzee7](https://github.com/rzee7)/[**PRAPinnedListview**](https://github.com/rzee7/PRAPinnedListview)",
+              "Sticky Headres",
+              ""
+            ],
+            [
+              "3",
+              "[@zoebchhatriwala](https://github.com/zoebchhatriwala)/[**Zencryptor**](https://github.com/zoebchhatriwala/Zencryptor)",
+              "Text Encrypting Application Developed in C# ",
+              ""
+            ],
+            [
+              "3",
+              "[@akhilmittal](https://github.com/akhilmittal)/[**CURD-operations-usin…**](https://github.com/akhilmittal/CURD-operations-using-AutoMapper-in-an-Asp.Net-MVC-application)",
+              "How to do custom mapping and entity to entity mapping with the help of AutoMapper.",
+              ""
+            ],
+            [
+              "3",
+              "[@akhilmittal](https://github.com/akhilmittal)/[**AttributeRouting-in-…**](https://github.com/akhilmittal/AttributeRouting-in-WebAPI)",
+              "How to implement Attribute based Routing in Asp.net WebAPI using AttributeRouting library",
+              ""
+            ],
+            [
+              "3",
+              "[@zoebchhatriwala](https://github.com/zoebchhatriwala)/[**WikiApp**](https://github.com/zoebchhatriwala/WikiApp)",
+              "Wikipedia Unofficial App Developed in C#",
+              ""
+            ],
+            [
+              "3",
+              "[@zoebchhatriwala](https://github.com/zoebchhatriwala)/[**zKeyLogger**](https://github.com/zoebchhatriwala/zKeyLogger)",
+              "Key Logging Application Developed in C# [for Educational Purpose] ",
+              ""
+            ],
+            [
+              "3",
+              "[@zoebchhatriwala](https://github.com/zoebchhatriwala)/[**Regen-Windows-Phone-…**](https://github.com/zoebchhatriwala/Regen-Windows-Phone-App-)",
+              "Regen is a Regular Expression based Text|Password Generator Developed in C#",
+              ""
+            ],
+            [
+              "3",
+              "[@zoebchhatriwala](https://github.com/zoebchhatriwala)/[**ICS-I-can-speak-**](https://github.com/zoebchhatriwala/ICS-I-can-speak-)",
+              "This Application Converts Your Input Text Into Speech. Developed For Windows Phone In C#.",
+              ""
+            ],
+            [
+              "3",
+              "[@mafiya69](https://github.com/mafiya69)/[**sharicles**](https://github.com/mafiya69/sharicles)",
+              "Learn Windows 10 App Development Here.",
+              ""
+            ],
+            [
+              "2",
+              "[@amaneureka](https://github.com/amaneureka)/[**LunchTime**](https://github.com/amaneureka/LunchTime)",
+              "Few lines of code, which reduces huge tasks for me.",
+              ""
+            ],
+            [
+              "2",
+              "[@sharat](https://github.com/sharat)/[**Winstagram**](https://github.com/sharat/Winstagram)",
+              "A simple WP7 Client for Instagram",
+              ""
+            ],
+            [
+              "2",
+              "[@zoebchhatriwala](https://github.com/zoebchhatriwala)/[**WebCloud**](https://github.com/zoebchhatriwala/WebCloud)",
+              "An HTML Writer and Viewer Developed in C#",
+              ""
+            ],
+            [
+              "2",
+              "[@rzee7](https://github.com/rzee7)/[**PRAXamForms**](https://github.com/rzee7/PRAXamForms)",
+              "All functionality related to Json & Web API included  in this Xamarin Forms app :)",
+              ""
+            ],
+            [
+              "2",
+              "[@zoebchhatriwala](https://github.com/zoebchhatriwala)/[**Multicopier**](https://github.com/zoebchhatriwala/Multicopier)",
+              "An Multi Copy Application Developed in C#",
               ""
             ]
           ]
