@@ -15,6 +15,7 @@
  - [C](undefined)
  - [C++](#c-2)
  - [ActionScript](#actionscript)
+ - [Clojure](#clojure)
 
 ### JavaScript #
 :star2: | Name | Description | 🌍
@@ -505,6 +506,62 @@
 2 | [@nsdevaraj](https://github.com/nsdevaraj)/[**Room**](https://github.com/nsdevaraj/Room) | 3D Room in Away3D |
 2 | [@nsdevaraj](https://github.com/nsdevaraj)/[**FlexMock**](https://github.com/nsdevaraj/FlexMock) | Mock Exam helping the preparation of ACE | [:arrow_upper_right:](http://nsdevaraj.wordpress.com/)
 2 | [@nsdevaraj](https://github.com/nsdevaraj)/[**Universal-Currency**](https://github.com/nsdevaraj/Universal-Currency) | Currency Converter, Swiz Framework for Mobile development (using SwizDAO for HTTPService) | [:arrow_upper_right:](http://nsdevaraj.wordpress.com/)
+### Clojure #
+:star2: | Name | Description | 🌍
+--- | --- | --- | ---
+279 | [@zcaudate](https://github.com/zcaudate)/[**vinyasa**](https://github.com/zcaudate/vinyasa) | more flow to your workflow |
+216 | [@kumarshantanu](https://github.com/kumarshantanu)/[**lein-exec**](https://github.com/kumarshantanu/lein-exec) | Leiningen plugin for executing Clojure scripts |
+168 | [@kumarshantanu](https://github.com/kumarshantanu)/[**lein-localrepo**](https://github.com/kumarshantanu/lein-localrepo) | Work with local Maven repository |
+153 | [@zcaudate](https://github.com/zcaudate)/[**hara**](https://github.com/zcaudate/hara) | code patterns and utilities | [:arrow_upper_right:](docs.caudate.me/hara)
+104 | [@zcaudate](https://github.com/zcaudate)/[**adi**](https://github.com/zcaudate/adi) | data modelling for the ambitious | [:arrow_upper_right:](http://docs.caudate.me/adi)
+103 | [@zcaudate](https://github.com/zcaudate)/[**jai**](https://github.com/zcaudate/jai) | manipulate source code like the dom | [:arrow_upper_right:](http://docs.caudate.me/jai)
+100 | [@zcaudate](https://github.com/zcaudate)/[**cronj**](https://github.com/zcaudate/cronj) | cron for clojure - *DEPRECATED* | [:arrow_upper_right:](http://docs.caudate.me/cronj)
+85 | [@zcaudate](https://github.com/zcaudate)/[**ribol**](https://github.com/zcaudate/ribol) | conditional restarts - *DEPRECATED* |
+75 | [@zcaudate](https://github.com/zcaudate)/[**lein-midje-doc**](https://github.com/zcaudate/lein-midje-doc) | documentation generator *DEPRECATED* | [:arrow_upper_right:](http://docs.caudate.me/lein-midje-doc)
+61 | [@zcaudate](https://github.com/zcaudate)/[**lein-repack**](https://github.com/zcaudate/lein-repack) | Repack your project for deployment and distribution |
+55 | [@kumarshantanu](https://github.com/kumarshantanu)/[**lein-sub**](https://github.com/kumarshantanu/lein-sub) | Leiningen plugin for executing tasks on sub-projects |
+53 | [@zcaudate](https://github.com/zcaudate)/[**iroh**](https://github.com/zcaudate/iroh) | Java reflection made easy. DEPRECATED |
+44 | [@kumarshantanu](https://github.com/kumarshantanu)/[**lein-clr**](https://github.com/kumarshantanu/lein-clr) | Leiningen plugin to automate build tasks for ClojureCLR projects |
+42 | [@zcaudate](https://github.com/zcaudate)/[**sigmund**](https://github.com/zcaudate/sigmund) | System analytics for Clojure |
+31 | [@zcaudate](https://github.com/zcaudate)/[**one.love**](https://github.com/zcaudate/one.love) | rethinkdb wrapped in funk |
+29 | [@kumarshantanu](https://github.com/kumarshantanu)/[**clj-liquibase**](https://github.com/kumarshantanu/clj-liquibase) | Clojure wrapper for Liquibase for database change management and migration |
+28 | [@kumarshantanu](https://github.com/kumarshantanu)/[**lein-servlet**](https://github.com/kumarshantanu/lein-servlet) | A Leiningen 2 plugin to work with servlet-based webapps |
+27 | [@ghoseb](https://github.com/ghoseb)/[**img-palette**](https://github.com/ghoseb/img-palette) | A simple demo of extracting dominant colors from an image using K-means clustering |
+27 | [@ghoseb](https://github.com/ghoseb)/[**clojure101**](https://github.com/ghoseb/clojure101) | Clojure 101 Course Material | [:arrow_upper_right:](http://rubylearning.com/blog/2010/03/09/clojure-101-a-new-course/)
+27 | [@zcaudate](https://github.com/zcaudate)/[**gita**](https://github.com/zcaudate/gita) | the introspective jgit wrapper | [:arrow_upper_right:](https://github.com/zcaudate/gita)
+22 | [@ghoseb](https://github.com/ghoseb)/[**yfinance**](https://github.com/ghoseb/yfinance) | Simple Clojure code to fetch data from Y! Finance |
+22 | [@grinnbearit](https://github.com/grinnbearit)/[**the-little-clojurer**](https://github.com/grinnbearit/the-little-clojurer) | The little Schemer, in Clojure |
+18 | [@kumarshantanu](https://github.com/kumarshantanu)/[**clj-dbcp**](https://github.com/kumarshantanu/clj-dbcp) | Clojure wrapper for Apache DBCP to create JDBC connections pools |
+17 | [@zcaudate](https://github.com/zcaudate)/[**ova**](https://github.com/zcaudate/ova) | Stateful arrays for clojure, DEPRECATED |
+12 | [@grinnbearit](https://github.com/grinnbearit)/[**sicp**](https://github.com/grinnbearit/sicp) | SICP in Clojure |
+11 | [@kumarshantanu](https://github.com/kumarshantanu)/[**quiddity**](https://github.com/kumarshantanu/quiddity) | S-Expression evaluation library for Clojure and ClojureScript |
+11 | [@Bridgei2i](https://github.com/Bridgei2i)/[**clojure-word2vec**](https://github.com/Bridgei2i/clojure-word2vec) | A Clojure wrapper around a Java implementation of Word2Vec. |
+10 | [@kumarshantanu](https://github.com/kumarshantanu)/[**basil**](https://github.com/kumarshantanu/basil) | A general purpose template library for Clojure and ClojureScript |
+8 | [@kumarshantanu](https://github.com/kumarshantanu)/[**lein-idefiles**](https://github.com/kumarshantanu/lein-idefiles) | Generate IDE files for Leiningen projects |
+7 | [@kumarshantanu](https://github.com/kumarshantanu)/[**espejito**](https://github.com/kumarshantanu/espejito) | Latency finder for single-threaded processing |
+7 | [@grinnbearit](https://github.com/grinnbearit)/[**opencsv-clj**](https://github.com/grinnbearit/opencsv-clj) | A lazy opencsv wrapper in clojure |
+6 | [@kumarshantanu](https://github.com/kumarshantanu)/[**keypin**](https://github.com/kumarshantanu/keypin) | Key lookup on steroids in Clojure |
+6 | [@ghoseb](https://github.com/ghoseb)/[**chainmap**](https://github.com/ghoseb/chainmap) | A custom Map-like data-structure for Clojure |
+6 | [@zcaudate](https://github.com/zcaudate)/[**oren**](https://github.com/zcaudate/oren) | system information for clojure |
+5 | [@kumarshantanu](https://github.com/kumarshantanu)/[**lein-cascade**](https://github.com/kumarshantanu/lein-cascade) | A Leiningen plugin to execute cascading task dependencies |
+5 | [@zcaudate](https://github.com/zcaudate)/[**korra**](https://github.com/zcaudate/korra) | jar and maven package introspection. DEPRECATED |
+4 | [@kumarshantanu](https://github.com/kumarshantanu)/[**lein-docbkx**](https://github.com/kumarshantanu/lein-docbkx) | Leiningen plugin for rendering Docbook documents (using Docbkx-tools) |
+4 | [@ghoseb](https://github.com/ghoseb)/[**ketamine**](https://github.com/ghoseb/ketamine) | A consistent hashing library for Clojure. |
+4 | [@ghoseb](https://github.com/ghoseb)/[**isbn.clj**](https://github.com/ghoseb/isbn.clj) | Fetch book prices from Indian ecommerce sites |
+4 | [@grinnbearit](https://github.com/grinnbearit)/[**freemarker-clj**](https://github.com/grinnbearit/freemarker-clj) | A wrapper for the freemarker template engine, http://freemarker.sourceforge.net/ |
+3 | [@kumarshantanu](https://github.com/kumarshantanu)/[**clj-miscutil**](https://github.com/kumarshantanu/clj-miscutil) | Misclleneous utility functions and macros in Clojure |
+3 | [@kumarshantanu](https://github.com/kumarshantanu)/[**clj-jdbcutil**](https://github.com/kumarshantanu/clj-jdbcutil) | DEPRECATED - Clojure JDBC utility functions |
+3 | [@kumarshantanu](https://github.com/kumarshantanu)/[**stringer**](https://github.com/kumarshantanu/stringer) | Fast string operations for Clojure |
+2 | [@zcaudate](https://github.com/zcaudate)/[**wu.kong**](https://github.com/zcaudate/wu.kong) | wrapper for org.eclipse.aether |
+2 | [@ghoseb](https://github.com/ghoseb)/[**tushy**](https://github.com/ghoseb/tushy) | A blog aggregrator written in Clojure | [:arrow_upper_right:](http://planet.clojure.in)
+2 | [@gowda](https://github.com/gowda)/[**path-to-philosophy**](https://github.com/gowda/path-to-philosophy) | find the path from any given wikipedia.org article to philosophy article on wikipedia.org |
+2 | [@kumarshantanu](https://github.com/kumarshantanu)/[**thingy**](https://github.com/kumarshantanu/thingy) | Data abstraction of 'things' in Clojure |
+2 | [@kumarshantanu](https://github.com/kumarshantanu)/[**citius**](https://github.com/kumarshantanu/citius) | Comparative benchmarking using Criterium |
+2 | [@kumarshantanu](https://github.com/kumarshantanu)/[**asphalt**](https://github.com/kumarshantanu/asphalt) | A Clojure library for JDBC access. |
+2 | [@grinnbearit](https://github.com/grinnbearit)/[**stringtemplate-clj**](https://github.com/grinnbearit/stringtemplate-clj) | A stringtemplate wrapper in Clojure |
+2 | [@kumarshantanu](https://github.com/kumarshantanu)/[**ide-files**](https://github.com/kumarshantanu/ide-files) | DEPCRATED. Leiningen template to generate IDE files for existing projects. Superseded by the lein-idefiles plugin. | [:arrow_upper_right:](https://github.com/kumarshantanu/lein-idefiles)
+2 | [@gowda](https://github.com/gowda)/[**tomcat-example**](https://github.com/gowda/tomcat-example) | A simple web application built using noir to be deployed using tomcat application server |
+2 | [@kumarshantanu](https://github.com/kumarshantanu)/[**ring-jdbc-session**](https://github.com/kumarshantanu/ring-jdbc-session) | JDBC based HTTP session store for Ring (Clojure) |
 
 ## :yum: How to contribute
 Have an idea? Found a bug? See [how to contribute][contributing].
