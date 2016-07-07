@@ -26,6 +26,7 @@
  - [Python](#python)
  - [R](#r)
  - [Ruby](#ruby)
+ - [Scala](#scala)
 
 ### JavaScript #
 :star2: | Name | Description | 🌍
@@ -1034,6 +1035,33 @@
 2 | [@vikhyat](https://github.com/vikhyat)/[**indexable**](https://github.com/vikhyat/indexable) | Rack middleware that executes javascript before serving pages to crawlers. |
 2 | [@vikhyat](https://github.com/vikhyat)/[**aufstellung**](https://github.com/vikhyat/aufstellung) | a tiny application for helping with the selling of used books to new students |
 2 | [@anildigital](https://github.com/anildigital)/[**cheatsweets**](https://github.com/anildigital/cheatsweets) | It's just sweet | [:arrow_upper_right:](http://cheatsweets.digitalcodes.org)
+### Scala #
+:star2: | Name | Description | 🌍
+--- | --- | --- | ---
+224 | [@debasishg](https://github.com/debasishg)/[**sjson**](https://github.com/debasishg/sjson) | Scala Json with capabilities for Scala Object Serialization | [:arrow_upper_right:](http://debasishg.blogspot.com)
+175 | [@debasishg](https://github.com/debasishg)/[**scala-redis-nb**](https://github.com/debasishg/scala-redis-nb) | Implementation of a non blocking Redis client in Scala using Akka IO |
+100 | [@debasishg](https://github.com/debasishg)/[**cqrs-akka**](https://github.com/debasishg/cqrs-akka) | An implementation of CQRS using scalaz for functional domain models and Akka for event sourcing | [:arrow_upper_right:](http://debasishg.blogspot.com/2011/01/cqrs-with-akka-actors-and-functional.html)
+97 | [@debasishg](https://github.com/debasishg)/[**frdomain**](https://github.com/debasishg/frdomain) | Code repo for Functional and Reactive Domain Modeling |
+79 | [@debasishg](https://github.com/debasishg)/[**scouchdb**](https://github.com/debasishg/scouchdb) | CouchDB Driver and View Server in Scala | [:arrow_upper_right:](http://debasishg.blogspot.com)
+25 | [@debasishg](https://github.com/debasishg)/[**tryscalaz**](https://github.com/debasishg/tryscalaz) | Explore various options of domain modeling with scalaz | [:arrow_upper_right:](http://debasishg.blogspot.com)
+23 | [@debasishg](https://github.com/debasishg)/[**dsls_in_action**](https://github.com/debasishg/dsls_in_action) | Code base for DSLs In Action (http://www.manning.com/ghosh) | [:arrow_upper_right:](http://manning.com/ghosh)
+21 | [@debasishg](https://github.com/debasishg)/[**scala-snippets**](https://github.com/debasishg/scala-snippets) | Various Scala snippets of interest - some of them plagiarised |
+15 | [@pamu](https://github.com/pamu)/[**AkkaDynoDB**](https://github.com/pamu/AkkaDynoDB) | Dynamo like distributed database built using Akka Cluster | [:arrow_upper_right:]( http://pamu.github.io/AkkaDynoDB)
+13 | [@debasishg](https://github.com/debasishg)/[**tryscalaz7**](https://github.com/debasishg/tryscalaz7) | Some experiments with scalaz7 |
+12 | [@debasishg](https://github.com/debasishg)/[**sjsonapp**](https://github.com/debasishg/sjsonapp) | An applicative layer on top of sjson |
+10 | [@debasishg](https://github.com/debasishg)/[**monad-trans**](https://github.com/debasishg/monad-trans) | Playing with Monad Transformers in scala |
+9 | [@pawank](https://github.com/pawank)/[**Facebook-Integration…**](https://github.com/pawank/Facebook-Integration-in-Play-2.0-using-scribe-library) | Facebook Integration in Play 2.0 using scribe library |
+5 | [@debasishg](https://github.com/debasishg)/[**hodgp**](https://github.com/debasishg/hodgp) | Exploring Higher Order Datatype Generic Programming in Scala |
+4 | [@codingnirvana](https://github.com/codingnirvana)/[**scala-quiz**](https://github.com/codingnirvana/scala-quiz) | Solutions to scala quizzes from 99 problems and project euler |
+3 | [@pawank](https://github.com/pawank)/[**LinkedInAPI_Test**](https://github.com/pawank/LinkedInAPI_Test) | Lift application showing usage of LinkedIn API integration and mongodb. |
+3 | [@debasishg](https://github.com/debasishg)/[**cqrs-finagle**](https://github.com/debasishg/cqrs-finagle) | Version of CQRS ported to Twitter Finagle |
+2 | [@scalolli](https://github.com/scalolli)/[**chotoo**](https://github.com/scalolli/chotoo) | Utility written in scala to read data from of different formats csv, excel, txt files etc. |
+2 | [@pamu](https://github.com/pamu)/[**resonate**](https://github.com/pamu/resonate) | Resonate Project | [:arrow_upper_right:](https://grito.herokuapp.com)
+2 | [@pamu](https://github.com/pamu)/[**split-pal**](https://github.com/pamu/split-pal) | Split wise for Sane people in Scala Android  |
+2 | [@pamu](https://github.com/pamu)/[**ChatBox**](https://github.com/pamu/ChatBox) | Simple Chat System Using Akka Actors (Akka Remoting) | [:arrow_upper_right:]( http://pamu.github.io/ChatBox)
+2 | [@pamu](https://github.com/pamu)/[**BulkMailer**](https://github.com/pamu/BulkMailer) | send bulk emails to email contacts |
+2 | [@debasishg](https://github.com/debasishg)/[**qcon-ny-12**](https://github.com/debasishg/qcon-ny-12) | Code base for presentation in QCon NY 2012 |
+2 | [@debasishg](https://github.com/debasishg)/[**recon**](https://github.com/debasishg/recon) | Attempt to make a generalized reconciliation service |
 
 ## :yum: How to contribute
 Have an idea? Found a bug? See [how to contribute][contributing].
