@@ -19,6 +19,7 @@
  - [Go](#go)
  - [Haskell](#haskell)
  - [Lua](#lua)
+ - [Matlab](#matlab)
 
 ### JavaScript #
 :star2: | Name | Description | 🌍
@@ -619,6 +620,12 @@
 5 | [@dufferzafar](https://github.com/dufferzafar)/[**Lua-Scripts**](https://github.com/dufferzafar/Lua-Scripts) | A collection of libraries and functions for Lua. |
 4 | [@SatheeshJM](https://github.com/SatheeshJM)/[**Amazon-SimpleDB-Modu…**](https://github.com/SatheeshJM/Amazon-SimpleDB-Module-for-Lua) | Amazon SimpleDB API for Corona SDK |
 4 | [@SatheeshJM](https://github.com/SatheeshJM)/[**Ascii85-Encoding-in-…**](https://github.com/SatheeshJM/Ascii85-Encoding-in-Pure-Lua) |  |
+### Matlab #
+:star2: | Name | Description | 🌍
+--- | --- | --- | ---
+2 | [@SivanandAchanta](https://github.com/SivanandAchanta)/[**DNN_SPS**](https://github.com/SivanandAchanta/DNN_SPS) | This contains code to replicate DNN-SPS experiments reported in "Significance of Maximum Spectral Amplitude in Sub-bands for Spectral Envelope Estimation and Its Application to Statistical Parametric Speech Synthesis" paper Interspeech15 submission |
+2 | [@SivanandAchanta](https://github.com/SivanandAchanta)/[**SSW9**](https://github.com/SivanandAchanta/SSW9) | SPSS using RNN-DNN for speech synthesis workshop |
+2 | [@ateshkoul](https://github.com/ateshkoul)/[**NeuroImaging**](https://github.com/ateshkoul/NeuroImaging) | Neuroimaging |
 
 ## :yum: How to contribute
 Have an idea? Found a bug? See [how to contribute][contributing].

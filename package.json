@@ -68,7 +68,9 @@
           "[Clojure](#clojure)",
           "[Go](#go)",
           "[Haskell](#haskell)",
-          "[Lua](#lua)"
+          "[Lua](#lua)",
+          "[Matlab](#matlab)",
+          "[Objective-C](#objective-c)"
         ]
       },
       {
@@ -3624,6 +3626,420 @@
               "4",
               "[@SatheeshJM](https://github.com/SatheeshJM)/[**Ascii85-Encoding-in-…**](https://github.com/SatheeshJM/Ascii85-Encoding-in-Pure-Lua)",
               "",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Matlab #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "2",
+              "[@SivanandAchanta](https://github.com/SivanandAchanta)/[**DNN_SPS**](https://github.com/SivanandAchanta/DNN_SPS)",
+              "This contains code to replicate DNN-SPS experiments reported in \"Significance of Maximum Spectral Amplitude in Sub-bands for Spectral Envelope Estimation and Its Application to Statistical Parametric Speech Synthesis\" paper Interspeech15 submission",
+              ""
+            ],
+            [
+              "2",
+              "[@SivanandAchanta](https://github.com/SivanandAchanta)/[**SSW9**](https://github.com/SivanandAchanta/SSW9)",
+              "SPSS using RNN-DNN for speech synthesis workshop",
+              ""
+            ],
+            [
+              "2",
+              "[@ateshkoul](https://github.com/ateshkoul)/[**NeuroImaging**](https://github.com/ateshkoul/NeuroImaging)",
+              "Neuroimaging",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Objective-C #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "6296",
+              "[@hackiftekhar](https://github.com/hackiftekhar)/[**IQKeyboardManager**](https://github.com/hackiftekhar/IQKeyboardManager)",
+              "Codeless drop-in universal library allows to prevent issues of keyboard sliding up and cover UITextField/UITextView. Neither need to write any code nor any setup required and much more.",
+              ""
+            ],
+            [
+              "466",
+              "[@mukyasa](https://github.com/mukyasa)/[**MMTextFieldEffects**](https://github.com/mukyasa/MMTextFieldEffects)",
+              "Extension of TextFieldEffects with Custom UITextFields effects inspired by Codrops, built using Objective-C",
+              ""
+            ],
+            [
+              "401",
+              "[@hackiftekhar](https://github.com/hackiftekhar)/[**IQMediaPickerControl…**](https://github.com/hackiftekhar/IQMediaPickerController)",
+              "Audio Image Video Picker Controller",
+              ""
+            ],
+            [
+              "399",
+              "[@Reefaq](https://github.com/Reefaq)/[**FlipView**](https://github.com/Reefaq/FlipView)",
+              "Magazine Style View/Layout like Flipboard",
+              "[:arrow_upper_right:](http://www.raweng.com)"
+            ],
+            [
+              "398",
+              "[@mukyasa](https://github.com/mukyasa)/[**MMCamScanner**](https://github.com/mukyasa/MMCamScanner)",
+              "Simulation of CamScanner app With Custom Camera and Crop Rect Validation ",
+              ""
+            ],
+            [
+              "391",
+              "[@mukyasa](https://github.com/mukyasa)/[**MMPaper**](https://github.com/mukyasa/MMPaper)",
+              "MMPaper [Inspired From Paper by Facebook,]Approach to simulate Paper app",
+              ""
+            ],
+            [
+              "271",
+              "[@RATTLESNAKE-VIPER](https://github.com/RATTLESNAKE-VIPER)/[**GLGooglePlusLikeLayo…**](https://github.com/RATTLESNAKE-VIPER/GLGooglePlusLikeLayout)",
+              "",
+              ""
+            ],
+            [
+              "247",
+              "[@hackiftekhar](https://github.com/hackiftekhar)/[**IQAudioRecorderContr…**](https://github.com/hackiftekhar/IQAudioRecorderController)",
+              "A drop-in universal library allows to record audio within the app with a nice User Interface.",
+              ""
+            ],
+            [
+              "231",
+              "[@mukyasa](https://github.com/mukyasa)/[**MMGooglePlayNewsStan…**](https://github.com/mukyasa/MMGooglePlayNewsStand)",
+              "To Simulate iOS Google Play NewsStand app",
+              ""
+            ],
+            [
+              "196",
+              "[@varshylmobile](https://github.com/varshylmobile)/[**TableViewCellFlip**](https://github.com/varshylmobile/TableViewCellFlip)",
+              "Vertical and Horizontal flip animation for table view cell",
+              ""
+            ],
+            [
+              "160",
+              "[@hackiftekhar](https://github.com/hackiftekhar)/[**IQDropDownTextField**](https://github.com/hackiftekhar/IQDropDownTextField)",
+              "TextField with DropDown support using UIPickerView",
+              ""
+            ],
+            [
+              "145",
+              "[@hackiftekhar](https://github.com/hackiftekhar)/[**IQActionSheetPickerV…**](https://github.com/hackiftekhar/IQActionSheetPickerView)",
+              "ActionSheet with UIPickerView",
+              ""
+            ],
+            [
+              "125",
+              "[@mukyasa](https://github.com/mukyasa)/[**MMTransitionEffect**](https://github.com/mukyasa/MMTransitionEffect)",
+              "This is Extension Of RSTransitionEffect(yeahdongcn) Transformed From (Frame based animation) to (Constraint Based Animation)",
+              ""
+            ],
+            [
+              "110",
+              "[@RATTLESNAKE-VIPER](https://github.com/RATTLESNAKE-VIPER)/[**GLMoveToTrashAnimati…**](https://github.com/RATTLESNAKE-VIPER/GLMoveToTrashAnimation)",
+              "",
+              ""
+            ],
+            [
+              "96",
+              "[@RATTLESNAKE-VIPER](https://github.com/RATTLESNAKE-VIPER)/[**GLGroupChatPicView**](https://github.com/RATTLESNAKE-VIPER/GLGroupChatPicView)",
+              "",
+              ""
+            ],
+            [
+              "85",
+              "[@mukyasa](https://github.com/mukyasa)/[**MMPaperPanFlip**](https://github.com/mukyasa/MMPaperPanFlip)",
+              "Approach to Simulate Pan Flip Like in Paper app",
+              ""
+            ],
+            [
+              "59",
+              "[@hackiftekhar](https://github.com/hackiftekhar)/[**IQGeometry**](https://github.com/hackiftekhar/IQGeometry)",
+              "IQGeometry is the extension of CGGeometry",
+              ""
+            ],
+            [
+              "56",
+              "[@hackiftekhar](https://github.com/hackiftekhar)/[**IQDatabaseManager**](https://github.com/hackiftekhar/IQDatabaseManager)",
+              "CoreData helper classes with convenience methods",
+              ""
+            ],
+            [
+              "52",
+              "[@mukyasa](https://github.com/mukyasa)/[**MMPaperGallery**](https://github.com/mukyasa/MMPaperGallery)",
+              "Image Browser similar to Facebook Paper app",
+              ""
+            ],
+            [
+              "40",
+              "[@hackiftekhar](https://github.com/hackiftekhar)/[**IQIrregularView**](https://github.com/hackiftekhar/IQIrregularView)",
+              "IQIrregularView for those who need view touch on a particular part of UIView.",
+              ""
+            ],
+            [
+              "27",
+              "[@hackiftekhar](https://github.com/hackiftekhar)/[**IQStickerView**](https://github.com/hackiftekhar/IQStickerView)",
+              "",
+              ""
+            ],
+            [
+              "22",
+              "[@mukyasa](https://github.com/mukyasa)/[**MMTableCellAnimation**](https://github.com/mukyasa/MMTableCellAnimation)",
+              "This project is about table cell translation animation ",
+              ""
+            ],
+            [
+              "18",
+              "[@hackiftekhar](https://github.com/hackiftekhar)/[**IQFeedbackView**](https://github.com/hackiftekhar/IQFeedbackView)",
+              "Feedback/BugReport iOS control",
+              ""
+            ],
+            [
+              "16",
+              "[@caughtinflux](https://github.com/caughtinflux)/[**iOS-6-SpringBoard-He…**](https://github.com/caughtinflux/iOS-6-SpringBoard-Headers)",
+              "SpringBoard headers from iOS 6, yay!",
+              ""
+            ],
+            [
+              "16",
+              "[@hackiftekhar](https://github.com/hackiftekhar)/[**IQHTTPService**](https://github.com/hackiftekhar/IQHTTPService)",
+              "HTTP Client for iOS",
+              ""
+            ],
+            [
+              "14",
+              "[@varshylmobile](https://github.com/varshylmobile)/[**Hamburger**](https://github.com/varshylmobile/Hamburger)",
+              "Hamburger button transition in ObjC",
+              ""
+            ],
+            [
+              "12",
+              "[@vivekvpandya](https://github.com/vivekvpandya)/[**DrupalRESTKit**](https://github.com/vivekvpandya/DrupalRESTKit)",
+              "DrupalRESTKit is an iOS 7.x  library built on the top of AFNetworking. It simplifies developer tasks to consume REST services provided by Drupal 8. Currently it simplifies CRUD operations on 'node' and 'user' entity type.",
+              ""
+            ],
+            [
+              "11",
+              "[@hackiftekhar](https://github.com/hackiftekhar)/[**IQURLConnection**](https://github.com/hackiftekhar/IQURLConnection)",
+              "A replacement of sendAsynchronousRequest of NSURLConnection with ResponseBlock, ProgressBlock & CompletionBlock",
+              ""
+            ],
+            [
+              "10",
+              "[@hackiftekhar](https://github.com/hackiftekhar)/[**IQEditableLabel**](https://github.com/hackiftekhar/IQEditableLabel)",
+              "UILabel with UIKeyInput protocol implementation",
+              ""
+            ],
+            [
+              "9",
+              "[@vivekvpandya](https://github.com/vivekvpandya)/[**TipsAndTricksAFNetwo…**](https://github.com/vivekvpandya/TipsAndTricksAFNetworkingDrupal)",
+              "An iOS application that connects to Drupal 8 base web site via REST services. It uses AFNetworking Library. ",
+              ""
+            ],
+            [
+              "9",
+              "[@chaitanyapandit](https://github.com/chaitanyapandit)/[**LayoutEngine**](https://github.com/chaitanyapandit/LayoutEngine)",
+              "LayoutEngine demonstrates the use of Text Kit APIs to wrap text around objects  ",
+              ""
+            ],
+            [
+              "8",
+              "[@shubhsin](https://github.com/shubhsin)/[**FBProgressHUD**](https://github.com/shubhsin/FBProgressHUD)",
+              "Facebook Messenger Async Connection Loader Bar for iOS 8",
+              ""
+            ],
+            [
+              "7",
+              "[@amannayak0007](https://github.com/amannayak0007)/[**Aman-Jain**](https://github.com/amannayak0007/Aman-Jain)",
+              "WWDC2015 Student Scholarship Application",
+              ""
+            ],
+            [
+              "7",
+              "[@Lohit9](https://github.com/Lohit9)/[**mobile-buy-sdk-react…**](https://github.com/Lohit9/mobile-buy-sdk-react-native-sample)",
+              "iOS and Android sample apps using Shopify's Mobile Buy SDK in React Native ",
+              ""
+            ],
+            [
+              "7",
+              "[@varshylmobile](https://github.com/varshylmobile)/[**CloudQRScan**](https://github.com/varshylmobile/CloudQRScan)",
+              "CloudQRScan is .com for ME, it’s world’s first cloud based QR application that lets you save all the information that one would want to have on their personal website, thus no need to have personal website – just get your SMART QR from www.cloudqrscan.com.",
+              ""
+            ],
+            [
+              "6",
+              "[@kishorek](https://github.com/kishorek)/[**Free-Tamil-Ebooks**](https://github.com/kishorek/Free-Tamil-Ebooks)",
+              "An iOS eBook Reader. Books are from http://freetamilebooks.com/",
+              "[:arrow_upper_right:](https://itunes.apple.com/us/app/free-tamil-ebooks-fte-cc-licenced/id835915093?mt=8)"
+            ],
+            [
+              "6",
+              "[@aliHafizji](https://github.com/aliHafizji)/[**TowerOfHanoi--cocos2…**](https://github.com/aliHafizji/TowerOfHanoi--cocos2d)",
+              "A tower of hanoi game built using cocos2d",
+              ""
+            ],
+            [
+              "6",
+              "[@nsriram](https://github.com/nsriram)/[**Gumba**](https://github.com/nsriram/Gumba)",
+              "iPad App - Thoughtworks Technnolody Radar",
+              "[:arrow_upper_right:](http://www.thoughtworks.com/radar)"
+            ],
+            [
+              "5",
+              "[@vivekvpandya](https://github.com/vivekvpandya)/[**Notes**](https://github.com/vivekvpandya/Notes)",
+              "An iPhone appliaction compitible with iOS 7 to take notes",
+              ""
+            ],
+            [
+              "5",
+              "[@MaitrayeeGhosh](https://github.com/MaitrayeeGhosh)/[**UITableViewCellCusto…**](https://github.com/MaitrayeeGhosh/UITableViewCellCustomLoadingAnimation)",
+              "It is an example of how to make UITableView cell loading with custom animation, while scrolling the tableView",
+              ""
+            ],
+            [
+              "4",
+              "[@hackiftekhar](https://github.com/hackiftekhar)/[**BackgroundAppRunning**](https://github.com/hackiftekhar/BackgroundAppRunning)",
+              "Running the iOS app in background",
+              ""
+            ],
+            [
+              "4",
+              "[@MaitrayeeGhosh](https://github.com/MaitrayeeGhosh)/[**ExpandableTableView-…**](https://github.com/MaitrayeeGhosh/ExpandableTableView-Tutorial)",
+              "",
+              ""
+            ],
+            [
+              "4",
+              "[@caughtinflux](https://github.com/caughtinflux)/[**quickshoot-pro**](https://github.com/caughtinflux/quickshoot-pro)",
+              "QuickShoot Pro: This is terrible.",
+              ""
+            ],
+            [
+              "4",
+              "[@MaitrayeeGhosh](https://github.com/MaitrayeeGhosh)/[**ParallaxScrollingAni…**](https://github.com/MaitrayeeGhosh/ParallaxScrollingAnimationEffectTutorial)",
+              "This is an example of how to implement parallax scrolling animation effect in iOS app",
+              ""
+            ],
+            [
+              "3",
+              "[@thinknikhil](https://github.com/thinknikhil)/[**FlipView**](https://github.com/thinknikhil/FlipView)",
+              "Magazine Style View/Layout like Flipboard",
+              ""
+            ],
+            [
+              "3",
+              "[@caughtinflux](https://github.com/caughtinflux)/[**include**](https://github.com/caughtinflux/include)",
+              "",
+              ""
+            ],
+            [
+              "3",
+              "[@vivekvpandya](https://github.com/vivekvpandya)/[**TipsAndTricksCFNetwo…**](https://github.com/vivekvpandya/TipsAndTricksCFNetworkingDrupal)",
+              "This is an iOS application that interact with a site made with Drupal 8 and it uses its REST web services.",
+              ""
+            ],
+            [
+              "3",
+              "[@aliHafizji](https://github.com/aliHafizji)/[**Appacitive-iOS-SDK**](https://github.com/aliHafizji/Appacitive-iOS-SDK)",
+              "iOS SDK for the Appacitive platform",
+              ""
+            ],
+            [
+              "3",
+              "[@MaitrayeeGhosh](https://github.com/MaitrayeeGhosh)/[**ImageDrawingControll…**](https://github.com/MaitrayeeGhosh/ImageDrawingController)",
+              "It is a controller for drawing on an image. User can pass an image to the controller and mention the desired pencil colour and pencil brush width and start drawing.",
+              ""
+            ],
+            [
+              "2",
+              "[@amannayak0007](https://github.com/amannayak0007)/[**StackOverFlow-master**](https://github.com/amannayak0007/StackOverFlow-master)",
+              "Ask Question, Get Answer",
+              ""
+            ],
+            [
+              "2",
+              "[@caughtinflux](https://github.com/caughtinflux)/[**iOS6-Private-Framewo…**](https://github.com/caughtinflux/iOS6-Private-Frameworks)",
+              "Private frameworks from iOS 6 :D",
+              ""
+            ],
+            [
+              "2",
+              "[@nsriram](https://github.com/nsriram)/[**SampleVideoStreamApp**](https://github.com/nsriram/SampleVideoStreamApp)",
+              "SampleVideoStreamApp",
+              ""
+            ],
+            [
+              "2",
+              "[@bhallacharanjit](https://github.com/bhallacharanjit)/[**SoapCaller-Parser**](https://github.com/bhallacharanjit/SoapCaller-Parser)",
+              "This library would call the soap web service and parse it according to the tags thus given to it and return an array of strings to the delegate.",
+              ""
+            ],
+            [
+              "2",
+              "[@ravirajm](https://github.com/ravirajm)/[**Spire**](https://github.com/ravirajm/Spire)",
+              "Siri installer.",
+              ""
+            ],
+            [
+              "2",
+              "[@hackiftekhar](https://github.com/hackiftekhar)/[**LocuAPI**](https://github.com/hackiftekhar/LocuAPI)",
+              "UnOfficial Locu API demo",
+              ""
+            ],
+            [
+              "2",
+              "[@hackiftekhar](https://github.com/hackiftekhar)/[**IQNetworkTaskManager**](https://github.com/hackiftekhar/IQNetworkTaskManager)",
+              "Manage Multiple Network requests with an easy way",
+              ""
+            ],
+            [
+              "2",
+              "[@kumaranvram](https://github.com/kumaranvram)/[**NSTableView-Cell-Sel…**](https://github.com/kumaranvram/NSTableView-Cell-Selection-Demo)",
+              "This project is a Cocoa application that demostrates how to identify the cell that has been currently clicked in a NSTableView",
+              "[:arrow_upper_right:](http://www.gurusonthego.com)"
+            ],
+            [
+              "2",
+              "[@avikantz](https://github.com/avikantz)/[**FMDB-Demo**](https://github.com/avikantz/FMDB-Demo)",
+              "Trying out random queries using the university database on Mac OS X using FMDB.",
+              ""
+            ],
+            [
+              "2",
+              "[@MaitrayeeGhosh](https://github.com/MaitrayeeGhosh)/[**ExpandableTableView**](https://github.com/MaitrayeeGhosh/ExpandableTableView)",
+              "It is a simple example of expandable table view cell",
+              ""
+            ],
+            [
+              "2",
+              "[@MaitrayeeGhosh](https://github.com/MaitrayeeGhosh)/[**PageCurlAnimationExa…**](https://github.com/MaitrayeeGhosh/PageCurlAnimationExample)",
+              "It is an example of partial and full page curl animation, both horizontally and vertically.",
+              ""
+            ],
+            [
+              "2",
+              "[@n9986](https://github.com/n9986)/[**ObservingUIViewMovem…**](https://github.com/n9986/ObservingUIViewMovement)",
+              "Quick clean fix for monitoring UIViews for movement when they are nested inside another UIView",
               ""
             ]
           ]
