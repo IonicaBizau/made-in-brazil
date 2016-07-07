@@ -25,6 +25,7 @@
  - [PHP](#php)
  - [Python](#python)
  - [R](#r)
+ - [Ruby](#ruby)
 
 ### JavaScript #
 :star2: | Name | Description | 🌍
@@ -942,6 +943,97 @@
 5 | [@rohanrao91](https://github.com/rohanrao91)/[**Models_R**](https://github.com/rohanrao91/Models_R) | Cross-Validation functions for various models in R |
 3 | [@nishantsbi](https://github.com/nishantsbi)/[**R-Programming-Assign…**](https://github.com/nishantsbi/R-Programming-Assignment-3) | R-Programming Project 3 |
 2 | [@rohanrao91](https://github.com/rohanrao91)/[**DataProcessing_R**](https://github.com/rohanrao91/DataProcessing_R) | Standard data processing functions |
+### Ruby #
+:star2: | Name | Description | 🌍
+--- | --- | --- | ---
+450 | [@arunagw](https://github.com/arunagw)/[**omniauth-twitter**](https://github.com/arunagw/omniauth-twitter) | OmniAuth strategy for Twitter | [:arrow_upper_right:](http://arunagw.github.io/omniauth-twitter/)
+72 | [@arunagw](https://github.com/arunagw)/[**css-bootstrap-rails**](https://github.com/arunagw/css-bootstrap-rails) | Twitter Bootstrap CSS for Rails 3 | [:arrow_upper_right:](http://twitter.github.com/bootstrap)
+38 | [@asanghi](https://github.com/asanghi)/[**fiscali**](https://github.com/asanghi/fiscali) | Fiscal Year Date Functions | [:arrow_upper_right:](http://asanghi.github.com/fiscali)
+34 | [@anildigital](https://github.com/anildigital)/[**partioprint**](https://github.com/anildigital/partioprint) | It helps you to find out what partials were rendered for the generating html with erbs |
+31 | [@vishnugopal](https://github.com/vishnugopal)/[**rubymotion-ios-sdk-d…**](https://github.com/vishnugopal/rubymotion-ios-sdk-development-cookbook) | A cookbook example from the iOS SDK Development book in RubyMotion |
+30 | [@bagwanpankaj](https://github.com/bagwanpankaj)/[**shortly**](https://github.com/bagwanpankaj/shortly) | A Ruby wrapper for various url shortener services | [:arrow_upper_right:](http://bagwanpankaj.com)
+30 | [@asanghi](https://github.com/asanghi)/[**excel_rails**](https://github.com/asanghi/excel_rails) | rxls views for Rails 3 |
+27 | [@vishnugopal](https://github.com/vishnugopal)/[**twitter-search-follo…**](https://github.com/vishnugopal/twitter-search-follow-bot) | Auto-follows users who tweet particular keywords | [:arrow_upper_right:](http://vish.in/)
+20 | [@gautamrege](https://github.com/gautamrege)/[**pusher**](https://github.com/gautamrege/pusher) | Push Notifications example using express.js, socket.io - powered by a Rails app | [:arrow_upper_right:](http://blog.joshsoftware.com/2012/04/12/real-time-games-using-html5-websockets-nodejs-and-socket-io)
+17 | [@nithinbekal](https://github.com/nithinbekal)/[**actioncable-chat-exa…**](https://github.com/nithinbekal/actioncable-chat-example) | A simple chat app using Rails and ActionCable | [:arrow_upper_right:](http://nithinbekal.com/posts/rails-action-cable/)
+14 | [@smtalim](https://github.com/smtalim)/[**YahooStockQuotes**](https://github.com/smtalim/YahooStockQuotes) | Access Yahoo stock quotes web service | [:arrow_upper_right:](http://rubylearning.org/)
+13 | [@vikhyat](https://github.com/vikhyat)/[**latex-to-unicode**](https://github.com/vikhyat/latex-to-unicode) | convert simple LaTeX expressions to unicode | [:arrow_upper_right:](http://vikhyat.net/stuff/latex_to_unicode/)
+13 | [@railsfactory](https://github.com/railsfactory)/[**spree_multi_theme**](https://github.com/railsfactory/spree_multi_theme) |  |
+12 | [@vikhyat](https://github.com/vikhyat)/[**ai-contest-ruby**](https://github.com/vikhyat/ai-contest-ruby) | ruby starter pack for the google ai contest |
+12 | [@railsfactory](https://github.com/railsfactory)/[**crux**](https://github.com/railsfactory/crux) | SaaS Extension for SpreeCommerce  | [:arrow_upper_right:](http://spree.railsfactory.com)
+10 | [@vikhyat](https://github.com/vikhyat)/[**discourse-persona**](https://github.com/vikhyat/discourse-persona) | persona login for Discourse |
+10 | [@smtalim](https://github.com/smtalim)/[**ChessOpeningMoves**](https://github.com/smtalim/ChessOpeningMoves) | A DSL for chess opening moves |
+10 | [@nithinbekal](https://github.com/nithinbekal)/[**spellingbee**](https://github.com/nithinbekal/spellingbee) | A spelling correction tool for ruby |
+10 | [@smtalim](https://github.com/smtalim)/[**sinatra-street-view**](https://github.com/smtalim/sinatra-street-view) | A Sinatra app that displays the street-view of a given location |
+10 | [@nileshtrivedi](https://github.com/nileshtrivedi)/[**gupshup**](https://github.com/nileshtrivedi/gupshup) | Ruby wrapper for SMSGupShup API | [:arrow_upper_right:](http://enterprise.smsgupshup.com)
+9 | [@gautamrege](https://github.com/gautamrege)/[**RPCFN5solutions**](https://github.com/gautamrege/RPCFN5solutions) | Solutions for RPCFN #5 |
+8 | [@vikhyat](https://github.com/vikhyat)/[**StormyCloud**](https://github.com/vikhyat/StormyCloud) | Ridiculously simple distributed applications in Ruby. |
+8 | [@gautamrege](https://github.com/gautamrege)/[**short_circuit**](https://github.com/gautamrege/short_circuit) | RPCFN#3 Find out redundant resistors in a closed circuit | [:arrow_upper_right:](http://www.joshsoftware.com)
+8 | [@smtalim](https://github.com/smtalim)/[**myrubyprograms**](https://github.com/smtalim/myrubyprograms) | RubyLearning.org programs used for teaching | [:arrow_upper_right:](http://rubylearning.org/)
+8 | [@swanandp](https://github.com/swanandp)/[**MapReduce_with_hadoo…**](https://github.com/swanandp/MapReduce_with_hadoop) | Supplementary code I used in the "Build your first MapReduce with Hadoop and Ruby" at the BRUG March meet-up. | [:arrow_upper_right:](https://speakerdeck.com/swanandp/build-your-first-mapreduce-with-hadoop-and-ruby)
+7 | [@arunagw](https://github.com/arunagw)/[**rake_migration**](https://github.com/arunagw/rake_migration) | rake_migration | [:arrow_upper_right:](http://www.pivotaltracker.com/projects/126037)
+7 | [@swanandp](https://github.com/swanandp)/[**gcj**](https://github.com/swanandp/gcj) | My attempts at Google Code Jam problems |
+7 | [@bagwanpankaj](https://github.com/bagwanpankaj)/[**active_diigo**](https://github.com/bagwanpankaj/active_diigo) | Diigo Restful API wrapper; much like ActiveRecord | [:arrow_upper_right:](http://bagwanpankaj.com)
+7 | [@vikhyat](https://github.com/vikhyat)/[**similar-sounding-wor…**](https://github.com/vikhyat/similar-sounding-words) | Uses soundex to give back a list of similar sounding words. |
+7 | [@vishnugopal](https://github.com/vishnugopal)/[**memcached-persistent…**](https://github.com/vishnugopal/memcached-persistent-connector) | A simple web server daemon in Ruby to allow command-line scripts to have persistent connections to memcached. |
+7 | [@bagwanpankaj](https://github.com/bagwanpankaj)/[**flash_player_helper**](https://github.com/bagwanpankaj/flash_player_helper) | Helper wrapper for JW Flash Player and Image Rotator | [:arrow_upper_right:](http://bagwanpankaj.com)
+5 | [@ketan](https://github.com/ketan)/[**ruby-diff**](https://github.com/ketan/ruby-diff) |  |
+5 | [@asanghi](https://github.com/asanghi)/[**serial_preference**](https://github.com/asanghi/serial_preference) | Serialized Preferences for Model |
+5 | [@vishnugopal](https://github.com/vishnugopal)/[**menu-http**](https://github.com/vishnugopal/menu-http) | HTTP daemon for menu-driven stateful applications | [:arrow_upper_right:](http://vishnugopal.com/)
+5 | [@railsfactory](https://github.com/railsfactory)/[**.motion**](https://github.com/railsfactory/.motion) | shake will help you load custom code into your rubymotion apps |
+5 | [@asanghi](https://github.com/asanghi)/[**omniauth-constantcon…**](https://github.com/asanghi/omniauth-constantcontact2) | OmniAuth Strategy for Constant Contact using OAuth2 |
+5 | [@smtalim](https://github.com/smtalim)/[**exifmap**](https://github.com/smtalim/exifmap) | Project that shows the location on a map where a photo was snapped. |
+5 | [@kaiwren](https://github.com/kaiwren)/[**to_nokogiri**](https://github.com/kaiwren/to_nokogiri) | Moving ActiveSupport's Hash#to_xml to use Nokogiri::XML::Builder | [:arrow_upper_right:](http://blog.sidu.in)
+5 | [@rtdp](https://github.com/rtdp)/[**myloveruby**](https://github.com/rtdp/myloveruby) | Collection of reasons to love Ruby. | [:arrow_upper_right:](myloveruby.herokuapp.com)
+4 | [@railsfactory](https://github.com/railsfactory)/[**spree-api**](https://github.com/railsfactory/spree-api) | Spree API gem |
+4 | [@railsfactory](https://github.com/railsfactory)/[**spree_odg_theme**](https://github.com/railsfactory/spree_odg_theme) |  |
+4 | [@vikhyat](https://github.com/vikhyat)/[**zenity.rb**](https://github.com/vikhyat/zenity.rb) | Ruby-ish syntax for zenity GTK dialogs. |
+4 | [@swanandp](https://github.com/swanandp)/[**simple_versioning**](https://github.com/swanandp/simple_versioning) | A vanilla versioning interface for active_record |
+4 | [@vishnugopal](https://github.com/vishnugopal)/[**oku-no-hitto**](https://github.com/vishnugopal/oku-no-hitto) | Ōku no hitto ("many hits" in Japanese) is an experiment to figure out how best to saturate a HTTP pipe. | [:arrow_upper_right:](http://vishnugopal.com/)
+4 | [@vishnugopal](https://github.com/vishnugopal)/[**barcode-segmenter**](https://github.com/vishnugopal/barcode-segmenter) | Barcode Segmenter is a tool that crops out barcodes from larger images.  | [:arrow_upper_right:](http://vish.in/)
+4 | [@deepak](https://github.com/deepak)/[**chef_cookbooks**](https://github.com/deepak/chef_cookbooks) | Chef cookbooks to setup a rails stack using chef-solo |
+3 | [@vikhyat](https://github.com/vikhyat)/[**theca**](https://github.com/vikhyat/theca) | basic console mp3 player |
+3 | [@arunagw](https://github.com/arunagw)/[**trello-hipchat**](https://github.com/arunagw/trello-hipchat) | Parse Trello activity feed into HipChat |
+3 | [@railsfactory](https://github.com/railsfactory)/[**emotion**](https://github.com/railsfactory/emotion) | extended rubymotion code generator |
+3 | [@anildigital](https://github.com/anildigital)/[**getfake**](https://github.com/anildigital/getfake) | Its a web UI for for ruby faker gem | [:arrow_upper_right:](http://getfake.heroku.com)
+3 | [@anildigital](https://github.com/anildigital)/[**codesnippets**](https://github.com/anildigital/codesnippets) | my random codes | [:arrow_upper_right:](http://anilwadghule.com/blog)
+3 | [@bagwanpankaj](https://github.com/bagwanpankaj)/[**silverlight_player_h…**](https://github.com/bagwanpankaj/silverlight_player_helper) | A Rails Plugin to provide view helper for JW SIlverlight player | [:arrow_upper_right:](http://bagwanpankaj.com)
+3 | [@kaiwren](https://github.com/kaiwren)/[**agni**](https://github.com/kaiwren/agni) | JVM based download manager written in ruby |
+3 | [@kaiwren](https://github.com/kaiwren)/[**warren**](https://github.com/kaiwren/warren) | ActiveRecord extension for MySql dbs enabling fulltext searching by allowing a model to connect to a MyISAM mirror of an InnoDB table | [:arrow_upper_right:](http://blog.sidu.in)
+3 | [@vagmi](https://github.com/vagmi)/[**booklist**](https://github.com/vagmi/booklist) | a sample RoR application |
+2 | [@nileshtrivedi](https://github.com/nileshtrivedi)/[**smsapp**](https://github.com/nileshtrivedi/smsapp) | Build SMS-based applications with ease using Ruby and SMSGupShup API | [:arrow_upper_right:](http://enterprise.smsgupshup.com)
+2 | [@asanghi](https://github.com/asanghi)/[**clinode**](https://github.com/asanghi/clinode) | Command Line control over Linode thru the Linode API |
+2 | [@asanghi](https://github.com/asanghi)/[**dbt**](https://github.com/asanghi/dbt) | Database Driven Templates (scoped to Company) |
+2 | [@smtalim](https://github.com/smtalim)/[**exifmap_sinatra**](https://github.com/smtalim/exifmap_sinatra) | Project that shows the location on a map where a photo was snapped using Sinatra. |
+2 | [@utkarshkukreti](https://github.com/utkarshkukreti)/[**phaad**](https://github.com/utkarshkukreti/phaad) | A beautiful way to write PHP code. |
+2 | [@railsfactory](https://github.com/railsfactory)/[**crux_faq**](https://github.com/railsfactory/crux_faq) |  |
+2 | [@railsfactory](https://github.com/railsfactory)/[**crux_digital**](https://github.com/railsfactory/crux_digital) |  |
+2 | [@railsfactory](https://github.com/railsfactory)/[**crux_email_to_friend**](https://github.com/railsfactory/crux_email_to_friend) |  |
+2 | [@railsfactory](https://github.com/railsfactory)/[**crux_reviews**](https://github.com/railsfactory/crux_reviews) |  |
+2 | [@railsfactory](https://github.com/railsfactory)/[**crux_share**](https://github.com/railsfactory/crux_share) |  |
+2 | [@utkarshkukreti](https://github.com/utkarshkukreti)/[**ace_editor-rails**](https://github.com/utkarshkukreti/ace_editor-rails) | Ace Editor for the Rails pipeline |
+2 | [@railsfactory](https://github.com/railsfactory)/[**crux_theme**](https://github.com/railsfactory/crux_theme) |  |
+2 | [@bagwanpankaj](https://github.com/bagwanpankaj)/[**avataree**](https://github.com/bagwanpankaj/avataree) | Ruby DSL for Gravatar profile and images  | [:arrow_upper_right:](http://bagwanpankaj.com)
+2 | [@arunagw](https://github.com/arunagw)/[**capybara_test**](https://github.com/arunagw/capybara_test) | capybara_test |
+2 | [@kaiwren](https://github.com/kaiwren)/[**ruse**](https://github.com/kaiwren/ruse) | A Ruby Threadpool based on http://stackoverflow.com/questions/81788… | [:arrow_upper_right:](http://blog.sidu.in)
+2 | [@arunagw](https://github.com/arunagw)/[**omniauth-picplz**](https://github.com/arunagw/omniauth-picplz) | PicPlz OAuth strategy for OmniAuth |
+2 | [@kaiwren](https://github.com/kaiwren)/[**farse**](https://github.com/kaiwren/farse) | https://gist.github.com/2046359 | [:arrow_upper_right:](https://gist.github.com/2046359)
+2 | [@smtalim](https://github.com/smtalim)/[**Saral**](https://github.com/smtalim/Saral) | Saral the Ruby web framework by RubyLearning. |
+2 | [@utkarshkukreti](https://github.com/utkarshkukreti)/[**rubymotion-hackernew…**](https://github.com/utkarshkukreti/rubymotion-hackernews) |  |
+2 | [@ershad](https://github.com/ershad)/[**Test-Git-repo**](https://github.com/ershad/Test-Git-repo) | This repo is used to learn git |
+2 | [@utkarshkukreti](https://github.com/utkarshkukreti)/[**twitter-angellist-br…**](https://github.com/utkarshkukreti/twitter-angellist-bridge) | Major WIP |
+2 | [@vagmi](https://github.com/vagmi)/[**todolist**](https://github.com/vagmi/todolist) |  |
+2 | [@utkarshkukreti](https://github.com/utkarshkukreti)/[**rubymotion-breakout**](https://github.com/utkarshkukreti/rubymotion-breakout) | A simple implementation of the Breakout game in RubyMotion. |
+2 | [@anildigital](https://github.com/anildigital)/[**this**](https://github.com/anildigital/this) | The Zen of  Ruby |
+2 | [@railsfactory](https://github.com/railsfactory)/[**crux_i18n**](https://github.com/railsfactory/crux_i18n) |  |
+2 | [@anildigital](https://github.com/anildigital)/[**pune-rails-meetup-ra…**](https://github.com/anildigital/pune-rails-meetup-rack) | My 'Rack' talk at Pune Rails Meetup #4 | [:arrow_upper_right:](http://pune-rails-meetup-rack.heroku.com/)
+2 | [@anildigital](https://github.com/anildigital)/[**doesfollow**](https://github.com/anildigital/doesfollow) | A simple gem to show does follow status of Twitter users. |
+2 | [@vikhyat](https://github.com/vikhyat)/[**discourse-hummingbir…**](https://github.com/vikhyat/discourse-hummingbird) | Discourse plugin for all Hummingbird-related customizations |
+2 | [@swanandp](https://github.com/swanandp)/[**loess.rb**](https://github.com/swanandp/loess.rb) | A Simple LOESS / LOWESS calculator built in Ruby |
+2 | [@steverob](https://github.com/steverob)/[**smslane**](https://github.com/steverob/smslane) | A simple wrapper gem for the Smslane.com HTTP API |
+2 | [@vikhyat](https://github.com/vikhyat)/[**indexable**](https://github.com/vikhyat/indexable) | Rack middleware that executes javascript before serving pages to crawlers. |
+2 | [@vikhyat](https://github.com/vikhyat)/[**aufstellung**](https://github.com/vikhyat/aufstellung) | a tiny application for helping with the selling of used books to new students |
+2 | [@anildigital](https://github.com/anildigital)/[**cheatsweets**](https://github.com/anildigital/cheatsweets) | It's just sweet | [:arrow_upper_right:](http://cheatsweets.digitalcodes.org)
 
 ## :yum: How to contribute
 Have an idea? Found a bug? See [how to contribute][contributing].
