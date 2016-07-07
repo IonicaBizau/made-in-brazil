@@ -23,6 +23,7 @@
  - [Objective-C](#objective-c)
  - [Perl](#perl)
  - [PHP](#php)
+ - [Python](#python)
 
 ### JavaScript #
 :star2: | Name | Description | 🌍
@@ -772,6 +773,161 @@
 2 | [@ashfame](https://github.com/ashfame)/[**Directory-Last-Modif…**](https://github.com/ashfame/Directory-Last-Modified-Timestamp) |  |
 2 | [@ashfame](https://github.com/ashfame)/[**facebook-like-thumbn…**](https://github.com/ashfame/facebook-like-thumbnail) | WordPress plugin which specifies the thumbnail FB should use while embedding links | [:arrow_upper_right:](http://wordpress.org/plugins/facebook-like-thumbnail/)
 2 | [@AnupamSaraph](https://github.com/AnupamSaraph)/[**AssetTracker**](https://github.com/AnupamSaraph/AssetTracker) | Track public assets and share them |
+### Python #
+:star2: | Name | Description | 🌍
+--- | --- | --- | ---
+2070 | [@kovidgoyal](https://github.com/kovidgoyal)/[**calibre**](https://github.com/kovidgoyal/calibre) | The official source code repository for the calibre ebook manager | [:arrow_upper_right:](https://calibre-ebook.com)
+1027 | [@ajinabraham](https://github.com/ajinabraham)/[**Mobile-Security-Fram…**](https://github.com/ajinabraham/Mobile-Security-Framework-MobSF) | Mobile Security Framework is an intelligent, all-in-one open source mobile application (Android/iOS) automated pen-testing framework capable of performing static, dynamic analysis and web API testing. | [:arrow_upper_right:](http://opensecurity.in)
+575 | [@axitkhurana](https://github.com/axitkhurana)/[**buster**](https://github.com/axitkhurana/buster) | Brute force static site generator for Ghost |
+450 | [@amitu](https://github.com/amitu)/[**importd**](https://github.com/amitu/importd) | django based mini framework inspired from sinatra. fully compatible with django. | [:arrow_upper_right:](http://amitu.com/importd/)
+325 | [@kushaldas](https://github.com/kushaldas)/[**pym**](https://github.com/kushaldas/pym) | Python for you and me book |
+301 | [@abidrahmank](https://github.com/abidrahmank)/[**OpenCV2-Python-Tutor…**](https://github.com/abidrahmank/OpenCV2-Python-Tutorials) | This repo contains tutorials on OpenCV-Python library using new cv2 interface |
+237 | [@vaidik](https://github.com/vaidik)/[**sherlock**](https://github.com/vaidik/sherlock) | Easy distributed locks for Python with a choice of backends. |
+218 | [@abidrahmank](https://github.com/abidrahmank)/[**OpenCV2-Python**](https://github.com/abidrahmank/OpenCV2-Python) | Contains some Python Samples with new cv2 interface of OpenCV |
+183 | [@OrkoHunter](https://github.com/OrkoHunter)/[**ping-me**](https://github.com/OrkoHunter/ping-me) | A cross platform personalized Ping | [:arrow_upper_right:](http://ping-me.in)
+157 | [@harshasrinivas](https://github.com/harshasrinivas)/[**cli-github**](https://github.com/harshasrinivas/cli-github) | Github within the CLI :computer: |
+131 | [@ajinabraham](https://github.com/ajinabraham)/[**Xenotix-Python-Keylo…**](https://github.com/ajinabraham/Xenotix-Python-Keylogger) | Xenotix Python Keylogger for Windows. |
+102 | [@kushaldas](https://github.com/kushaldas)/[**retask**](https://github.com/kushaldas/retask) | Retask is a simple task queue implementation written for human beings. It provides generic solution to create and manage task queues.  |
+98 | [@ajinabraham](https://github.com/ajinabraham)/[**OWASP-Xenotix-XSS-Ex…**](https://github.com/ajinabraham/OWASP-Xenotix-XSS-Exploit-Framework) | OWASP Xenotix XSS Exploit Framework is an advanced Cross Site Scripting (XSS) vulnerability detection and exploitation framework. | [:arrow_upper_right:](https://www.owasp.org/index.php/OWASP_Xenotix_XSS_Exploit_Framework)
+87 | [@abidrahmank](https://github.com/abidrahmank)/[**OpenCV-Python**](https://github.com/abidrahmank/OpenCV-Python) | OpenCV examples in Python |
+65 | [@punchagan](https://github.com/punchagan)/[**cinspect**](https://github.com/punchagan/cinspect) | Code inspection for Python builtins |
+64 | [@amitu](https://github.com/amitu)/[**smarturls**](https://github.com/amitu/smarturls) | smarturls a url construction helper for django |
+61 | [@JayVora-SerpentCS](https://github.com/JayVora-SerpentCS)/[**hotelmgmt_v8**](https://github.com/JayVora-SerpentCS/hotelmgmt_v8) | Hotel Management System based on Odoo | [:arrow_upper_right:](http://www.serpentcs.com)
+61 | [@ajinabraham](https://github.com/ajinabraham)/[**Static-DOM-XSS-Scann…**](https://github.com/ajinabraham/Static-DOM-XSS-Scanner) | Static DOM XSS Scanner is a Static Analysis tool written in python that will iterate through all the JavaScript and HTML files under the given directory and will list out all the possible sources and sinks that may cause DOM XSS. At the end of the scan, the tool will generate an HTML report. |
+57 | [@vaidik](https://github.com/vaidik)/[**commentjson**](https://github.com/vaidik/commentjson) | Add JavaScript or Python style comments in JSON. |
+52 | [@amitu](https://github.com/amitu)/[**djangothis**](https://github.com/amitu/djangothis) | SimpleHTTPServer with Django steroids |
+51 | [@ajinabraham](https://github.com/ajinabraham)/[**Xenotix-APK-Reverser**](https://github.com/ajinabraham/Xenotix-APK-Reverser) | Xenotix APK Reverser is an OpenSource Android Application Package (APK) decompiler and disassembler powered by dex2jar, baksmali and jd-core. | [:arrow_upper_right:](http://opensecurity.in)
+43 | [@JayVora-SerpentCS](https://github.com/JayVora-SerpentCS)/[**SerpentCS_Contributi…**](https://github.com/JayVora-SerpentCS/SerpentCS_Contributions-v8) | The modules SerpentCS is contributing for All versions of Odoo since v7! | [:arrow_upper_right:](http://www.serpentcs.com)
+40 | [@anandology](https://github.com/anandology)/[**pyjs**](https://github.com/anandology/pyjs) | Python to Javascript compiler |
+39 | [@anandology](https://github.com/anandology)/[**python-practice-book**](https://github.com/anandology/python-practice-book) | A book to learn Python programming language through lot of examples and practice problems |
+39 | [@ajinabraham](https://github.com/ajinabraham)/[**WebAppSec**](https://github.com/ajinabraham/WebAppSec) | Web Application Security |
+31 | [@kovidgoyal](https://github.com/kovidgoyal)/[**powerline-daemon**](https://github.com/kovidgoyal/powerline-daemon) | A daemon to reduce the resource consumption of powerline by having a single python process that serves all powerline requests |
+31 | [@JayVora-SerpentCS](https://github.com/JayVora-SerpentCS)/[**EduERPv8**](https://github.com/JayVora-SerpentCS/EduERPv8) | Education ERP based on Odoo! | [:arrow_upper_right:](http://www.serpentcs.com)
+28 | [@kushaldas](https://github.com/kushaldas)/[**tunir**](https://github.com/kushaldas/tunir) |  |
+24 | [@softvar](https://github.com/softvar)/[**simplegist**](https://github.com/softvar/simplegist) | Advanced python wrapper for Github Gist API | [:arrow_upper_right:](https://pypi.python.org/pypi/simplegist)
+23 | [@JayVora-SerpentCS](https://github.com/JayVora-SerpentCS)/[**Jasperv8**](https://github.com/JayVora-SerpentCS/Jasperv8) | Jasper Reports Engine for Odoo | [:arrow_upper_right:](http://www.serpentcs.com)
+22 | [@vaidik](https://github.com/vaidik)/[**incoming**](https://github.com/vaidik/incoming) | JSON validation framework for Python. | [:arrow_upper_right:](http://incoming.readthedocs.org/en/latest/)
+22 | [@amitu](https://github.com/amitu)/[**fhurl**](https://github.com/amitu/fhurl) | Django Form Handler Generic View | [:arrow_upper_right:](http://packages.python.org/fhurl/)
+22 | [@softvar](https://github.com/softvar)/[**json2html**](https://github.com/softvar/json2html) | python module  for converting complex JSON oject to HTML Table representation | [:arrow_upper_right:](https://pypi.python.org/pypi/json2html)
+19 | [@ajinabraham](https://github.com/ajinabraham)/[**PoC**](https://github.com/ajinabraham/PoC) | Proof of Concepts, Exploits |
+19 | [@dhruvbaldawa](https://github.com/dhruvbaldawa)/[**project_euler**](https://github.com/dhruvbaldawa/project_euler) | My code for solving problems at Project Euler(http://projecteuler.net/problems) |
+18 | [@abhikandoi2000](https://github.com/abhikandoi2000)/[**knowyourgov**](https://github.com/abhikandoi2000/knowyourgov) | Real-time Sentiment analysis for Politicians | [:arrow_upper_right:](https://gcdc2013-know-your-gov.appspot.com)
+18 | [@sengupta](https://github.com/sengupta)/[**twss**](https://github.com/sengupta/twss) | Python based double entendre classifier | [:arrow_upper_right:](http://kt4.in/twss)
+18 | [@lionaneesh](https://github.com/lionaneesh)/[**Monitor-Web**](https://github.com/lionaneesh/Monitor-Web) | Did you come across a website in which you were really interested, and wanted to check for any updates, or maybe you are interested in getting updates if the documentation of your favorite website was updated, Is the answer is yes, Monitor-Web is your one stop solution, Monitor-Web tracks any changes in your favorite content and alerts you with proper log of differences. So, now never waste time surfing the web to check if there are any updates, Simply add the website you wish to monitor and relax, Whenever you need to check simply run the program and it will automatically sync for any changes or are provide you with a diff like output. It works best for static websites, mainly online HTML ebooks, online documentation, course lists, wiki's or something similar. |
+18 | [@amitu](https://github.com/amitu)/[**dutils**](https://github.com/amitu/dutils) | django utilities | [:arrow_upper_right:]( http://packages.python.org/dutils/)
+18 | [@amitu](https://github.com/amitu)/[**amitu-websocket-clie…**](https://github.com/amitu/amitu-websocket-client) | Python WebSocket Client Library |
+17 | [@sachingupta006](https://github.com/sachingupta006)/[**github-crawler**](https://github.com/sachingupta006/github-crawler) | A simple crawler in python |
+16 | [@anandology](https://github.com/anandology)/[**subcommand**](https://github.com/anandology/subcommand) | Python library to build command line utilities with subcommands. |
+15 | [@nigelbabu](https://github.com/nigelbabu)/[**pppconverter**](https://github.com/nigelbabu/pppconverter) | Equivalent Salary Converter |
+13 | [@amitu](https://github.com/amitu)/[**gitology**](https://github.com/amitu/gitology) | Git Based Knowledge Management System | [:arrow_upper_right:](http://www.amitu.com/gitology/)
+13 | [@anandology](https://github.com/anandology)/[**electionspot**](https://github.com/anandology/electionspot) | Visualizing Indian elections |
+13 | [@ajinabraham](https://github.com/ajinabraham)/[**Xenotix-xBOT**](https://github.com/ajinabraham/Xenotix-xBOT) | Xenotix xBOT is a Cross Platform PoC Bot that abuse certain Google Services to implement it's C&C | [:arrow_upper_right:](http://opensecurity.in)
+13 | [@vaidik](https://github.com/vaidik)/[**sharepastes**](https://github.com/vaidik/sharepastes) | Submits your clipboard text to PasteBin.com and gives you the URL to the paste, doing everything without requiring you to open your web browser. |
+12 | [@kushaldas](https://github.com/kushaldas)/[**darkserver**](https://github.com/kushaldas/darkserver) | GNU Build-id providing service |
+11 | [@anandology](https://github.com/anandology)/[**broadgauge**](https://github.com/anandology/broadgauge) | Platform for managing training/workshops |
+9 | [@punchagan](https://github.com/punchagan)/[**childrens-park**](https://github.com/punchagan/childrens-park) | A Jabber/Google-talk bot that can be used as a chatroom. (Based on python-jabberbot) |
+9 | [@JayVora-SerpentCS](https://github.com/JayVora-SerpentCS)/[**MassEditing**](https://github.com/JayVora-SerpentCS/MassEditing) | Mass Editing Module for Odoo | [:arrow_upper_right:](http://www.serpentcs.com)
+9 | [@anandology](https://github.com/anandology)/[**solving-puzzles-with…**](https://github.com/anandology/solving-puzzles-with-python) | Solving Puzzles with Python - tutorial at PyCon India 2012 | [:arrow_upper_right:](http://anandology.com/presentations/solving-puzzles-with-python/)
+8 | [@vaidik](https://github.com/vaidik)/[**GoogleMovieShowtimes…**](https://github.com/vaidik/GoogleMovieShowtimesPythonParser) | Python class for parsing Google Movie Showtimes (www.google.com/movies) response. |
+8 | [@OrkoHunter](https://github.com/OrkoHunter)/[**PotterScript**](https://github.com/OrkoHunter/PotterScript) | /x/pel/e/r/mus |
+8 | [@lakshmivyas](https://github.com/lakshmivyas)/[**conche**](https://github.com/lakshmivyas/conche) | A primitive build system for Cocoa apps | [:arrow_upper_right:](http://ringce.com/conche)
+8 | [@anandology](https://github.com/anandology)/[**hacks**](https://github.com/anandology/hacks) | Utility scripts |
+8 | [@thejeshgn](https://github.com/thejeshgn)/[**blocked**](https://github.com/thejeshgn/blocked) | Blocked by ISPs in India |
+7 | [@harshasrinivas](https://github.com/harshasrinivas)/[**spinning**](https://github.com/harshasrinivas/spinning) | Spinner animation for CLI apps |
+7 | [@anandology](https://github.com/anandology)/[**datastore**](https://github.com/anandology/datastore) | Simple document database on top of relational database |
+7 | [@kushaldas](https://github.com/kushaldas)/[**autocloud**](https://github.com/kushaldas/autocloud) |  |
+7 | [@abidrahmank](https://github.com/abidrahmank)/[**MyRoughWork**](https://github.com/abidrahmank/MyRoughWork) | It contains some roughworks i do at my home |
+7 | [@jace](https://github.com/jace)/[**pydocflow**](https://github.com/jace/pydocflow) | Python Document Workflows | [:arrow_upper_right:](http://jace.github.com/pydocflow)
+7 | [@ajinabraham](https://github.com/ajinabraham)/[**tizen-security**](https://github.com/ajinabraham/tizen-security) | Tools made for Tizen Security Analysis |
+7 | [@punchagan](https://github.com/punchagan)/[**org2blog-importers**](https://github.com/punchagan/org2blog-importers) | Importers from various blog formats to org2blog format |
+6 | [@nigelbabu](https://github.com/nigelbabu)/[**git2web**](https://github.com/nigelbabu/git2web) | A web UI to manage gitosis |
+6 | [@punchagan](https://github.com/punchagan)/[**blog-files**](https://github.com/punchagan/blog-files) | Build files for my web-site (no-longer maintained. Moved to o-blog!) |
+6 | [@sanand0](https://github.com/sanand0)/[**pyconindia2012-autol…**](https://github.com/sanand0/pyconindia2012-autolysis) | Automated Data Analysis in Python: Talk at Pycon India 2012 |
+6 | [@lionaneesh](https://github.com/lionaneesh)/[**LBP-opencv-python**](https://github.com/lionaneesh/LBP-opencv-python) | Some basic local binary patterns implementation in python using OpenCV. |
+6 | [@shabda](https://github.com/shabda)/[**so-starving**](https://github.com/shabda/so-starving) | so-starving |
+5 | [@harshasrinivas](https://github.com/harshasrinivas)/[**URL-screenshot**](https://github.com/harshasrinivas/URL-screenshot) | Capture webpage screenshots |
+5 | [@nigelbabu](https://github.com/nigelbabu)/[**mozalien**](https://github.com/nigelbabu/mozalien) | RSS Feed to reddit posting bot. |
+5 | [@rtnpro](https://github.com/rtnpro)/[**wordgroupz**](https://github.com/rtnpro/wordgroupz) | Learn by building your own vocabulary. |
+5 | [@manojpandey](https://github.com/manojpandey)/[**flask-blog**](https://github.com/manojpandey/flask-blog) | :beetle: Simple Blog app using Flask and StormPath API for authentication | [:arrow_upper_right:](http://blog-flask.herokuapp.com/)
+5 | [@sanand0](https://github.com/sanand0)/[**mixamail**](https://github.com/sanand0/mixamail) | Twitter via e-mail | [:arrow_upper_right:](http://www.mixamail.com/)
+5 | [@OrkoHunter](https://github.com/OrkoHunter)/[**depends**](https://github.com/OrkoHunter/depends) | The script powering http://apps.himanshumishra.in/depends |
+5 | [@sanand0](https://github.com/sanand0)/[**benchmarks**](https://github.com/sanand0/benchmarks) | Various benchmark tests |
+5 | [@kushaldas](https://github.com/kushaldas)/[**rst**](https://github.com/kushaldas/rst) | Python module to create rst document |
+5 | [@kushaldas](https://github.com/kushaldas)/[**tlogt**](https://github.com/kushaldas/tlogt) | Tower log tower, logs for human |
+5 | [@amitu](https://github.com/amitu)/[**dgci**](https://github.com/amitu/dgci) | Django Google Contact Importer |
+5 | [@lionaneesh](https://github.com/lionaneesh)/[**Code-Pasty**](https://github.com/lionaneesh/Code-Pasty) | A Simple Code Sharing Web Application in Python, using GAE. | [:arrow_upper_right:](www.codepasty.appspot.com)
+4 | [@kushaldas](https://github.com/kushaldas)/[**wallfe**](https://github.com/kushaldas/wallfe) | A personal feed reader. |
+4 | [@amitu](https://github.com/amitu)/[**djangothis-jekyll**](https://github.com/amitu/djangothis-jekyll) | Jekyll like theme for djangothis |
+4 | [@OrkoHunter](https://github.com/OrkoHunter)/[**keep**](https://github.com/OrkoHunter/keep) | Keep and view terminal commands in terminal only |
+4 | [@thejeshgn](https://github.com/thejeshgn)/[**archive-it**](https://github.com/thejeshgn/archive-it) | Archive your blog using public archiving.  |
+4 | [@sanand0](https://github.com/sanand0)/[**orderedattrdict**](https://github.com/sanand0/orderedattrdict) | An ordered Python dictionary with attribute-style access. |
+4 | [@punchagan](https://github.com/punchagan)/[**omnium-gatherum**](https://github.com/punchagan/omnium-gatherum) | Everything that can't go anywhere else. |
+4 | [@lakshmivyas](https://github.com/lakshmivyas)/[**tayable**](https://github.com/lakshmivyas/tayable) | HTML Tables to YAML |
+4 | [@abhikandoi2000](https://github.com/abhikandoi2000)/[**air-o-play**](https://github.com/abhikandoi2000/air-o-play) | Stream media files over WiFi for instant access. |
+4 | [@ajinabraham](https://github.com/ajinabraham)/[**Exploit-Research-Por…**](https://github.com/ajinabraham/Exploit-Research-Ported) | Exploit Research & Development - Ported Exploits | [:arrow_upper_right:](http://opensecurity.in)
+4 | [@punchagan](https://github.com/punchagan)/[**statiki**](https://github.com/punchagan/statiki) | statiki is an easy-to-use service for deploying simple web-sites. | [:arrow_upper_right:](http://statiki.herokuapp.com)
+4 | [@anandology](https://github.com/anandology)/[**sandbox**](https://github.com/anandology/sandbox) | experimental code |
+4 | [@dhruvbaldawa](https://github.com/dhruvbaldawa)/[**commute.py**](https://github.com/dhruvbaldawa/commute.py) | This is a helper script for multi-modal commute planning based on the specified routes that you specify |
+4 | [@kushaldas](https://github.com/kushaldas)/[**tunirtests**](https://github.com/kushaldas/tunirtests) |  |
+4 | [@sanand0](https://github.com/sanand0)/[**xmljson**](https://github.com/sanand0/xmljson) | xmlsjon converts XML into Python dictionary structures (trees, like in JSON) and vice-versa. |
+4 | [@rtnpro](https://github.com/rtnpro)/[**django-pontoon-hook**](https://github.com/rtnpro/django-pontoon-hook) | This hook enables a Django project to use Pontoon for translation. |
+4 | [@anandology](https://github.com/anandology)/[**pyjamas**](https://github.com/anandology/pyjamas) | fork of git://pyjs.org/git/pyjamas.git | [:arrow_upper_right:](http://pyjs.org/)
+3 | [@lionaneesh](https://github.com/lionaneesh)/[**coursera-forum-user-…**](https://github.com/lionaneesh/coursera-forum-user-crawler) |  |
+3 | [@jace](https://github.com/jace)/[**moviefolder**](https://github.com/jace/moviefolder) | MovieFolder: Get ratings and folder cover images from IMDb |
+3 | [@jace](https://github.com/jace)/[**ljpics**](https://github.com/jace/ljpics) | Interface for LiveJournal Userpics | [:arrow_upper_right:](http://ljpic.seacrow.com/)
+3 | [@anandology](https://github.com/anandology)/[**tornadohacks**](https://github.com/anandology/tornadohacks) | Hacks to make Tornado work work with web.py and wsgi applications |
+3 | [@sanand0](https://github.com/sanand0)/[**euler**](https://github.com/sanand0/euler) | Project Euler solutions in Python |
+3 | [@rtnpro](https://github.com/rtnpro)/[**fedwidgets**](https://github.com/rtnpro/fedwidgets) | Web app to power widgets for the Fedora community |
+3 | [@rtnpro](https://github.com/rtnpro)/[**test-your-code**](https://github.com/rtnpro/test-your-code) | Resources for my workshop on testing at Pycon India 2013 |
+3 | [@anandology](https://github.com/anandology)/[**projecteuler**](https://github.com/anandology/projecteuler) | Solutions to projecteuler problems | [:arrow_upper_right:](http://projecteuler.com)
+3 | [@amitu](https://github.com/amitu)/[**dpp**](https://github.com/amitu/dpp) | Django PayPal Helper |
+3 | [@amitu](https://github.com/amitu)/[**zums**](https://github.com/amitu/zums) | ZeroMQ based User and Session management for webapps in different languages/frameworks | [:arrow_upper_right:](http://packages.python.org/zums/)
+3 | [@thejeshgn](https://github.com/thejeshgn)/[**pyg2fa**](https://github.com/thejeshgn/pyg2fa) |  |
+3 | [@anandology](https://github.com/anandology)/[**notebook**](https://github.com/anandology/notebook) | Random experiments, half finished projects organized by date |
+3 | [@punchagan](https://github.com/punchagan)/[**hs-twitter-lists**](https://github.com/punchagan/hs-twitter-lists) | A script to create private lists of Hacker Schoolers or twitter, batch-wise. |
+3 | [@anandology](https://github.com/anandology)/[**puzzlemaster**](https://github.com/anandology/puzzlemaster) | PuzzleMaster is a utility to generate, verify, solve and render puzzles.  |
+3 | [@punchagan](https://github.com/punchagan)/[**dot-emacs**](https://github.com/punchagan/dot-emacs) | My dot-emacs |
+3 | [@amitu](https://github.com/amitu)/[**dimagebundle**](https://github.com/amitu/dimagebundle) | Django Tools to Help Bundle Multiple Images Into One | [:arrow_upper_right:](http://code.google.com/p/django-imagebundle/)
+3 | [@manojpandey](https://github.com/manojpandey)/[**fb-terminal**](https://github.com/manojpandey/fb-terminal) | :cyclone: A smart Facebook client on Terminal, written in Python |
+3 | [@harshasrinivas](https://github.com/harshasrinivas)/[**sync**](https://github.com/harshasrinivas/sync) | Sync the contents of 2 directories. |
+3 | [@harshasrinivas](https://github.com/harshasrinivas)/[**pylang**](https://github.com/harshasrinivas/pylang) | Multiple Language/runtime-env installer |
+3 | [@nigelbabu](https://github.com/nigelbabu)/[**cloaked-spice**](https://github.com/nigelbabu/cloaked-spice) | Simple flask app to listen to the push webhook and deploy an app |
+3 | [@harshasrinivas](https://github.com/harshasrinivas)/[**py-module-boilerplat…**](https://github.com/harshasrinivas/py-module-boilerplate) | Boilerplate to kickstart creating a python module |
+3 | [@sengupta](https://github.com/sengupta)/[**spritzbot**](https://github.com/sengupta/spritzbot) | A bot implemented to use Twitter's streaming API. |
+2 | [@jace](https://github.com/jace)/[**qwkweb**](https://github.com/jace/qwkweb) | QWK message archive parser and web archive for messages from pre-Internet bulletin boards. | [:arrow_upper_right:](http://bbs.seacrow.com/)
+2 | [@punchagan](https://github.com/punchagan)/[**prang**](https://github.com/punchagan/prang) | A python script that shows the color name at the pixel where the mouse is present |
+2 | [@punchagan](https://github.com/punchagan)/[**project-euler**](https://github.com/punchagan/project-euler) | My (age old) attempts to solve problems at Project Euler  |
+2 | [@punchagan](https://github.com/punchagan)/[**what-changed**](https://github.com/punchagan/what-changed) | A simple tool to diff public API changes of a Python library |
+2 | [@punchagan](https://github.com/punchagan)/[**v_block**](https://github.com/punchagan/v_block) | An Android script that let's you block calls from unwanted numbers. |
+2 | [@anandology](https://github.com/anandology)/[**election-directory**](https://github.com/anandology/election-directory) | Dataset containing all states, districts, assembly constiuencies and polling stations in India. |
+2 | [@abhikandoi2000](https://github.com/abhikandoi2000)/[**gulp**](https://github.com/abhikandoi2000/gulp) | Kinect based multi-player physics game |
+2 | [@nigelbabu](https://github.com/nigelbabu)/[**git-repo-tools**](https://github.com/nigelbabu/git-repo-tools) | A collection of scripts to augment the git sever gitosis gives |
+2 | [@vaidik](https://github.com/vaidik)/[**nonblocking-io-examp…**](https://github.com/vaidik/nonblocking-io-examples) | Examples for the series of blog posts on Understanding Non Blocking I/O with Python |
+2 | [@vaidik](https://github.com/vaidik)/[**kipptbackup**](https://github.com/vaidik/kipptbackup) | Utility to backup Kippt data. |
+2 | [@vaidik](https://github.com/vaidik)/[**marketplacecli**](https://github.com/vaidik/marketplacecli) |  |
+2 | [@anandology](https://github.com/anandology)/[**pyjst**](https://github.com/anandology/pyjst) | Tool to compile python templates into Javascript |
+2 | [@axitkhurana](https://github.com/axitkhurana)/[**Download-Softwares**](https://github.com/axitkhurana/Download-Softwares) | [deprecated] Download Softwares application is currently under development for IIT Roorkee's intranet, for sharing and downloading free software under Information Management Group. | [:arrow_upper_right:](IITR Intranet)
+2 | [@anandology](https://github.com/anandology)/[**electionarchive**](https://github.com/anandology/electionarchive) | Project to archive data related to elections in India. |
+2 | [@kushaldas](https://github.com/kushaldas)/[**ukhra**](https://github.com/kushaldas/ukhra) | dgplug site |
+2 | [@rtnpro](https://github.com/rtnpro)/[**wordcollections**](https://github.com/rtnpro/wordcollections) |  |
+2 | [@sanand0](https://github.com/sanand0)/[**py-pretty**](https://github.com/sanand0/py-pretty) | Formats dates, numbers, etc. in a pretty, human readable format. |
+2 | [@softvar](https://github.com/softvar)/[**pyShare**](https://github.com/softvar/pyShare) | It's a local file sharing app in python(GUI with Kivy) |
+2 | [@sanand0](https://github.com/sanand0)/[**data.gov.in**](https://github.com/sanand0/data.gov.in) | Exploring the datasets |
+2 | [@dhruvbaldawa](https://github.com/dhruvbaldawa)/[**alia**](https://github.com/dhruvbaldawa/alia) | an online docker based learning environment |
+2 | [@sanand0](https://github.com/sanand0)/[**reportbee-dashboard**](https://github.com/sanand0/reportbee-dashboard) |  | [:arrow_upper_right:](http://blog.reportbee.com/visualising-student-performance)
+2 | [@dhruvbaldawa](https://github.com/dhruvbaldawa)/[**facebook-hacker-cup-…**](https://github.com/dhruvbaldawa/facebook-hacker-cup-2012) | My solutions to problems in Facebook Hacker Cup 2012 |
+2 | [@shabda](https://github.com/shabda)/[**pychart**](https://github.com/shabda/pychart) | Mirror of the Pychart bzr repo |
+2 | [@JayVora-SerpentCS](https://github.com/JayVora-SerpentCS)/[**OdooUSA**](https://github.com/JayVora-SerpentCS/OdooUSA) | Odoo USA  Localization |
+2 | [@amitu](https://github.com/amitu)/[**dtinyurl**](https://github.com/amitu/dtinyurl) | TinyURL Django App |
+2 | [@jace](https://github.com/jace)/[**mxsniff**](https://github.com/jace/mxsniff) | Identify the email service provider a domain or email address is using |
+2 | [@amitu](https://github.com/amitu)/[**hammerd**](https://github.com/amitu/hammerd) |  | [:arrow_upper_right:](www.hammerd.org)
+2 | [@abhikandoi2000](https://github.com/abhikandoi2000)/[**lyricsparser**](https://github.com/abhikandoi2000/lyricsparser) | Simple parser to parse lyrics from Lyrics.com |
+2 | [@amitu](https://github.com/amitu)/[**amitu-dutils**](https://github.com/amitu/amitu-dutils) | Django Utilities, replacement for previous dutils library. |
+2 | [@nishanthvijayan](https://github.com/nishanthvijayan)/[**Take-A-Break**](https://github.com/nishanthvijayan/Take-A-Break) | TakeABreak is an gnome indicator app that keeps track of time for which you have been working and reminds you to take a break after a set interval.Could also be used as a pomodoro timer. |
+2 | [@svaksha](https://github.com/svaksha)/[**chaya**](https://github.com/svaksha/chaya) | "chAya" (Sanskrit: छाय), describes a reflected image, shading or blending of colours with image manipulation and other CV techniques using Python scientific libraries. | [:arrow_upper_right:](https://github.com/svaksha/chaya)
+2 | [@amitu](https://github.com/amitu)/[**dtwitter**](https://github.com/amitu/dtwitter) | Django App for Twitter Integration |
+2 | [@amitu](https://github.com/amitu)/[**django-encrypted-id**](https://github.com/amitu/django-encrypted-id) | Encrypted IDs for Django Models |
+2 | [@harshasrinivas](https://github.com/harshasrinivas)/[**pypi-check**](https://github.com/harshasrinivas/pypi-check) | PyPI module name availability checker |
 
 ## :yum: How to contribute
 Have an idea? Found a bug? See [how to contribute][contributing].
