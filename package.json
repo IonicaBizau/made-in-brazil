@@ -79,7 +79,8 @@
           "[Scala](#scala)",
           "[Shell](#shell)",
           "[Swift](#swift)",
-          "[TeX](#tex)"
+          "[TeX](#tex)",
+          "[VimL](#viml)"
         ]
       },
       {
@@ -6404,6 +6405,117 @@
               "2",
               "[@santhosbaala](https://github.com/santhosbaala)/[**vitmsprojectreport**](https://github.com/santhosbaala/vitmsprojectreport)",
               "A LaTeX template for MS Software Engineering final year project report",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "VimL #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "401",
+              "[@dhruvasagar](https://github.com/dhruvasagar)/[**vim-table-mode**](https://github.com/dhruvasagar/vim-table-mode)",
+              "VIM Table Mode for instant table creation.",
+              ""
+            ],
+            [
+              "142",
+              "[@dhruvasagar](https://github.com/dhruvasagar)/[**vim-dotoo**](https://github.com/dhruvasagar/vim-dotoo)",
+              "Org-mode like task logging & time tracking in Vim",
+              ""
+            ],
+            [
+              "84",
+              "[@notpratheek](https://github.com/notpratheek)/[**vim-luna**](https://github.com/notpratheek/vim-luna)",
+              "Touchdown on Lunar Surface ! :) ",
+              ""
+            ],
+            [
+              "57",
+              "[@dhruvasagar](https://github.com/dhruvasagar)/[**vim-prosession**](https://github.com/dhruvasagar/vim-prosession)",
+              "Handle vim sessions like a pro",
+              ""
+            ],
+            [
+              "45",
+              "[@ashisha](https://github.com/ashisha)/[**image.vim**](https://github.com/ashisha/image.vim)",
+              "View images in Vim, because Vim is awesome!",
+              ""
+            ],
+            [
+              "19",
+              "[@notpratheek](https://github.com/notpratheek)/[**vim-sol**](https://github.com/notpratheek/vim-sol)",
+              "On the Path of Illumination ! :)",
+              ""
+            ],
+            [
+              "8",
+              "[@anadgouda](https://github.com/anadgouda)/[**taskmanagementvim**](https://github.com/anadgouda/taskmanagementvim)",
+              "Task Management plugin for vim",
+              ""
+            ],
+            [
+              "8",
+              "[@dhruvasagar](https://github.com/dhruvasagar)/[**dotfiles**](https://github.com/dhruvasagar/dotfiles)",
+              "The single dot that has it all.",
+              ""
+            ],
+            [
+              "8",
+              "[@vikkikanhaua](https://github.com/vikkikanhaua)/[**myconfs**](https://github.com/vikkikanhaua/myconfs)",
+              "Some config files",
+              ""
+            ],
+            [
+              "8",
+              "[@notpratheek](https://github.com/notpratheek)/[**Pychimp-vim**](https://github.com/notpratheek/Pychimp-vim)",
+              "Vim colorscheme (Created out of boredom, and requirement !)",
+              ""
+            ],
+            [
+              "6",
+              "[@dhruvasagar](https://github.com/dhruvasagar)/[**vim-testify**](https://github.com/dhruvasagar/vim-testify)",
+              "Simplified viml testing",
+              ""
+            ],
+            [
+              "6",
+              "[@dhruvasagar](https://github.com/dhruvasagar)/[**vim-markify**](https://github.com/dhruvasagar/vim-markify)",
+              "VIM Plugin Markify to indicate quickfix results on buffers using Signs",
+              ""
+            ],
+            [
+              "4",
+              "[@Prajjwal](https://github.com/Prajjwal)/[**dotfiles**](https://github.com/Prajjwal/dotfiles)",
+              "Configuration for my system(s).",
+              ""
+            ],
+            [
+              "4",
+              "[@vmandela](https://github.com/vmandela)/[**WinFastFind**](https://github.com/vmandela/WinFastFind)",
+              "A vim plugin to find files quickly on windows",
+              "[:arrow_upper_right:](http://www.vim.org/scripts/script.php?script_id=3635)"
+            ],
+            [
+              "3",
+              "[@dhruvasagar](https://github.com/dhruvasagar)/[**vim-audiobox**](https://github.com/dhruvasagar/vim-audiobox)",
+              "Control Rhythmbox from VIM",
+              ""
+            ],
+            [
+              "2",
+              "[@anadgouda](https://github.com/anadgouda)/[**typing-vim-colour-th…**](https://github.com/anadgouda/typing-vim-colour-theme)",
+              "A dark colour theme for (g)vim.",
               ""
             ]
           ]
