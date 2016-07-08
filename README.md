@@ -35,6 +35,7 @@
 ### JavaScript ###
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
+1455 | [@dleitee](https://github.com/dleitee)/[**strman**](https://github.com/dleitee/strman) | A Javascript string manipulation library. |
 1169 | [@robotlolita](https://github.com/robotlolita)/[**fuck-you**](https://github.com/robotlolita/fuck-you) |  (╯°□°）╯︵sǝssǝɔoɹd oʎ llɐ llıʞǝɓɐɹ |
 968 | [@ellisonleao](https://github.com/ellisonleao)/[**clumsy-bird**](https://github.com/ellisonleao/clumsy-bird) | :bird: :video_game: A MelonJS port of the famous Flappy Bird Game | [:arrow_upper_right:](http://ellisonleao.github.io/clumsy-bird/)
 962 | [@ellisonleao](https://github.com/ellisonleao)/[**sharer.js**](https://github.com/ellisonleao/sharer.js) | :on: :bookmark: Create your own social share buttons | [:arrow_upper_right:](http://ellison.rocks/sharer.js)
