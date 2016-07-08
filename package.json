@@ -50,6 +50,7 @@
   },
   "blah": {
     "show_installation": false,
+    "related": ["made-in-romania"],
     "title": "Made in Brazil",
     "installation": [
       {
