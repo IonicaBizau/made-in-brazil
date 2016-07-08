@@ -3,7 +3,7 @@
 
  [![PayPal](https://img.shields.io/badge/%24-paypal-f39c12.svg)][paypal-donations] [![AMA](https://img.shields.io/badge/ask%20me-anything-1abc9c.svg)](https://github.com/IonicaBizau/ama) [![Version](https://img.shields.io/npm/v/made-in-brazil.svg)](https://www.npmjs.com/package/made-in-brazil) [![Downloads](https://img.shields.io/npm/dt/made-in-brazil.svg)](https://www.npmjs.com/package/made-in-brazil) [![Get help on Codementor](https://cdn.codementor.io/badges/get_help_github.svg)](https://www.codementor.io/johnnyb?utm_source=github&utm_medium=button&utm_term=johnnyb&utm_campaign=github)
 
-> A list of cool projects made in brazil.
+> A list of neat projects made in Brazil.
 
 ## Contents
 
@@ -39,7 +39,7 @@
 968 | [@ellisonleao](https://github.com/ellisonleao)/[**clumsy-bird**](https://github.com/ellisonleao/clumsy-bird) | :bird: :video_game: A MelonJS port of the famous Flappy Bird Game | [:arrow_upper_right:](http://ellisonleao.github.io/clumsy-bird/)
 962 | [@ellisonleao](https://github.com/ellisonleao)/[**sharer.js**](https://github.com/ellisonleao/sharer.js) | :on: :bookmark: Create your own social share buttons | [:arrow_upper_right:](http://ellison.rocks/sharer.js)
 626 | [@filipedeschamps](https://github.com/filipedeschamps)/[**rss-feed-emitter**](https://github.com/filipedeschamps/rss-feed-emitter) | Super RSS News Feed aggregator written in Node.js and ES6 |
-532 | [@raphamorim](https://github.com/raphamorim)/[**origami.js**](https://github.com/raphamorim/origami.js) | HTML5 Canvas for Humans | 人間のためのキャンバス | [:arrow_upper_right:](http://origamijs.com)
+532 | [@raphamorim](https://github.com/raphamorim)/[**origami.js**](https://github.com/raphamorim/origami.js) | HTML5 Canvas for Humans 人間のためのキャンバス | [:arrow_upper_right:](http://origamijs.com)
 360 | [@robotlolita](https://github.com/robotlolita)/[**raven**](https://github.com/robotlolita/raven) | Raven is a minimal, distraction-free text editor with good typography. | [:arrow_upper_right:](http://robotlolita.me/raven/)
 305 | [@rodrigobranas](https://github.com/rodrigobranas)/[**youtube**](https://github.com/rodrigobranas/youtube) | Código das séries do Youtube |
 225 | [@raphamorim](https://github.com/raphamorim)/[**waterfall.js**](https://github.com/raphamorim/waterfall.js) | Tired of use creepy hacks or heavy ways to get a Grid based on Pinterest? | [:arrow_upper_right:](http://raphamorim.com/waterfall.js/)
