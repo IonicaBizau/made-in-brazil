@@ -145,6 +145,12 @@
               ""
             ],
             [
+              "246",
+              "[@fdaciuk](https://github.com/fdaciuk)/[**ajax**](https://github.com/fdaciuk/ajax)",
+              "Ajax module in Vanilla JS",
+              "[:arrow_upper_right:](https://www.npmjs.com/package/@fdaciuk/ajax)"
+            ],
+            [
               "225",
               "[@raphamorim](https://github.com/raphamorim)/[**waterfall.js**](https://github.com/raphamorim/waterfall.js)",
               "Tired of use creepy hacks or heavy ways to get a Grid based on Pinterest?",
@@ -235,6 +241,12 @@
               ""
             ],
             [
+              "47",
+              "[@fdaciuk](https://github.com/fdaciuk)/[**hoost**](https://github.com/fdaciuk/hoost)",
+              "Easily manage your virtual hosts",
+              "[:arrow_upper_right:](https://www.npmjs.com/package/hoost)"
+            ],
+            [
               "46",
               "[@raphamorim](https://github.com/raphamorim)/[**imgStatus**](https://github.com/raphamorim/imgStatus)",
               "[855bytes] Detect when images have been loaded without jQuery",
@@ -320,6 +332,12 @@
             ],
             [
               "33",
+              "[@theuves](https://github.com/theuves)/[**dicio**](https://github.com/theuves/dicio)",
+              ":books: Dicionário de português via linha de comando.",
+              "[:arrow_upper_right:](https://www.npmjs.com/package/dicio)"
+            ],
+            [
+              "33",
               "[@vitorbritto](https://github.com/vitorbritto)/[**labs**](https://github.com/vitorbritto/labs)",
               "A simple repository to store the codes from my articles, some experiments and other stuff",
               ""
@@ -341,6 +359,12 @@
               "[@loiane](https://github.com/loiane)/[**ext4-crud-mvc**](https://github.com/loiane/ext4-crud-mvc)",
               "BrazilJS Sample Project - Ext JS 4 CRUD MVC Example",
               "[:arrow_upper_right:](http://loianegroner.com)"
+            ],
+            [
+              "31",
+              "[@fdaciuk](https://github.com/fdaciuk)/[**hmh**](https://github.com/fdaciuk/hmh)",
+              ":clock10: How many hours?",
+              "[:arrow_upper_right:](https://www.npmjs.com/package/hmh)"
             ],
             [
               "30",
@@ -418,6 +442,12 @@
               "21",
               "[@pinceladasdaweb](https://github.com/pinceladasdaweb)/[**behance**](https://github.com/pinceladasdaweb/behance)",
               "Behance Portfolio Page with Vanilla JS",
+              ""
+            ],
+            [
+              "20",
+              "[@brenopolanski](https://github.com/brenopolanski)/[**css-comments-sublime-snippets**](https://github.com/brenopolanski/css-comments-sublime-snippets)",
+              "CSS comments snippets for Sublime Text",
               ""
             ],
             [
@@ -788,6 +818,12 @@
             ],
             [
               "7",
+              "[@welksonramos](https://github.com/welksonramos)/[**postcss-brazilian-portuguese-stylesheets**](https://github.com/welksonramos/postcss-brazilian-portuguese-stylesheets)",
+              ":scream: PostCSS plugin for writing CSS in Brazilian Portuguese",
+              ""
+            ],
+            [
+              "7",
               "[@pinceladasdaweb](https://github.com/pinceladasdaweb)/[**minigram**](https://github.com/pinceladasdaweb/minigram)",
               "A simple plugin to display your latest Instagram photos with Vanilla JS",
               "[:arrow_upper_right:](http://pinceladasdaweb.github.io/minigram)"
@@ -890,6 +926,12 @@
             ],
             [
               "6",
+              "[@theuves](https://github.com/theuves)/[**git-cometer**](https://github.com/theuves/git-cometer)",
+              ":us: Uma ferramenta para escrever a mensagem de um commit em português, porém envia-lo em inglês.",
+              ""
+            ],
+            [
+              "6",
               "[@diogomoretti](https://github.com/diogomoretti)/[**slush-ixqueleto**](https://github.com/diogomoretti/slush-ixqueleto)",
               "Generate a new project using Stylus and Gulp",
               "[:arrow_upper_right:](http://diogomoretti.github.io/slush-ixqueleto)"
@@ -965,6 +1007,12 @@
               "[@loiane](https://github.com/loiane)/[**extjs-fit-to-parent**](https://github.com/loiane/extjs-fit-to-parent)",
               "Example of how to resize an ExtJS component",
               "[:arrow_upper_right:](http://loianegroner.com/)"
+            ],
+            [
+              "5",
+              "[@theuves](https://github.com/theuves)/[**cpf**](https://github.com/theuves/cpf)",
+              ":busts_in_silhouette: Basic functions for handling CPF numbers.",
+              ""
             ],
             [
               "5",
@@ -2374,6 +2422,18 @@
           ],
           "rows": [
             [
+              "557",
+              "[@filipelinhares](https://github.com/filipelinhares)/[**ress**](https://github.com/filipelinhares/ress)",
+              ":page_facing_up: A modern CSS reset",
+              ""
+            ],
+            [
+              "62",
+              "[@diegoeis](https://github.com/diegoeis)/[**code-guide**](https://github.com/diegoeis/code-guide)",
+              "Padrões para códigos HTML e CSS flexíveis e sustentáveis.",
+              "[:arrow_upper_right:](http://diegoeis.github.io/code-guide/)"
+            ],
+            [
               "11",
               "[@lucaslg26](https://github.com/lucaslg26)/[**musivk**](https://github.com/lucaslg26/musivk)",
               "A tool to download music from VK",
@@ -2406,6 +2466,12 @@
             "🌍"
           ],
           "rows": [
+            [
+              "320",
+              "[@awesome-br](https://github.com/awesome-br)/[**awesome-br.github.io**](https://github.com/awesome-br/awesome-br.github.io)",
+              "",
+              "http://awesome-br.com"
+            ],
             [
               "31",
               "[@sanderlei](https://github.com/sanderlei)/[**History**](https://github.com/sanderlei/History)",
@@ -3266,6 +3332,12 @@
               "[@igoralmeida](https://github.com/igoralmeida)/[**readline-go**](https://github.com/igoralmeida/readline-go)",
               "GNU readline(3) wrapper for Go",
               ""
+            ],
+            [
+              "3",
+              "[@theuves](https://github.com/theuves)/[**go-cpf**](https://github.com/theuves/go-cpf)",
+              "Funções básicas para a manipulação de números de CPF.",
+              "https://godoc.org/github.com/theuves/go-cpf"
             ],
             [
               "2",
@@ -8117,6 +8189,12 @@
               "[@aureliojargas](https://github.com/aureliojargas)/[**txt2regex**](https://github.com/aureliojargas/txt2regex)",
               "Regex wizard for the terminal, written in Bash",
               ""
+            ],
+            [
+              "22",
+              "[@fdaciuk](https://github.com/fdaciuk)/[**clima**](https://github.com/fdaciuk/clima)",
+              ":sunny: Get city weather from wttr.in",
+              "[:arrow_upper_right:](https://www.npmjs.com/package/clima)"
             ],
             [
               "22",
