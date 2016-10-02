@@ -894,6 +894,7 @@
 226 | [@danilobellini](https://github.com/danilobellini)/[**audiolazy**](https://github.com/danilobellini/audiolazy) | Expressive Digital Signal Processing (DSP) package for Python |
 158 | [@rochacbruno](https://github.com/rochacbruno)/[**Flask-GoogleMaps**](https://github.com/rochacbruno/Flask-GoogleMaps) | Easy way to add GoogleMaps to Flask applications. |
 151 | [@turicas](https://github.com/turicas)/[**rows**](https://github.com/turicas/rows) | A common, beautiful interface to tabular data, no matter the format |
+147 | [@luanfonceca](https://github.com/luanfonceca)/[**speakerfight**](https://github.com/luanfonceca/speakerfight) | Speakerfight is an arena where the Speakers can fight each other and the people choose who wins. | [:arrow_upper_right:](http://www.speakerfight.com/)
 135 | [@moraes](https://github.com/moraes)/[**tipfy**](https://github.com/moraes/tipfy) | The almighty little framework for Google App Engine | [:arrow_upper_right:](http://www.tipfy.org/)
 134 | [@heynemann](https://github.com/heynemann)/[**pyvows**](https://github.com/heynemann/pyvows) | Python implementation of Vows.js | [:arrow_upper_right:](http://pyvows.org)
 127 | [@heynemann](https://github.com/heynemann)/[**cyclops**](https://github.com/heynemann/cyclops) | Cyclops is meant to be a high performance barrier in front of Sentry (http://getsentry.com). | [:arrow_upper_right:](http://heynemann.github.io/cyclops/)
