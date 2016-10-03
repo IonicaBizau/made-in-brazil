@@ -900,6 +900,7 @@
 127 | [@heynemann](https://github.com/heynemann)/[**cyclops**](https://github.com/heynemann/cyclops) | Cyclops is meant to be a high performance barrier in front of Sentry (http://getsentry.com). | [:arrow_upper_right:](http://heynemann.github.io/cyclops/)
 125 | [@jseidl](https://github.com/jseidl)/[**GoldenEye**](https://github.com/jseidl/GoldenEye) | GoldenEye Layer 7 (KeepAlive+NoCache) DoS Test Tool |
 119 | [@turicas](https://github.com/turicas)/[**api.brasil.io**](https://github.com/turicas/api.brasil.io) | Backend da API do http://Brasil.IO/ |
+117 | [@eduardocereto](https://github.com/eduardocereto)/[**pyboleto**](https://github.com/eduardocereto/pyboleto) | A Python module to create Brazilian "Boletos de Cobrança" for multiple banks |
 105 | [@rochacbruno](https://github.com/rochacbruno)/[**dynaconf**](https://github.com/rochacbruno/dynaconf) | Dynamic config load for Python  | [:arrow_upper_right:](http://rochacbruno.github.io/dynaconf)
 103 | [@rochacbruno](https://github.com/rochacbruno)/[**flasgger**](https://github.com/rochacbruno/flasgger) | Creates Swagger 2.0 API documentation for all your Flask views extracting specs from docstrings or referenced files | [:arrow_upper_right:](http://flasgger-rochacbruno.rhcloud.com/)
 103 | [@heynemann](https://github.com/heynemann)/[**motorengine**](https://github.com/heynemann/motorengine) | Motorengine is a port of MongoEngine for Tornado. | [:arrow_upper_right:](http://motorengine.readthedocs.org)
@@ -1026,6 +1027,7 @@
 5 | [@turicas](https://github.com/turicas)/[**countdown-traffic-li…**](https://github.com/turicas/countdown-traffic-light) | Python+Arduino-based countdown for 5min lightning talks that acts as a traffic-light |
 5 | [@heynemann](https://github.com/heynemann)/[**scribbler**](https://github.com/heynemann/scribbler) | Scribbler is a parallel test runner for python. | [:arrow_upper_right:](http://www.pyscribbler.org)
 5 | [@heynemann](https://github.com/heynemann)/[**pyoc**](https://github.com/heynemann/pyoc) | Python IoC container | [:arrow_upper_right:](http://groups.google.com/group/pythonioc)
+5 | [@vmesel](https://github.com//vmesel)/[**GeoMath**](https://github.com/vmesel/GeoMath) | Analytical Geometry Library for Python 3.X | [:arrow_upper_right:](http://geomath.co/)
 4 | [@renzon](https://github.com/renzon)/[**est_dados_python**](https://github.com/renzon/est_dados_python) | Códigos para curso de estrutura de dados com Python |
 4 | [@renzon](https://github.com/renzon)/[**zenwarch**](https://github.com/renzon/zenwarch) | Zen Web Architecture - A engine to routing by convention |
 4 | [@heynemann](https://github.com/heynemann)/[**generator-flask-app**](https://github.com/heynemann/generator-flask-app) | Yeoman generator for flask applications |
