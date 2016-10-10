@@ -1,7 +1,7 @@
 
 # Made in Brazil
 
- [![PayPal](https://img.shields.io/badge/%24-paypal-f39c12.svg)][paypal-donations] [![AMA](https://img.shields.io/badge/ask%20me-anything-1abc9c.svg)](https://github.com/IonicaBizau/ama) [![Version](https://img.shields.io/npm/v/made-in-brazil.svg)](https://www.npmjs.com/package/made-in-brazil) [![Downloads](https://img.shields.io/npm/dt/made-in-brazil.svg)](https://www.npmjs.com/package/made-in-brazil) [![Get help on Codementor](https://cdn.codementor.io/badges/get_help_github.svg)](https://www.codementor.io/johnnyb?utm_source=github&utm_medium=button&utm_term=johnnyb&utm_campaign=github)
+ [![Patreon](https://img.shields.io/badge/Support%20me%20on-Patreon-%23e6461a.svg)][paypal-donations] [![PayPal](https://img.shields.io/badge/%24-paypal-f39c12.svg)][paypal-donations] [![AMA](https://img.shields.io/badge/ask%20me-anything-1abc9c.svg)](https://github.com/IonicaBizau/ama) [![Version](https://img.shields.io/npm/v/made-in-brazil.svg)](https://www.npmjs.com/package/made-in-brazil) [![Downloads](https://img.shields.io/npm/dt/made-in-brazil.svg)](https://www.npmjs.com/package/made-in-brazil) [![Get help on Codementor](https://cdn.codementor.io/badges/get_help_github.svg)](https://www.codementor.io/johnnyb?utm_source=github&utm_medium=button&utm_term=johnnyb&utm_campaign=github)
 
 > A list of neat projects made in Brazil.
 
@@ -43,6 +43,7 @@
 532 | [@raphamorim](https://github.com/raphamorim)/[**origami.js**](https://github.com/raphamorim/origami.js) | HTML5 Canvas for Humans 人間のためのキャンバス | [:arrow_upper_right:](http://origamijs.com)
 360 | [@robotlolita](https://github.com/robotlolita)/[**raven**](https://github.com/robotlolita/raven) | Raven is a minimal, distraction-free text editor with good typography. | [:arrow_upper_right:](http://robotlolita.me/raven/)
 305 | [@rodrigobranas](https://github.com/rodrigobranas)/[**youtube**](https://github.com/rodrigobranas/youtube) | Código das séries do Youtube |
+246 | [@fdaciuk](https://github.com/fdaciuk)/[**ajax**](https://github.com/fdaciuk/ajax) | Ajax module in Vanilla JS | [:arrow_upper_right:](https://www.npmjs.com/package/@fdaciuk/ajax)
 225 | [@raphamorim](https://github.com/raphamorim)/[**waterfall.js**](https://github.com/raphamorim/waterfall.js) | Tired of use creepy hacks or heavy ways to get a Grid based on Pinterest? | [:arrow_upper_right:](http://raphamorim.com/waterfall.js/)
 139 | [@afonsopacifer](https://github.com/afonsopacifer)/[**react-pomodoro**](https://github.com/afonsopacifer/react-pomodoro) | :alarm_clock: Pomodoro timer built with ReactJS. | [:arrow_upper_right:](http://afonsopacifer.github.io/react-pomodoro/)
 136 | [@vitorbritto](https://github.com/vitorbritto)/[**workflow-guide**](https://github.com/vitorbritto/workflow-guide) | My workflow context and own code conventions :ghost: |
@@ -58,6 +59,7 @@
 55 | [@loiane](https://github.com/loiane)/[**masteringextjs**](https://github.com/loiane/masteringextjs) | :closed_book: Source Code of Mastering Ext JS book |
 50 | [@loiane](https://github.com/loiane)/[**extjs-crud-grid-spri…**](https://github.com/loiane/extjs-crud-grid-spring-hibernate) | Example of a CRUD grid using ExtJS, Spring Framework 3 and Hibernate 3.5 | [:arrow_upper_right:](http://loianegroner.com/)
 49 | [@vitorbritto](https://github.com/vitorbritto)/[**boilerplates**](https://github.com/vitorbritto/boilerplates) | This is my personal Yeoman. A simple jumpstart for my projects |
+47 | [@fdaciuk](https://github.com/fdaciuk)/[**hoost**](https://github.com/fdaciuk/hoost) | Easily manage your virtual hosts | [:arrow_upper_right:](https://www.npmjs.com/package/hoost)
 46 | [@raphamorim](https://github.com/raphamorim)/[**imgStatus**](https://github.com/raphamorim/imgStatus) | [855bytes] Detect when images have been loaded without jQuery | [:arrow_upper_right:](http://raphamorim.com/imgStatus/)
 46 | [@bernarddeluna](https://github.com/bernarddeluna)/[**Formee**](https://github.com/bernarddeluna/Formee) | Formee is nothing but a framework to help you develop and customize web based forms. Did you use to spend a lot of time aligning fields and calculating margins and paddings in a quest for a perfect form? No more | [:arrow_upper_right:](http://www.formee.org)
 46 | [@raphamorim](https://github.com/raphamorim)/[**inphinity**](https://github.com/raphamorim/inphinity) | A infinity scroll without jQuery or other dependency. |
@@ -72,10 +74,12 @@
 36 | [@raphamorim](https://github.com/raphamorim)/[**calendario**](https://github.com/raphamorim/calendario) | :calendar: Check if a day is a workday or holiday | [:arrow_upper_right:](https://www.npmjs.com/package/calendario)
 36 | [@vitorbritto](https://github.com/vitorbritto)/[**gomdn**](https://github.com/vitorbritto/gomdn) | Don't use W3Schools. Use MDN to search or reference. Seriously! |
 35 | [@willianjusten](https://github.com/willianjusten)/[**eve**](https://github.com/willianjusten/eve) | A simple bot to work with the new Facebook Messenger API using Wit.ai. |
+33 | [@theuves](https://github.com/theuves)/[**dicio**](https://github.com/theuves/dicio) | :books: Dicionário de português via linha de comando. | [:arrow_upper_right:](https://www.npmjs.com/package/dicio)
 33 | [@vitorbritto](https://github.com/vitorbritto)/[**labs**](https://github.com/vitorbritto/labs) | A simple repository to store the codes from my articles, some experiments and other stuff |
 33 | [@raphamorim](https://github.com/raphamorim)/[**ranza**](https://github.com/raphamorim/ranza) | The dependency checker | [:arrow_upper_right:](https://www.npmjs.com/package/ranza)
 32 | [@afonsopacifer](https://github.com/afonsopacifer)/[**slush-react-start**](https://github.com/afonsopacifer/slush-react-start) | :package: Generator for React + ES5 (Browserify) or ES6 (Webpack/Babel) |
 31 | [@loiane](https://github.com/loiane)/[**ext4-crud-mvc**](https://github.com/loiane/ext4-crud-mvc) | BrazilJS Sample Project - Ext JS 4 CRUD MVC Example | [:arrow_upper_right:](http://loianegroner.com)
+31 | [@fdaciuk](https://github.com/fdaciuk)/[**hmh**](https://github.com/fdaciuk/hmh) | :clock10: How many hours? | [:arrow_upper_right:](https://www.npmjs.com/package/hmh)
 30 | [@eshiota](https://github.com/eshiota)/[**webaudio_band**](https://github.com/eshiota/webaudio_band) | Experiment: A band in your browser, using the Web Audio API and Websockets. |
 29 | [@vitorbritto](https://github.com/vitorbritto)/[**gruntify**](https://github.com/vitorbritto/gruntify) | A Sweet way to use Grunt |
 29 | [@soapdog](https://github.com/soapdog)/[**memos-for-firefoxos**](https://github.com/soapdog/memos-for-firefoxos) | A simple memo taking app for firefox os |
@@ -89,6 +93,7 @@
 24 | [@LFeh](https://github.com/LFeh)/[**chess**](https://github.com/LFeh/chess) | A modern and light chess game developed with HTML, CSS and Javascript. | [:arrow_upper_right:](http://chessjs.trendi.com.br/chess)
 21 | [@LFeh](https://github.com/LFeh)/[**grunt-boilerplate**](https://github.com/LFeh/grunt-boilerplate) | Base files for use of Grunt |
 21 | [@pinceladasdaweb](https://github.com/pinceladasdaweb)/[**behance**](https://github.com/pinceladasdaweb/behance) | Behance Portfolio Page with Vanilla JS |
+20 | [@brenopolanski](https://github.com/brenopolanski)/[**css-comments-sublime-snippets**](https://github.com/brenopolanski/css-comments-sublime-snippets) | CSS comments snippets for Sublime Text |
 19 | [@vitorbritto](https://github.com/vitorbritto)/[**optimus**](https://github.com/vitorbritto/optimus) | A lightning-fast way to run your tests with JavaScript. |
 19 | [@pinceladasdaweb](https://github.com/pinceladasdaweb)/[**Socialight**](https://github.com/pinceladasdaweb/Socialight) | Get Social Network Share Counts with Vanilla JS |
 18 | [@felipenmoura](https://github.com/felipenmoura)/[**js-chroma-key**](https://github.com/felipenmoura/js-chroma-key) | A chroma key effect made in JavaScript, HTML5 and CSS3 in 100 lines of js |
@@ -150,6 +155,7 @@
 8 | [@robotlolita](https://github.com/robotlolita)/[**promises-benchmark**](https://github.com/robotlolita/promises-benchmark) | Benchmark for real-world scenarios for Promises/A+ & alternatives |
 8 | [@felipenmoura](https://github.com/felipenmoura)/[**Root3D**](https://github.com/felipenmoura/Root3D) | Root3D, the CSS3D environment | [:arrow_upper_right:](http://felipenmoura.org/projects/root3d)
 8 | [@cmilfont](https://github.com/cmilfont)/[**tryingnode**](https://github.com/cmilfont/tryingnode) |  | [:arrow_upper_right:](http://www.milfont.org/tech/2011/01/04/problemas-com-prototype-no-javascript/)
+7 | [@welksonramos](https://github.com/welksonramos)/[**postcss-brazilian-portuguese-stylesheets**](https://github.com/welksonramos/postcss-brazilian-portuguese-stylesheets) | :scream: PostCSS plugin for writing CSS in Brazilian Portuguese |
 7 | [@pinceladasdaweb](https://github.com/pinceladasdaweb)/[**minigram**](https://github.com/pinceladasdaweb/minigram) | A simple plugin to display your latest Instagram photos with Vanilla JS | [:arrow_upper_right:](http://pinceladasdaweb.github.io/minigram)
 7 | [@soapdog](https://github.com/soapdog)/[**openwebapp-mozrespos…**](https://github.com/soapdog/openwebapp-mozrespostas-prontas) | Um webapp com respostas prontas para utilizar em emails da Mozilla Brasil |
 7 | [@loiane](https://github.com/loiane)/[**ionic-cordova-phoneg…**](https://github.com/loiane/ionic-cordova-phonegap-examples) | Some ionic and cordova/phonegap examples |
@@ -167,6 +173,7 @@
 7 | [@soapdog](https://github.com/soapdog)/[**firefoxos-sample-gam…**](https://github.com/soapdog/firefoxos-sample-game-apple-catcher) | Sample game for Firefox OS |
 7 | [@pinceladasdaweb](https://github.com/pinceladasdaweb)/[**Lastfm-Recent-Tracks**](https://github.com/pinceladasdaweb/Lastfm-Recent-Tracks) | Get User Recent Tracks in Last.fm with jQuery and Handlebars. | [:arrow_upper_right:](http://www.pinceladasdaweb.com.br/blog/uploads/lastfm/)
 7 | [@pinceladasdaweb](https://github.com/pinceladasdaweb)/[**VCountdown**](https://github.com/pinceladasdaweb/VCountdown) | Show how many characters remaining in a HTML with pure JavaScript |
+6 | [@theuves](https://github.com/theuves)/[**git-cometer**](https://github.com/theuves/git-cometer) | :us: Uma ferramenta para escrever a mensagem de um commit em português, porém envia-lo em inglês. |
 6 | [@diogomoretti](https://github.com/diogomoretti)/[**slush-ixqueleto**](https://github.com/diogomoretti/slush-ixqueleto) | Generate a new project using Stylus and Gulp | [:arrow_upper_right:](http://diogomoretti.github.io/slush-ixqueleto)
 6 | [@raphamorim](https://github.com/raphamorim)/[**aQuery**](https://github.com/raphamorim/aQuery) | A jQuery-like, client library less than 1kb |
 6 | [@vquaiato](https://github.com/vquaiato)/[**mvcsummit2011**](https://github.com/vquaiato/mvcsummit2011) | mvc summit 2011 website | [:arrow_upper_right:](http://mvcsummit.net)
@@ -180,6 +187,7 @@
 6 | [@felquis](https://github.com/felquis)/[**image2css**](https://github.com/felquis/image2css) | Convert images to CSS using box-shadow | [:arrow_upper_right:](http://felquis.github.io/image2css/)
 6 | [@pinceladasdaweb](https://github.com/pinceladasdaweb)/[**youtubars**](https://github.com/pinceladasdaweb/youtubars) | Display Youtube user feed with jQuery and Handlebars Template | [:arrow_upper_right:](http://www.pinceladasdaweb.com.br/blog/uploads/youtubars/)
 6 | [@loiane](https://github.com/loiane)/[**extjs-fit-to-parent**](https://github.com/loiane/extjs-fit-to-parent) | Example of how to resize an ExtJS component | [:arrow_upper_right:](http://loianegroner.com/)
+5 | [@theuves](https://github.com/theuves)/[**cpf**](https://github.com/theuves/cpf) | :busts_in_silhouette: Basic functions for handling CPF numbers. |
 5 | [@jaydson](https://github.com/jaydson)/[**web-notification-sam…**](https://github.com/jaydson/web-notification-sample) | WebNotification Sample |
 5 | [@pinceladasdaweb](https://github.com/pinceladasdaweb)/[**TiltShift.js**](https://github.com/pinceladasdaweb/TiltShift.js) | A VanillaJS plugin that uses the CSS3 image filters to replicate the tilt-shift effect. | [:arrow_upper_right:](http://www.pinceladasdaweb.com.br/blog/uploads/tiltshift/)
 5 | [@eshiota](https://github.com/eshiota)/[**svg-line-drawer-js**](https://github.com/eshiota/svg-line-drawer-js) | A JavaScript tool to animate SVG paths drawing |
@@ -213,6 +221,7 @@
 4 | [@vitorbritto](https://github.com/vitorbritto)/[**octolist**](https://github.com/vitorbritto/octolist) | A list of repositories from specific user. |
 4 | [@rodrigobranas](https://github.com/rodrigobranas)/[**angular-api**](https://github.com/rodrigobranas/angular-api) | Angular API mapper |
 3 | [@vquaiato](https://github.com/vquaiato)/[**Testes-Controllers-A…**](https://github.com/vquaiato/Testes-Controllers-ASP.NET-MVC) | Exemplos de como testar controllers de um projeto ASP.NET MVC |
+3 | [@khaosdoctor](https://github.com/khaosdoctor)/[**Facade**](https://github.com/khaosdoctor/Facade) | Lightweight front-end boilerplate with local build |
 3 | [@robotlolita](https://github.com/robotlolita)/[**sug**](https://github.com/robotlolita/sug) | Sucks Markdown outta your source files. |
 3 | [@jaydson](https://github.com/jaydson)/[**myscraper**](https://github.com/jaydson/myscraper) | MyScrap is web scraping experiment with node |
 3 | [@jaydson](https://github.com/jaydson)/[**jquery.rotate.js**](https://github.com/jaydson/jquery.rotate.js) | A jQuery cssHooks adding a cross browser 'rotate' property to $.fn.css() and $.fn.animate(). |
@@ -340,7 +349,6 @@
 4 | [@JoaquimCMH](https://github.com/JoaquimCMH)/[**Analyzer**](https://github.com/JoaquimCMH/Analyzer) |  |
 4 | [@MarcosX](https://github.com/MarcosX)/[**OlhaiAndroid**](https://github.com/MarcosX/OlhaiAndroid) | Versão para android do Olhai |
 4 | [@uaihebert](https://github.com/uaihebert)/[**SpringJdbcTemplateCr…**](https://github.com/uaihebert/SpringJdbcTemplateCrud) | Sample Crud that will be used in a post at http://uaiHebert.com |
-3 | [@khaosdoctor](https://github.com/khaosdoctor)/[**Facade**](https://github.com/khaosdoctor/Facade) | Boilerplate de desenvolvimento front end leve com build local |
 3 | [@nglauber](https://github.com/nglauber)/[**TestWiFiDirect**](https://github.com/nglauber/TestWiFiDirect) |  |
 3 | [@uaihebert](https://github.com/uaihebert)/[**SormulaCrud**](https://github.com/uaihebert/SormulaCrud) |  |
 3 | [@MarcosX](https://github.com/MarcosX)/[**Curso-Java**](https://github.com/MarcosX/Curso-Java) | Códigos do curso de Desenvolvimento Ágil com Java |
@@ -417,12 +425,15 @@
 ### CSS ###
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
+557 | [@filipelinhares](https://github.com/filipelinhares)/[**ress**](https://github.com/filipelinhares/ress) | :page_facing_up: A modern CSS reset |
+62 | [@diegoeis](https://github.com/diegoeis)/[**code-guide**](https://github.com/diegoeis/code-guide) | Padrões para códigos HTML e CSS flexíveis e sustentáveis. | [:arrow_upper_right:](http://diegoeis.github.io/code-guide/)
 11 | [@lucaslg26](https://github.com/lucaslg26)/[**musivk**](https://github.com/lucaslg26/musivk) | A tool to download music from VK |
 2 | [@gitarno](https://github.com/gitarno)/[**padroesWEB**](https://github.com/gitarno/padroesWEB) | Padrões Web |
 2 | [@tiagoporto](https://github.com/tiagoporto)/[**responsive-image-gal…**](https://github.com/tiagoporto/responsive-image-gallery) | Responsive Image Gallery | [:arrow_upper_right:](http://tiagoporto.github.io/responsive-image-gallery/)
 ### HTML ###
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
+320 | [@awesome-br](https://github.com/awesome-br)/[**awesome-br.github.io**](https://github.com/awesome-br/awesome-br.github.io) |  | http://awesome-br.com
 31 | [@sanderlei](https://github.com/sanderlei)/[**History**](https://github.com/sanderlei/History) | Website about History with HTML5, CSS3 and Bootstrap |
 9 | [@jjaderg](https://github.com/jjaderg)/[**jellbo**](https://github.com/jjaderg/jellbo) | :handbag: A boilerplate to create static sites using Jekyll, Gulp + ES6, PostCSS and more. |
 3 | [@AndrewMcSwain](https://github.com/AndrewMcSwain)/[**ecom**](https://github.com/AndrewMcSwain/ecom) |  |
@@ -569,6 +580,7 @@
 6 | [@fcavani](https://github.com/fcavani)/[**monitor**](https://github.com/fcavani/monitor) | Software to monitor other services in a linux server environment, something like monit, but simple and functional.  |
 6 | [@andrebq](https://github.com/andrebq)/[**wfobj**](https://github.com/andrebq/wfobj) | 3D library for loading Wavefront .obj files in Go+OpenGL |
 4 | [@igoralmeida](https://github.com/igoralmeida)/[**readline-go**](https://github.com/igoralmeida/readline-go) | GNU readline(3) wrapper for Go |
+3 | [@theuves](https://github.com/theuves)/[**go-cpf**](https://github.com/theuves/go-cpf) | Funções básicas para a manipulação de números de CPF. | https://godoc.org/github.com/theuves/go-cpf
 2 | [@dhuan](https://github.com/dhuan)/[**go-strategy-pattern**](https://github.com/dhuan/go-strategy-pattern) | Strategy Pattern applied in Go. |
 2 | [@andrebq](https://github.com/andrebq)/[**chimp**](https://github.com/andrebq/chimp) | Go Chimps to automate the world |
 2 | [@andrebq](https://github.com/andrebq)/[**wde.sdl**](https://github.com/andrebq/wde.sdl) | SDL backend for Go WDE. Uses banthar SDL bindings. |
@@ -894,13 +906,11 @@
 226 | [@danilobellini](https://github.com/danilobellini)/[**audiolazy**](https://github.com/danilobellini/audiolazy) | Expressive Digital Signal Processing (DSP) package for Python |
 158 | [@rochacbruno](https://github.com/rochacbruno)/[**Flask-GoogleMaps**](https://github.com/rochacbruno/Flask-GoogleMaps) | Easy way to add GoogleMaps to Flask applications. |
 151 | [@turicas](https://github.com/turicas)/[**rows**](https://github.com/turicas/rows) | A common, beautiful interface to tabular data, no matter the format |
-147 | [@luanfonceca](https://github.com/luanfonceca)/[**speakerfight**](https://github.com/luanfonceca/speakerfight) | Speakerfight is an arena where the Speakers can fight each other and the people choose who wins. | [:arrow_upper_right:](http://www.speakerfight.com/)
 135 | [@moraes](https://github.com/moraes)/[**tipfy**](https://github.com/moraes/tipfy) | The almighty little framework for Google App Engine | [:arrow_upper_right:](http://www.tipfy.org/)
 134 | [@heynemann](https://github.com/heynemann)/[**pyvows**](https://github.com/heynemann/pyvows) | Python implementation of Vows.js | [:arrow_upper_right:](http://pyvows.org)
 127 | [@heynemann](https://github.com/heynemann)/[**cyclops**](https://github.com/heynemann/cyclops) | Cyclops is meant to be a high performance barrier in front of Sentry (http://getsentry.com). | [:arrow_upper_right:](http://heynemann.github.io/cyclops/)
 125 | [@jseidl](https://github.com/jseidl)/[**GoldenEye**](https://github.com/jseidl/GoldenEye) | GoldenEye Layer 7 (KeepAlive+NoCache) DoS Test Tool |
 119 | [@turicas](https://github.com/turicas)/[**api.brasil.io**](https://github.com/turicas/api.brasil.io) | Backend da API do http://Brasil.IO/ |
-117 | [@eduardocereto](https://github.com/eduardocereto)/[**pyboleto**](https://github.com/eduardocereto/pyboleto) | A Python module to create Brazilian "Boletos de Cobrança" for multiple banks |
 105 | [@rochacbruno](https://github.com/rochacbruno)/[**dynaconf**](https://github.com/rochacbruno/dynaconf) | Dynamic config load for Python  | [:arrow_upper_right:](http://rochacbruno.github.io/dynaconf)
 103 | [@rochacbruno](https://github.com/rochacbruno)/[**flasgger**](https://github.com/rochacbruno/flasgger) | Creates Swagger 2.0 API documentation for all your Flask views extracting specs from docstrings or referenced files | [:arrow_upper_right:](http://flasgger-rochacbruno.rhcloud.com/)
 103 | [@heynemann](https://github.com/heynemann)/[**motorengine**](https://github.com/heynemann/motorengine) | Motorengine is a port of MongoEngine for Tornado. | [:arrow_upper_right:](http://motorengine.readthedocs.org)
@@ -1027,7 +1037,6 @@
 5 | [@turicas](https://github.com/turicas)/[**countdown-traffic-li…**](https://github.com/turicas/countdown-traffic-light) | Python+Arduino-based countdown for 5min lightning talks that acts as a traffic-light |
 5 | [@heynemann](https://github.com/heynemann)/[**scribbler**](https://github.com/heynemann/scribbler) | Scribbler is a parallel test runner for python. | [:arrow_upper_right:](http://www.pyscribbler.org)
 5 | [@heynemann](https://github.com/heynemann)/[**pyoc**](https://github.com/heynemann/pyoc) | Python IoC container | [:arrow_upper_right:](http://groups.google.com/group/pythonioc)
-5 | [@vmesel](https://github.com//vmesel)/[**GeoMath**](https://github.com/vmesel/GeoMath) | Analytical Geometry Library for Python 3.X | [:arrow_upper_right:](http://geomath.co/)
 4 | [@renzon](https://github.com/renzon)/[**est_dados_python**](https://github.com/renzon/est_dados_python) | Códigos para curso de estrutura de dados com Python |
 4 | [@renzon](https://github.com/renzon)/[**zenwarch**](https://github.com/renzon/zenwarch) | Zen Web Architecture - A engine to routing by convention |
 4 | [@heynemann](https://github.com/heynemann)/[**generator-flask-app**](https://github.com/heynemann/generator-flask-app) | Yeoman generator for flask applications |
@@ -1386,6 +1395,7 @@
 --- | --- | --- | ---
 51 | [@aureliojargas](https://github.com/aureliojargas)/[**clitest**](https://github.com/aureliojargas/clitest) | Command Line Tester |
 25 | [@aureliojargas](https://github.com/aureliojargas)/[**txt2regex**](https://github.com/aureliojargas/txt2regex) | Regex wizard for the terminal, written in Bash |
+22 | [@fdaciuk](https://github.com/fdaciuk)/[**clima**](https://github.com/fdaciuk/clima) | :sunny: Get city weather from wttr.in | [:arrow_upper_right:](https://www.npmjs.com/package/clima)
 22 | [@Malabarba](https://github.com/Malabarba)/[**control-pianobar**](https://github.com/Malabarba/control-pianobar) | Pair of scripts that interact with pianobar entirely through notification bubbles and hotkeys. No terminal necessary. | [:arrow_upper_right:](http://malabarba.github.io/control-pianobar/)
 14 | [@eug](https://github.com/eug)/[**import**](https://github.com/eug/import) | A import system for shell script |
 8 | [@Malabarba](https://github.com/Malabarba)/[**alpine-osd-notify**](https://github.com/Malabarba/alpine-osd-notify) | Script to run alpine mail client using a notify-osd notification system. |
@@ -1446,6 +1456,15 @@
 ## :yum: How to contribute
 Have an idea? Found a bug? See [how to contribute][contributing].
 
+## :moneybag: Donations
+
+Another way to support the development of my open-source modules is
+to [set up a recurring donation, via Patreon][patreon]. :rocket:
+
+[PayPal donations][paypal-donations] are appreciated too! Each dollar helps.
+
+Thanks! :heart:
+
 
 ## :sparkles: Related
 
@@ -1457,6 +1476,7 @@ Have an idea? Found a bug? See [how to contribute][contributing].
 
 [MIT][license] © [Ionică Bizău][website]
 
+[patreon]: https://www.patreon.com/ionicabizau
 [paypal-donations]: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=RVXDDLKKLQRJW
 [donate-now]: http://i.imgur.com/6cMbHOC.png
 
