@@ -428,6 +428,7 @@
 557 | [@filipelinhares](https://github.com/filipelinhares)/[**ress**](https://github.com/filipelinhares/ress) | :page_facing_up: A modern CSS reset |
 62 | [@diegoeis](https://github.com/diegoeis)/[**code-guide**](https://github.com/diegoeis/code-guide) | Padrões para códigos HTML e CSS flexíveis e sustentáveis. | [:arrow_upper_right:](http://diegoeis.github.io/code-guide/)
 11 | [@lucaslg26](https://github.com/lucaslg26)/[**musivk**](https://github.com/lucaslg26/musivk) | A tool to download music from VK |
+4 | [@khaosdoctor](https://github.com/khaosdoctor)/[**delay.css**](https://github.com/khaosdoctor/delay.css) | Animation delay for CSS classes | [:arrow_upper_right:](https://khaosdoctor.github.io/delay.css)
 2 | [@gitarno](https://github.com/gitarno)/[**padroesWEB**](https://github.com/gitarno/padroesWEB) | Padrões Web |
 2 | [@tiagoporto](https://github.com/tiagoporto)/[**responsive-image-gal…**](https://github.com/tiagoporto/responsive-image-gallery) | Responsive Image Gallery | [:arrow_upper_right:](http://tiagoporto.github.io/responsive-image-gallery/)
 ### HTML ###
