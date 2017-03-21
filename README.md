@@ -912,12 +912,12 @@
 127 | [@heynemann](https://github.com/heynemann)/[**cyclops**](https://github.com/heynemann/cyclops) | Cyclops is meant to be a high performance barrier in front of Sentry (http://getsentry.com). | [:arrow_upper_right:](http://heynemann.github.io/cyclops/)
 125 | [@jseidl](https://github.com/jseidl)/[**GoldenEye**](https://github.com/jseidl/GoldenEye) | GoldenEye Layer 7 (KeepAlive+NoCache) DoS Test Tool |
 119 | [@turicas](https://github.com/turicas)/[**api.brasil.io**](https://github.com/turicas/api.brasil.io) | Backend da API do http://Brasil.IO/ |
+107 | [@osantana](https://github.com/osantana)/[**prettyconf**](https://github.com/osantana/prettyconf) | A extensible library for Settings/Code separation | [:arrow_upper_right:](https://pypi.python.org/pypi/prettyconf)
 105 | [@rochacbruno](https://github.com/rochacbruno)/[**dynaconf**](https://github.com/rochacbruno/dynaconf) | Dynamic config load for Python  | [:arrow_upper_right:](http://rochacbruno.github.io/dynaconf)
 103 | [@rochacbruno](https://github.com/rochacbruno)/[**flasgger**](https://github.com/rochacbruno/flasgger) | Creates Swagger 2.0 API documentation for all your Flask views extracting specs from docstrings or referenced files | [:arrow_upper_right:](http://flasgger-rochacbruno.rhcloud.com/)
 103 | [@heynemann](https://github.com/heynemann)/[**motorengine**](https://github.com/heynemann/motorengine) | Motorengine is a port of MongoEngine for Tornado. | [:arrow_upper_right:](http://motorengine.readthedocs.org)
 102 | [@heynemann](https://github.com/heynemann)/[**pynq**](https://github.com/heynemann/pynq) | Python implementation of Microsoft's .Net Language Integrated Query (LINQ) | [:arrow_upper_right:](http://www.pynq.org)
 102 | [@avelino](https://github.com/avelino)/[**nacho**](https://github.com/avelino/nacho) |  Python micro web-framework and asynchronous networking library tulip, support Python >= 3.3 | [:arrow_upper_right:](http://nachoweb.io)
-99 | [@osantana](https://github.com/osantana)/[**prettyconf**](https://github.com/osantana/prettyconf) | A extensible library for Settings/Code separation | [:arrow_upper_right:](https://pypi.python.org/pypi/prettyconf)
 93 | [@moraes](https://github.com/moraes)/[**webapp-improved**](https://github.com/moraes/webapp-improved) | Taking Google App Engine's webapp to the next level! | [:arrow_upper_right:](http://code.google.com/p/webapp-improved/)
 82 | [@gleicon](https://github.com/gleicon)/[**uurl**](https://github.com/gleicon/uurl) | url shortener using bottle, redis and gevent | [:arrow_upper_right:](http://www.7co.cc)
 78 | [@fsouza](https://github.com/fsouza)/[**gaeseries**](https://github.com/fsouza/gaeseries) | Series about using Google App Engine with some Python web frameworks :) | [:arrow_upper_right:](http://gaeseries.appspot.com)
@@ -960,6 +960,7 @@
 19 | [@gleicon](https://github.com/gleicon)/[**pasteme**](https://github.com/gleicon/pasteme) | a pastebin clone written in python, using bottle and mongodb | [:arrow_upper_right:](http:/zenmachine.wordpress.com)
 19 | [@gleicon](https://github.com/gleicon)/[**pyriemann**](https://github.com/gleicon/pyriemann) | Python client for Riemann | [:arrow_upper_right:](http://www.7co.cc)
 18 | [@felipecruz](https://github.com/felipecruz)/[**coopy**](https://github.com/felipecruz/coopy) | python objects persistence - prevalence pattern | [:arrow_upper_right:](http://coopy.readthedocs.org/en/latest/)
+18 | [@olist](https://github.com/olist)/[**correios**](https://github.com/olist/correios) | A client library for Brazilian Correios APIs and services (SIGEP - Posting List, Labels, Services and SRO - package tracking) |
 17 | [@avelino](https://github.com/avelino)/[**cookiecutter-bottle**](https://github.com/avelino/cookiecutter-bottle) | A cookiecutter template for creating reusable Bottle projects quickly. |
 16 | [@allisson](https://github.com/allisson)/[**django-project-templ…**](https://github.com/allisson/django-project-template) | Project template for django 1.6+ |
 16 | [@heynemann](https://github.com/heynemann)/[**cow**](https://github.com/heynemann/cow) | cow is a quick-start for tornado-powered projects (specially apis). |
