@@ -31,13 +31,15 @@
  - [Swift](#swift)
  - [TeX](#tex)
  - [VimL](#viml)
+
 ### JavaScript ###
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
+6221 | [@braziljs](https://github.com/braziljs/)/[**js-the-right-way](https://github.com/braziljs/js-the-right-way) | An easy-to-read, quick reference for JS best practices, accepted coding standards, and links around the Web | [:arrow_upper_right:](http://jstherightway.org)
 1455 | [@dleitee](https://github.com/dleitee)/[**strman**](https://github.com/dleitee/strman) | A Javascript string manipulation library. |
 1169 | [@robotlolita](https://github.com/robotlolita)/[**fuck-you**](https://github.com/robotlolita/fuck-you) |  (╯°□°）╯︵sǝssǝɔoɹd oʎ llɐ llıʞǝɓɐɹ |
-1063 | [@ellisonleao](https://github.com/ellisonleao)/[**clumsy-bird**](https://github.com/ellisonleao/clumsy-bird) | :bird: :video_game: A MelonJS port of the famous Flappy Bird Game | [:arrow_upper_right:](http://ellisonleao.github.io/clumsy-bird/)
-1014 | [@ellisonleao](https://github.com/ellisonleao)/[**sharer.js**](https://github.com/ellisonleao/sharer.js) | :on: :bookmark: Create your own social share buttons | [:arrow_upper_right:](http://ellison.rocks/sharer.js)
+968 | [@ellisonleao](https://github.com/ellisonleao)/[**clumsy-bird**](https://github.com/ellisonleao/clumsy-bird) | :bird: :video_game: A MelonJS port of the famous Flappy Bird Game | [:arrow_upper_right:](http://ellisonleao.github.io/clumsy-bird/)
+962 | [@ellisonleao](https://github.com/ellisonleao)/[**sharer.js**](https://github.com/ellisonleao/sharer.js) | :on: :bookmark: Create your own social share buttons | [:arrow_upper_right:](http://ellison.rocks/sharer.js)
 626 | [@filipedeschamps](https://github.com/filipedeschamps)/[**rss-feed-emitter**](https://github.com/filipedeschamps/rss-feed-emitter) | Super RSS News Feed aggregator written in Node.js and ES6 |
 532 | [@raphamorim](https://github.com/raphamorim)/[**origami.js**](https://github.com/raphamorim/origami.js) | HTML5 Canvas for Humans 人間のためのキャンバス | [:arrow_upper_right:](http://origamijs.com)
 360 | [@robotlolita](https://github.com/robotlolita)/[**raven**](https://github.com/robotlolita/raven) | Raven is a minimal, distraction-free text editor with good typography. | [:arrow_upper_right:](http://robotlolita.me/raven/)
@@ -905,7 +907,6 @@
 232 | [@heynemann](https://github.com/heynemann)/[**pyccuracy**](https://github.com/heynemann/pyccuracy) | Pyccuracy is a BDD-style Web Acceptance Testing framework in Python. | [:arrow_upper_right:](http://pyccuracy.org)
 226 | [@danilobellini](https://github.com/danilobellini)/[**audiolazy**](https://github.com/danilobellini/audiolazy) | Expressive Digital Signal Processing (DSP) package for Python |
 158 | [@rochacbruno](https://github.com/rochacbruno)/[**Flask-GoogleMaps**](https://github.com/rochacbruno/Flask-GoogleMaps) | Easy way to add GoogleMaps to Flask applications. |
-153 | [@ellisonleao](https://github.com/ellisonleao)/[**pyshorteners**](https://github.com/ellisonleao/pyshorteners) | A Python lib to consume the most used shorteners APIs |
 151 | [@turicas](https://github.com/turicas)/[**rows**](https://github.com/turicas/rows) | A common, beautiful interface to tabular data, no matter the format |
 135 | [@moraes](https://github.com/moraes)/[**tipfy**](https://github.com/moraes/tipfy) | The almighty little framework for Google App Engine | [:arrow_upper_right:](http://www.tipfy.org/)
 134 | [@heynemann](https://github.com/heynemann)/[**pyvows**](https://github.com/heynemann/pyvows) | Python implementation of Vows.js | [:arrow_upper_right:](http://pyvows.org)
@@ -945,7 +946,6 @@
 28 | [@avelino](https://github.com/avelino)/[**quik**](https://github.com/avelino/quik) | A fast and lightweight Python template engine | [:arrow_upper_right:](http://quik.readthedocs.org/)
 27 | [@renzon](https://github.com/renzon)/[**tekton**](https://github.com/renzon/tekton) | A full stack project  based on tekton, gaegraph, gaeforms and gaepermission |
 26 | [@turicas](https://github.com/turicas)/[**mongodict**](https://github.com/turicas/mongodict) | MongoDB-backed Python dict-like interface  |
-26 | [@ellisonleao](https://github.com/ellisonleao)/[**vl**](https://github.com/ellisonleao/vl) | A URL status checker CLI  |
 25 | [@rbrito](https://github.com/rbrito)/[**urw-garamond**](https://github.com/rbrito/urw-garamond) | Improved version of the font URW Garamond No.8 | [:arrow_upper_right:](http://www.ctan.org/tex-archive/fonts/urw/garamond/)
 24 | [@renzon](https://github.com/renzon)/[**estrutura-de-dados**](https://github.com/renzon/estrutura-de-dados) | Repositório do curso de Estrutura de Dados da Fatec SJC |
 24 | [@marcelcaraciolo](https://github.com/marcelcaraciolo)/[**PyKlout**](https://github.com/marcelcaraciolo/PyKlout) | Klout Interface API using Python |
@@ -1480,6 +1480,7 @@ Thanks! :heart:
 ## :sparkles: Related
 
  - [`made-in-romania`](https://github.com/IonicaBizau/made-in-romania#readme)—A list of cool projects made in Romania.
+
 
 
 ## :scroll: License
