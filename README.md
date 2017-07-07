@@ -903,6 +903,7 @@
 487 | [@avelino](https://github.com/avelino)/[**vim-bootstrap**](https://github.com/avelino/vim-bootstrap) | Vim Bootstrap is generator provides a simple method of generating a .vimrc configuration for vim | [:arrow_upper_right:](http://vim-bootstrap.com)
 483 | [@gleicon](https://github.com/gleicon)/[**restmq**](https://github.com/gleicon/restmq) | REST/JSON/HTTP based message queue | [:arrow_upper_right:](http://zenmachine.wordpress.com)
 443 | [@hacktoon](https://github.com/hacktoon)/[**1001**](https://github.com/hacktoon/1001) | 1001 algorithms you must implement before you die |
+382 | [@rfunix](https://github.com/rfunix)/[**pompem**](https://github.com/rfunix/Pompem) | Pompem is an open source tool, designed to automate the search for Exploits and Vulnerability |
 355 | [@heynemann](https://github.com/heynemann)/[**r3**](https://github.com/heynemann/r3) | r³ is a map-reduce engine written in python using redis as a backend | [:arrow_upper_right:](http://heynemann.github.com/r3)
 283 | [@avelino](https://github.com/avelino)/[**liquidluck**](https://github.com/avelino/liquidluck) | Felix Felicis (aka liquidluck) is a static blog generator in python |
 232 | [@heynemann](https://github.com/heynemann)/[**pyccuracy**](https://github.com/heynemann/pyccuracy) | Pyccuracy is a BDD-style Web Acceptance Testing framework in Python. | [:arrow_upper_right:](http://pyccuracy.org)
