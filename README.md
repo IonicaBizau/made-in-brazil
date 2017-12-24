@@ -9,6 +9,7 @@
 
 ## Contents
 
+
  - [JavaScript](#javascript)
  - [Java](#java)
  - [C#](#c-1)
@@ -35,6 +36,7 @@
  - [VimL](#viml)
 
 ### JavaScript ###
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 6221 | [@braziljs](https://github.com/braziljs/)/[**js-the-right-way**](https://github.com/braziljs/js-the-right-way) | An easy-to-read, quick reference for JS best practices, accepted coding standards, and links around the Web | [:arrow_upper_right:](http://jstherightway.org)
@@ -302,7 +304,9 @@
 2 | [@felquis](https://github.com/felquis)/[**tick**](https://github.com/felquis/tick) |  |
 2 | [@felquis](https://github.com/felquis)/[**load-ionic**](https://github.com/felquis/load-ionic) | Load diferent versions of Ionic in the browser while debuging |
 2 | [@henricavalcante](https://github.com/henricavalcante)/[**hooksocket**](https://github.com/henricavalcante/hooksocket) | (Under Construction) A simple notification system triggered by webhooks |
+
 ### Java ###
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 1177 | [@flavioarfaria](https://github.com/flavioarfaria)/[**KenBurnsView**](https://github.com/flavioarfaria/KenBurnsView) | Android ImageViews animated by Ken Burns Effect |
@@ -379,7 +383,9 @@
 2 | [@brunoborges](https://github.com/brunoborges)/[**camel-twitter-demo**](https://github.com/brunoborges/camel-twitter-demo) | Demos on how to use camel-twitter component |
 2 | [@otaviojava](https://github.com/otaviojava)/[**money-api-book-sampl…**](https://github.com/otaviojava/money-api-book-samples) | Samples of the money-api book |
 2 | [@rdiego26](https://github.com/rdiego26)/[**smart-jobs**](https://github.com/rdiego26/smart-jobs) |  |
+
 ### C# ###
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 142 | [@huika](https://github.com/huika)/[**UMA**](https://github.com/huika/UMA) | Unity Multipurpose Avatar |
@@ -426,7 +432,9 @@
 2 | [@mbenford](https://github.com/mbenford)/[**NuCheck**](https://github.com/mbenford/NuCheck) | Little tool to check if there are different versions of a NuGet package in use in a solution |
 2 | [@giggio](https://github.com/giggio)/[**quantoeh**](https://github.com/giggio/quantoeh) |  |
 2 | [@andrecarlucci](https://github.com/andrecarlucci)/[**sharpsenses-poker**](https://github.com/andrecarlucci/sharpsenses-poker) |  |
+
 ### CSS ###
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 557 | [@filipelinhares](https://github.com/filipelinhares)/[**ress**](https://github.com/filipelinhares/ress) | :page_facing_up: A modern CSS reset |
@@ -435,14 +443,18 @@
 4 | [@khaosdoctor](https://github.com/khaosdoctor)/[**delay.css**](https://github.com/khaosdoctor/delay.css) | CSS Animation timming helpers | [:arrow_upper_right:](http://khaosdoctor.github.io/delay.css)
 2 | [@gitarno](https://github.com/gitarno)/[**padroesWEB**](https://github.com/gitarno/padroesWEB) | Padrões Web |
 2 | [@tiagoporto](https://github.com/tiagoporto)/[**responsive-image-gal…**](https://github.com/tiagoporto/responsive-image-gallery) | Responsive Image Gallery | [:arrow_upper_right:](http://tiagoporto.github.io/responsive-image-gallery/)
+
 ### HTML ###
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 320 | [@awesome-br](https://github.com/awesome-br)/[**awesome-br.github.io**](https://github.com/awesome-br/awesome-br.github.io) |  | http://awesome-br.com
 31 | [@sanderlei](https://github.com/sanderlei)/[**History**](https://github.com/sanderlei/History) | Website about History with HTML5, CSS3 and Bootstrap |
 9 | [@jjaderg](https://github.com/jjaderg)/[**jellbo**](https://github.com/jjaderg/jellbo) | :handbag: A boilerplate to create static sites using Jekyll, Gulp + ES6, PostCSS and more. |
 3 | [@AndrewMcSwain](https://github.com/AndrewMcSwain)/[**ecom**](https://github.com/AndrewMcSwain/ecom) |  |
+
 ### C ###
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 3611 | [@lpereira](https://github.com/lpereira)/[**lwan**](https://github.com/lpereira/lwan) | Experimental, scalable, high performance HTTP server | [:arrow_upper_right:](https://lwan.ws)
@@ -505,7 +517,9 @@
 2 | [@walac](https://github.com/walac)/[**glibc**](https://github.com/walac/glibc) | glibc mirror |
 2 | [@rafael-santiago](https://github.com/rafael-santiago)/[**shh**](https://github.com/rafael-santiago/shh) | An old ioccc entry of mine |
 2 | [@lpereira](https://github.com/lpereira)/[**help-viewer**](https://github.com/lpereira/help-viewer) | Simple help viewer based on Markdown syntax and GTK+ |
+
 ### C++ ###
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 258 | [@vinipsmaker](https://github.com/vinipsmaker)/[**tufao**](https://github.com/vinipsmaker/tufao) | An asynchronous web framework for C++ built on top of Qt | [:arrow_upper_right:](http://vinipsmaker.github.io/tufao/)
@@ -542,7 +556,9 @@
 2 | [@gustavosbarreto](https://github.com/gustavosbarreto)/[**qfilemgr**](https://github.com/gustavosbarreto/qfilemgr) | Qt-based file manager for Linux platform |
 2 | [@gustavosbarreto](https://github.com/gustavosbarreto)/[**libqsolid**](https://github.com/gustavosbarreto/libqsolid) | KDE Solid API wihout any KDE dependencies |
 2 | [@gustavosbarreto](https://github.com/gustavosbarreto)/[**x11mirror**](https://github.com/gustavosbarreto/x11mirror) |  |
+
 ### ActionScript ###
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 508 | [@claus](https://github.com/claus)/[**as3swf**](https://github.com/claus/as3swf) | Low level Actionscript 3 library to parse, create, modify and publish SWF files. |
@@ -566,7 +582,9 @@
 2 | [@ederlima](https://github.com/ederlima)/[**Mp3Lite**](https://github.com/ederlima/Mp3Lite) | A lightweight as3 mp3 player class  |
 2 | [@hankpillow](https://github.com/hankpillow)/[**scale-to-fit**](https://github.com/hankpillow/scale-to-fit) | small actionscript library which scales an object in order to fit another object's size. |
 2 | [@jancassio](https://github.com/jancassio)/[**dragonfly**](https://github.com/jancassio/dragonfly) | actionscript animation engine | [:arrow_upper_right:](http://dragonfly.as)
+
 ### Clojure ###
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 30 | [@subtitle-master](https://github.com/subtitle-master)/[**subtitlemaster**](https://github.com/subtitle-master/subtitlemaster) | Subtitle Master | [:arrow_upper_right:](http://subtitlemaster.com)
@@ -575,7 +593,9 @@
 6 | [@paulosuzart](https://github.com/paulosuzart)/[**ultimate-geo**](https://github.com/paulosuzart/ultimate-geo) | Command line tool for generating latitude and longitude reading csv files with random columns. |
 5 | [@paulosuzart](https://github.com/paulosuzart)/[**clact**](https://github.com/paulosuzart/clact) | Your friend say funny things. This becomes your friend facts. We call it Clacts! |
 5 | [@paulosuzart](https://github.com/paulosuzart)/[**clj-enlive-template**](https://github.com/paulosuzart/clj-enlive-template) | lein-newnew template for web noir + enlive web applications |
+
 ### Go ###
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 26 | [@andrebq](https://github.com/andrebq)/[**gas**](https://github.com/andrebq/gas) | GAS is a go library to load assets from within GOPATH |
@@ -589,14 +609,18 @@
 2 | [@dhuan](https://github.com/dhuan)/[**go-strategy-pattern**](https://github.com/dhuan/go-strategy-pattern) | Strategy Pattern applied in Go. |
 2 | [@andrebq](https://github.com/andrebq)/[**chimp**](https://github.com/andrebq/chimp) | Go Chimps to automate the world |
 2 | [@andrebq](https://github.com/andrebq)/[**wde.sdl**](https://github.com/andrebq/wde.sdl) | SDL backend for Go WDE. Uses banthar SDL bindings. |
+
 ### Haskell ###
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 7 | [@pauloborba](https://github.com/pauloborba)/[**plc**](https://github.com/pauloborba/plc) | Material da disciplina de paradigmas de linguagens computacionais |
 6 | [@thiago-negri](https://github.com/thiago-negri)/[**DuDuHoX**](https://github.com/thiago-negri/DuDuHoX) | Learning Haskell: A maze game |
 4 | [@marcotmarcot](https://github.com/marcotmarcot)/[**chuchu**](https://github.com/marcotmarcot/chuchu) | Behaviour driven development for Haskell |
 2 | [@marcotmarcot](https://github.com/marcotmarcot)/[**hasktags**](https://github.com/marcotmarcot/hasktags) | Produces ctags "tags" and etags "TAGS" files for Haskell programs |
+
 ### Lua ###
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 265 | [@andremm](https://github.com/andremm)/[**typedlua**](https://github.com/andremm/typedlua) | An Optional Type System for Lua |
@@ -628,7 +652,9 @@
 2 | [@stephanngamedev](https://github.com/stephanngamedev)/[**lua.util**](https://github.com/stephanngamedev/lua.util) | lua.util is a module with some convenient utilities not included with the standard Lua install. |
 2 | [@manoelcampos](https://github.com/manoelcampos)/[**NCLuaSOAP**](https://github.com/manoelcampos/NCLuaSOAP) | Módulo NCLua que implementa o protocolo SOAP 1.1/1.2 para uso em aplicações interativas do Sistema Brasileiro de TV Digital (SBTVD/ISDB-TB) | [:arrow_upper_right:](http://manoelcampos.github.io/NCLuaSOAP)
 2 | [@manoelcampos](https://github.com/manoelcampos)/[**TVDQuiz**](https://github.com/manoelcampos/TVDQuiz) | Aplicação de Quiz para o Sistema Brasileiro de TV Digital (SBTVD/ISDB-TB) |
+
 ### Matlab ###
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 11 | [@emersonmoretto](https://github.com/emersonmoretto)/[**mlclass-ex4**](https://github.com/emersonmoretto/mlclass-ex4) | Stanford ML Class programming exercises |
@@ -639,7 +665,9 @@
 3 | [@gustavofuhr](https://github.com/gustavofuhr)/[**multi_pedestrian_tra…**](https://github.com/gustavofuhr/multi_pedestrian_tracking) | Multi-Pedestrian Tracking in Monocular Calibrated Cameras | [:arrow_upper_right:](http://inf.ufrgs.br/~gfuhr/?file=research/multi-people-tracking)
 2 | [@gustavofuhr](https://github.com/gustavofuhr)/[**single_pedestrian_tr…**](https://github.com/gustavofuhr/single_pedestrian_tracking) | Patch-based pedestrian tracking using monocular cameras | [:arrow_upper_right:](http://inf.ufrgs.br/~gfuhr/?file=research)
 2 | [@emersonmoretto](https://github.com/emersonmoretto)/[**mlclass-ex6**](https://github.com/emersonmoretto/mlclass-ex6) | ML class exercise 6 - SVM |
+
 ### Objective-C ###
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 1142 | [@hebertialmeida](https://github.com/hebertialmeida)/[**HAPaperViewControlle…**](https://github.com/hebertialmeida/HAPaperViewController) | UICollectionView with layout transitions inspired by Facebook Paper App |
@@ -693,7 +721,9 @@
 2 | [@schnorr](https://github.com/schnorr)/[**paje**](https://github.com/schnorr/paje) | The Pajé visualization tool provides interactive and scalable behavioral visualizations of the dynamics of the executions of parallel and distributed applications. |
 2 | [@theiostream](https://github.com/theiostream)/[**notificationshower**](https://github.com/theiostream/notificationshower) | add textField to NotificationCenter | [:arrow_upper_right:](http://matoe.co.cc)
 2 | [@madson](https://github.com/madson)/[**OndeEstou**](https://github.com/madson/OndeEstou) | Exemplo usado na apresentação da TDC2012 |
+
 ### Perl ###
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 18 | [@gnustavo](https://github.com/gnustavo)/[**Git-Hooks**](https://github.com/gnustavo/Git-Hooks) | Framework for implementing Git (and Gerrit) hooks | [:arrow_upper_right:](http://search.cpan.org/dist/Git-Hooks/)
@@ -727,7 +757,9 @@
 2 | [@russoz](https://github.com/russoz)/[**artigos**](https://github.com/russoz/artigos) | Escritos & Rabiscados |
 2 | [@glasswalk3r](https://github.com/glasswalk3r)/[**siebel-monitoring-to…**](https://github.com/glasswalk3r/siebel-monitoring-tools) | Automatically exported from code.google.com/p/siebel-monitoring-tool… |
 2 | [@wreis](https://github.com/wreis)/[**DBIx-Class-EncodedCo…**](https://github.com/wreis/DBIx-Class-EncodedColumn) | Automatically encode columns | [:arrow_upper_right:](https://metacpan.org/module/DBIx::Class::EncodedColumn)
+
 ### PHP ###
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 791 | [@jgrossi](https://github.com/jgrossi)/[**corcel**](https://github.com/jgrossi/corcel) | Use WordPress backend with any PHP application |
@@ -897,7 +929,9 @@
 2 | [@caferrari](https://github.com/caferrari)/[**DateRecursive**](https://github.com/caferrari/DateRecursive) | Recursive dates generator |
 2 | [@caferrari](https://github.com/caferrari)/[**SimpleMongo**](https://github.com/caferrari/SimpleMongo) | Simple class to simplify the class Mongo (is that possible?) | [:arrow_upper_right:](http://ferrari.eti.br)
 2 | [@barraponto](https://github.com/barraponto)/[**drupal-modernist-the…**](https://github.com/barraponto/drupal-modernist-theme) | Drupal Modernist Theme, ported from Wordpress |
+
 ### Python ###
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 631 | [@jh00nbr](https://github.com/jh00nbr)/[**Routerhunter-2.0**](https://github.com/jh00nbr/Routerhunter-2.0) | Testing vulnerabilities in devices and routers connected to the Internet. |
@@ -1141,7 +1175,9 @@
 2 | [@renzon](https://github.com/renzon)/[**pagseguro2csv**](https://github.com/renzon/pagseguro2csv) | Programa para transforma o XML do Pagseguro em CSV |
 2 | [@osantana](https://github.com/osantana)/[**celerytestworker**](https://github.com/osantana/celerytestworker) | Control (start/stop) a Celery standalone worker for running test purpose |
 2 | [@cassiobotaro](https://github.com/cassiobotaro)/[**conceitos_linguagens**](https://github.com/cassiobotaro/conceitos_linguagens) | :snake: Conceitos de linguagens de programação aplicados em Python |
+
 ### R ###
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 7 | [@carloscinelli](https://github.com/carloscinelli)/[**NetworkRiskMeasures**](https://github.com/carloscinelli/NetworkRiskMeasures) | Implements risk measures for (financial) networks, such as DebtRank, Impact Susceptibility, Impact Diffusion and Impact Fluidity.  |
@@ -1155,7 +1191,9 @@
 2 | [@Gorgens](https://github.com/Gorgens)/[**udemy**](https://github.com/Gorgens/udemy) | Material para o curso de computação em R |
 2 | [@jtrecenti](https://github.com/jtrecenti)/[**jurimetria**](https://github.com/jtrecenti/jurimetria) | Pacote do meu mestrado |
 2 | [@mgaldino](https://github.com/mgaldino)/[**Curso-IESP-R**](https://github.com/mgaldino/Curso-IESP-R) | Scripts do R para curso de Inverno do IESP |
+
 ### Ruby ###
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 1259 | [@fnando](https://github.com/fnando)/[**browser**](https://github.com/fnando/browser) | Do some browser detection with Ruby. Includes ActionController integration. |
@@ -1381,7 +1419,9 @@
 2 | [@akitaonrails](https://github.com/akitaonrails)/[**locosxrails_i18n_dem…**](https://github.com/akitaonrails/locosxrails_i18n_demo) | Demonstration I18n App for Locos x Rails conference | [:arrow_upper_right:](http://locosxrails.com/)
 2 | [@dcrec1](https://github.com/dcrec1)/[**acts_as_solr_reloade…**](https://github.com/dcrec1/acts_as_solr_reloaded_demo) | ActsAsSolrReloaded Demo | [:arrow_upper_right:](http://www.diegocarrion.com)
 2 | [@dukex](https://github.com/dukex)/[**sally**](https://github.com/dukex/sally) |  |
+
 ### Scala ###
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 11 | [@andreum](https://github.com/andreum)/[**liftweb**](https://github.com/andreum/liftweb) | The Lift web framework for Scala | [:arrow_upper_right:](http://liftweb.net)
@@ -1396,7 +1436,9 @@
 2 | [@edgars](https://github.com/edgars)/[**altascala**](https://github.com/edgars/altascala) | Learning Scala with AltaScala | [:arrow_upper_right:](http://altascala.wordpress.com)
 2 | [@dcsobral](https://github.com/dcsobral)/[**TagScala**](https://github.com/dcsobral/TagScala) | Turn invalid supposedly HTML input into valid XML |
 2 | [@dcsobral](https://github.com/dcsobral)/[**MyGlobalSBT**](https://github.com/dcsobral/MyGlobalSBT) | My Global SBT settings |
+
 ### Shell ###
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 51 | [@aureliojargas](https://github.com/aureliojargas)/[**clitest**](https://github.com/aureliojargas/clitest) | Command Line Tester |
@@ -1419,7 +1461,9 @@
 2 | [@felclef](https://github.com/felclef)/[**oh-my-clf-zsh**](https://github.com/felclef/oh-my-clf-zsh) | It's like oh-my-zsh, but somehow, a little bit more kiss, and envenomed with chiclefs |
 2 | [@vanderson139](https://github.com/vanderson139)/[**parallels-centos-6.5**](https://github.com/vanderson139/parallels-centos-6.5) | Parallels CentOS 6.5 Vagrant Box |
 2 | [@aureliojargas](https://github.com/aureliojargas)/[**scripts**](https://github.com/aureliojargas/scripts) | Random scripts — Scripts soltos, de utilidades diversas. |
+
 ### Swift ###
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 337 | [@rakaramos](https://github.com/rakaramos)/[**OnOffButton**](https://github.com/rakaramos/OnOffButton) | On & Off by Creativedash |
@@ -1431,12 +1475,16 @@
 3 | [@MatheusCavalca](https://github.com/MatheusCavalca)/[**WWDCScholarship2015**](https://github.com/MatheusCavalca/WWDCScholarship2015) | My "winner" submission to WWDC15 Scholarship (http://developer.apple.com/wwdc/scholar… |
 2 | [@biamacedo](https://github.com/biamacedo)/[**sample-interview-cha…**](https://github.com/biamacedo/sample-interview-challenge-ios) | Reddit iOS Challenges - First Challenge: Sample Interview Challenge |
 2 | [@wamaca](https://github.com/wamaca)/[**Timer**](https://github.com/wamaca/Timer) | A simple timer for Swift |
+
 ### TeX ###
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 8 | [@gugarosa](https://github.com/gugarosa)/[**modelo_tcc_latex**](https://github.com/gugarosa/modelo_tcc_latex) | Modelo básico, desenvolvido na linguagem LaTeX, para o Trabalho de Conclusão de Curso do curso de Ciência da Computação da Unesp Bauru. |
 2 | [@UFSCar](https://github.com/UFSCar)/[**relatorio-estagio**](https://github.com/UFSCar/relatorio-estagio) | Modelo em LaTeX do relatório de estágio |
+
 ### VimL ###
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 298 | [@kassio](https://github.com/kassio)/[**neoterm**](https://github.com/kassio/neoterm) | Wrapper of some neovim's :terminal functions. |
@@ -1458,6 +1506,7 @@
 3 | [@moacirosa](https://github.com/moacirosa)/[**vim**](https://github.com/moacirosa/vim) | Plugin, syntax and things like this |
 2 | [@edsono](https://github.com/edsono)/[**vim-delphi**](https://github.com/edsono/vim-delphi) | Vim plugin for support for Delphi language |
 2 | [@kassio](https://github.com/kassio)/[**vim-tmux-runner**](https://github.com/kassio/vim-tmux-runner) | Extensible way to send commands and keys from vim to tmux. |
+
 
 ## :yum: How to contribute
 Have an idea? Found a bug? See [how to contribute][contributing].
