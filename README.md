@@ -1441,6 +1441,7 @@
 
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
+244 | [@aureliojargas](https://github.com/aureliojargas)/[**funcoeszz**](https://github.com/funcoeszz/funcoeszz) | 170+ aplicativos para a linha de comando do Linux, Mac e Cygwin | [:arrow_upper_right:](http://funcoeszz.net)
 51 | [@aureliojargas](https://github.com/aureliojargas)/[**clitest**](https://github.com/aureliojargas/clitest) | Command Line Tester |
 25 | [@aureliojargas](https://github.com/aureliojargas)/[**txt2regex**](https://github.com/aureliojargas/txt2regex) | Regex wizard for the terminal, written in Bash |
 22 | [@fdaciuk](https://github.com/fdaciuk)/[**clima**](https://github.com/fdaciuk/clima) | :sunny: Get city weather from wttr.in | [:arrow_upper_right:](https://www.npmjs.com/package/clima)
