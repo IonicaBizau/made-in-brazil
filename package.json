@@ -3384,6 +3384,12 @@
               "[@andrebq](https://github.com/andrebq)/[**wde.sdl**](https://github.com/andrebq/wde.sdl)",
               "SDL backend for Go WDE. Uses banthar SDL bindings.",
               ""
+            ],
+            [
+              "187",
+              "[@luizalabs](https://github.com/luizalabs)/[**teresa**](https://github.com/luizalabs/teresa)",
+              "A simple and powerful PaaS on top of Kubernetes",
+              ""
             ]
           ]
         }
