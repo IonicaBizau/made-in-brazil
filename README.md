@@ -609,6 +609,7 @@
 2 | [@dhuan](https://github.com/dhuan)/[**go-strategy-pattern**](https://github.com/dhuan/go-strategy-pattern) | Strategy Pattern applied in Go. |
 2 | [@andrebq](https://github.com/andrebq)/[**chimp**](https://github.com/andrebq/chimp) | Go Chimps to automate the world |
 2 | [@andrebq](https://github.com/andrebq)/[**wde.sdl**](https://github.com/andrebq/wde.sdl) | SDL backend for Go WDE. Uses banthar SDL bindings. |
+187 | [@luizalabs](https://github.com/luizalabs)/[**teresa**](https://github.com/luizalabs/teresa) | A simple and powerful PaaS on top of Kubernetes |
 
 ### Haskell ###
 
@@ -1441,7 +1442,6 @@
 
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
-244 | [@aureliojargas](https://github.com/aureliojargas)/[**funcoeszz**](https://github.com/funcoeszz/funcoeszz) | 170+ aplicativos para a linha de comando do Linux, Mac e Cygwin | [:arrow_upper_right:](http://funcoeszz.net)
 51 | [@aureliojargas](https://github.com/aureliojargas)/[**clitest**](https://github.com/aureliojargas/clitest) | Command Line Tester |
 25 | [@aureliojargas](https://github.com/aureliojargas)/[**txt2regex**](https://github.com/aureliojargas/txt2regex) | Regex wizard for the terminal, written in Bash |
 22 | [@fdaciuk](https://github.com/fdaciuk)/[**clima**](https://github.com/fdaciuk/clima) | :sunny: Get city weather from wttr.in | [:arrow_upper_right:](https://www.npmjs.com/package/clima)
@@ -1520,6 +1520,7 @@ this takes time. You can integrate and use these projects in your applications *
 
 However, if you get some profit from this or just want to encourage me to continue creating stuff, there are few ways you can do it:
 
+
  - Starring and sharing the projects you like :rocket:
  - [![Buy me a book][badge_amazon]][amazon]—I love books! I will remember you after years if you buy me one. :grin: :book:
  - [![PayPal][badge_paypal]][paypal-donations]—You can make one-time donations via PayPal. I'll probably buy a ~~coffee~~ tea. :tea:
@@ -1527,6 +1528,7 @@ However, if you get some profit from this or just want to encourage me to contin
  - **Bitcoin**—You can send me bitcoins at this address (or scanning the code below): `1P9BRsmazNQcuyTxEqveUsnf5CERdq35V6`
 
     ![](https://i.imgur.com/z6OQI95.png)
+
 
 Thanks! :heart:
 
@@ -1542,14 +1544,15 @@ Thanks! :heart:
 
 [MIT][license] © [Ionică Bizău][website]
 
-[badge_patreon]: http://ionicabizau.github.io/badges/patreon.svg
-[badge_amazon]: http://ionicabizau.github.io/badges/amazon.svg
-[badge_paypal]: http://ionicabizau.github.io/badges/paypal.svg
-[badge_paypal_donate]: http://ionicabizau.github.io/badges/paypal_donate.svg
+
+[badge_patreon]: https://ionicabizau.github.io/badges/patreon.svg
+[badge_amazon]: https://ionicabizau.github.io/badges/amazon.svg
+[badge_paypal]: https://ionicabizau.github.io/badges/paypal.svg
+[badge_paypal_donate]: https://ionicabizau.github.io/badges/paypal_donate.svg
+
 [patreon]: https://www.patreon.com/ionicabizau
 [amazon]: http://amzn.eu/hRo9sIZ
 [paypal-donations]: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=RVXDDLKKLQRJW
-[donate-now]: http://i.imgur.com/6cMbHOC.png
 
 [license]: http://showalicense.com/?fullname=Ionic%C4%83%20Biz%C4%83u%20%3Cbizauionica%40gmail.com%3E%20(https%3A%2F%2Fionicabizau.net)&year=2016#license-mit
 [website]: https://ionicabizau.net
