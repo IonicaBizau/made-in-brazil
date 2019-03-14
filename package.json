@@ -2152,7 +2152,7 @@
             [
               "1",
               "[@kenionatan](https://github.com/kenionatan)/[**Android-GPS-service-to-mysql**](https://github.com/kenionatan/Android-GPS-service-to-mysql)",
-              "",
+              "Android APP that get the actual location (Lat/Long) and stores it in a MySQL Database through a PHP API",
               ""
             ]
           ]
