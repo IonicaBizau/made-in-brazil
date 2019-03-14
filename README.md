@@ -385,6 +385,7 @@
 2 | [@brunoborges](https://github.com/brunoborges)/[**camel-twitter-demo**](https://github.com/brunoborges/camel-twitter-demo) | Demos on how to use camel-twitter component |
 2 | [@otaviojava](https://github.com/otaviojava)/[**money-api-book-sampl…**](https://github.com/otaviojava/money-api-book-samples) | Samples of the money-api book |
 2 | [@rdiego26](https://github.com/rdiego26)/[**smart-jobs**](https://github.com/rdiego26/smart-jobs) |  |
+1 | [@kenionatan](https://github.com/kenionatan)/[**Android-GPS-service-to-mysql**](https://github.com/kenionatan/Android-GPS-service-to-mysql) | Android APP that get the actual location (Lat/Long) and stores it in a MySQL Database through a PHP API |
 
 ### C# ###
 
