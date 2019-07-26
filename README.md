@@ -65,6 +65,7 @@
 58 | [@felipenmoura](https://github.com/felipenmoura)/[**sos-stackoverflow-se…**](https://github.com/felipenmoura/sos-stackoverflow-search) | SOS - StackOverflow Search in your terminal |
 55 | [@loiane](https://github.com/loiane)/[**masteringextjs**](https://github.com/loiane/masteringextjs) | :closed_book: Source Code of Mastering Ext JS book |
 54 | [@talyssonoc](https://github.com/talyssonoc)/[**node-api-boilerplate**](https://github.com/talyssonoc/node-api-boilerplate) | Boilerplate for Node web APIs |
+52 | [@derekstavis](https://github.com/derekstavis)/[**react-vanilla-form**](https://github.com/derekstavis/react-vanilla-form) | A simple and efficient form library for React | [:arrow_upper_right:](https://www.npmjs.com/package/react-vanilla-form)
 50 | [@loiane](https://github.com/loiane)/[**extjs-crud-grid-spri…**](https://github.com/loiane/extjs-crud-grid-spring-hibernate) | Example of a CRUD grid using ExtJS, Spring Framework 3 and Hibernate 3.5 | [:arrow_upper_right:](http://loianegroner.com/)
 49 | [@vitorbritto](https://github.com/vitorbritto)/[**boilerplates**](https://github.com/vitorbritto/boilerplates) | This is my personal Yeoman. A simple jumpstart for my projects |
 47 | [@fdaciuk](https://github.com/fdaciuk)/[**hoost**](https://github.com/fdaciuk/hoost) | Easily manage your virtual hosts | [:arrow_upper_right:](https://www.npmjs.com/package/hoost)
