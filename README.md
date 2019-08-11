@@ -614,6 +614,8 @@
 2 | [@andrebq](https://github.com/andrebq)/[**chimp**](https://github.com/andrebq/chimp) | Go Chimps to automate the world |
 2 | [@andrebq](https://github.com/andrebq)/[**wde.sdl**](https://github.com/andrebq/wde.sdl) | SDL backend for Go WDE. Uses banthar SDL bindings. |
 187 | [@luizalabs](https://github.com/luizalabs)/[**teresa**](https://github.com/luizalabs/teresa) | A simple and powerful PaaS on top of Kubernetes |
+2 | [@reisraff](https://github.com/reisraff)/[**goinput**](https://github.com/reisraff/goinput) | A good Input layer for go |
+2 | [@reisraff](https://github.com/reisraff)/[**mockings**](https://github.com/reisraff/mockings) | A mocking library for go |
 
 ### Haskell ###
 
@@ -768,6 +770,7 @@
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 791 | [@jgrossi](https://github.com/jgrossi)/[**corcel**](https://github.com/jgrossi/corcel) | Use WordPress backend with any PHP application |
+297 | [@reisraff](https://github.com/reisraff)/[**phulp**](https://github.com/reisraff/phulp) | the PHP port of GulpJs |
 204 | [@kriansa](https://github.com/kriansa)/[**openboleto**](https://github.com/kriansa/openboleto) | Biblioteca para geração de boletos bancários em PHP | [:arrow_upper_right:](http://kriansa.github.io/openboleto/)
 174 | [@malukenho](https://github.com/malukenho)/[**PsyGit**](https://github.com/malukenho/PsyGit) | Git for PHPsychopaths |
 76 | [@bordoni](https://github.com/bordoni)/[**fakerpress**](https://github.com/bordoni/fakerpress) | A WordPress plugin that implements an easy way to create fake data inside WordPress. | [:arrow_upper_right:](http://wordpress.org/plugins/fakerpress/)
@@ -1019,6 +1022,7 @@
 13 | [@avelino](https://github.com/avelino)/[**django-routers**](https://github.com/avelino/django-routers) | Django multiple databases, auto routers |
 13 | [@turicas](https://github.com/turicas)/[**droiduino**](https://github.com/turicas/droiduino) | Control your house via Internet using your Android phone with Python and Arduino! |
 13 | [@rochacbruno](https://github.com/rochacbruno)/[**raise_if**](https://github.com/rochacbruno/raise_if) | raise exception if condition raise_if(cond, exc) |
+12 | [@jefersondaniel](https://github.com/jefersondaniel)/[**phulpy**](https://github.com/jefersondaniel/phulpy) | Port of GulpJS for Python |
 12 | [@heynemann](https://github.com/heynemann)/[**deego**](https://github.com/heynemann/deego) | deego is a vm manager for dummies (like me) |
 12 | [@gleicon](https://github.com/gleicon)/[**python_dns_servers**](https://github.com/gleicon/python_dns_servers) | gevent and twisted based customizable DNS servers | [:arrow_upper_right:](http://www.7co.cc)
 12 | [@avelino](https://github.com/avelino)/[**bottle-admin**](https://github.com/avelino/bottle-admin) | Simple and extensible administrative interface framework for Bottle |
@@ -1112,6 +1116,7 @@
 4 | [@marcelcaraciolo](https://github.com/marcelcaraciolo)/[**Tweet-Talk**](https://github.com/marcelcaraciolo/Tweet-Talk) | A Simple Twitter Client for Google Talk  | [:arrow_upper_right:](http://talktweet.appspot.com -  tweettalk@bot.im)
 4 | [@turicas](https://github.com/turicas)/[**easygpg**](https://github.com/turicas/easygpg) | Easy-to-use command-line interface to GnuPG |
 4 | [@tarsisazevedo](https://github.com/tarsisazevedo)/[**DojoCampos**](https://github.com/tarsisazevedo/DojoCampos) |  |
+3 | [@phoopy](https://github.com/phoopy)/[**phoopy**](https://github.com/phoopy/phoopy) | A full stack framework for python based in bundles |
 3 | [@rochacbruno](https://github.com/rochacbruno)/[**import_string**](https://github.com/rochacbruno/import_string) | Imports an object based on a string  import_string('package.module:function_n… - Based on werkzeug.utils |
 3 | [@vandersonmota](https://github.com/vandersonmota)/[**Dj-Paste**](https://github.com/vandersonmota/Dj-Paste) | A pastebin-like example django application |
 3 | [@renzon](https://github.com/renzon)/[**appengineepython**](https://github.com/renzon/appengineepython) | Projeto com códigos referentes ao livro https://leanpub.com/appengine |
