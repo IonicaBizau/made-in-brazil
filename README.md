@@ -937,6 +937,7 @@
 2 | [@caferrari](https://github.com/caferrari)/[**DateRecursive**](https://github.com/caferrari/DateRecursive) | Recursive dates generator |
 2 | [@caferrari](https://github.com/caferrari)/[**SimpleMongo**](https://github.com/caferrari/SimpleMongo) | Simple class to simplify the class Mongo (is that possible?) | [:arrow_upper_right:](http://ferrari.eti.br)
 2 | [@barraponto](https://github.com/barraponto)/[**drupal-modernist-the…**](https://github.com/barraponto/drupal-modernist-theme) | Drupal Modernist Theme, ported from Wordpress |
+1 | [@XoopsModules25x](https://github.com/XoopsModules25x)/[**Suico**](https://github.com/XoopsModules25x/suico) | Social Network Module for [XOOPS](https://github.com/xoops/) created by Marcello Brandão aka  Suico  |  [:arrow_upper_right:](https://xoops.org)
 
 ### Python ###
 
