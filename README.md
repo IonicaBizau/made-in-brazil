@@ -1509,6 +1509,7 @@
 2 | [@felclef](https://github.com/felclef)/[**oh-my-clf-zsh**](https://github.com/felclef/oh-my-clf-zsh) | It's like oh-my-zsh, but somehow, a little bit more kiss, and envenomed with chiclefs |
 2 | [@vanderson139](https://github.com/vanderson139)/[**parallels-centos-6.5**](https://github.com/vanderson139/parallels-centos-6.5) | Parallels CentOS 6.5 Vagrant Box |
 2 | [@aureliojargas](https://github.com/aureliojargas)/[**scripts**](https://github.com/aureliojargas/scripts) | Random scripts — Scripts soltos, de utilidades diversas. |  |
+2 | [@alencarandre](https://github.com/alencarandre)/[**pyenv-autoenv**](https://github.com/alencarandre/pyenv-autoenv) | Manage python virtual environment automaticly |
 
 ### Swift ###
 
