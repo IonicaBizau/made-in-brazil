@@ -990,6 +990,7 @@
 382 | [@rfunix](https://github.com/rfunix)/[**pompem**](https://github.com/rfunix/Pompem) | Pompem is an open source tool, designed to automate the search for Exploits and Vulnerability |
 355 | [@heynemann](https://github.com/heynemann)/[**r3**](https://github.com/heynemann/r3) | r³ is a map-reduce engine written in python using redis as a backend | [:arrow_upper_right:](http://heynemann.github.com/r3)
 283 | [@avelino](https://github.com/avelino)/[**liquidluck**](https://github.com/avelino/liquidluck) | Felix Felicis (aka liquidluck) is a static blog generator in python |
+247 | [@basedosdados](https://github.com/basedosdados)/[**mais**](https://github.com/basedosdados/mais) | Package to explore the Base dos Dados public datalake | [:arrow_upper_right:](http://basedosdados.org)
 232 | [@heynemann](https://github.com/heynemann)/[**pyccuracy**](https://github.com/heynemann/pyccuracy) | Pyccuracy is a BDD-style Web Acceptance Testing framework in Python. | [:arrow_upper_right:](http://pyccuracy.org)
 226 | [@danilobellini](https://github.com/danilobellini)/[**audiolazy**](https://github.com/danilobellini/audiolazy) | Expressive Digital Signal Processing (DSP) package for Python |
 158 | [@rochacbruno](https://github.com/rochacbruno)/[**Flask-GoogleMaps**](https://github.com/rochacbruno/Flask-GoogleMaps) | Easy way to add GoogleMaps to Flask applications. |
