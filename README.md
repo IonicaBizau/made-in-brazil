@@ -56,10 +56,10 @@
 
  - [JavaScript](#javascript)
  - [Java](#java)
- - [C#](#c-1)
+ - [C#](#c)
  - [CSS](#css)
  - [HTML](#html)
- - [C](undefined)
+ - [C](#c-1)
  - [C++](#c-2)
  - [ActionScript](#actionscript)
  - [Clojure](#clojure)
@@ -529,7 +529,7 @@
 8 | [@rafael-santiago](https://github.com/rafael-santiago)/[**hefesto**](https://github.com/rafael-santiago/hefesto) | A multi-platform build-system. |
 8 | [@ppizarro](https://github.com/ppizarro)/[**coursera-stanford-al…**](https://github.com/ppizarro/coursera-stanford-algorithms1) | Coursera: Algorithms: Design and Analysis, Part 1 (Stanford) |
 7 | [@Whitexp](https://github.com/Whitexp)/[**android_device_samsu…**](https://github.com/Whitexp/android_device_samsung_totoro) | Folder Device/Galaxy Y ..for cm7 | [:arrow_upper_right:](http://madteam.co/forum/development-79/(dev)cyanogenmod-9-for-galaxy-y!-v0-1/)
-7 | [@rafael-santiago](https://github.com/rafael-santiago)/[**dnsf_ckr**](https://github.com/rafael-santiago/dnsf_ckr) | A dns exploitation tool |
+9 | [@rafael-santiago](https://github.com/rafael-santiago)/[**macgonuts**](https://github.com/rafael-santiago/macgonuts) | An ARP/NDP swiss army knife to make MAC going nuts on networks around! |
 7 | [@cmatsuoka](https://github.com/cmatsuoka)/[**amibios_dmi**](https://github.com/cmatsuoka/amibios_dmi) | AMI BIOS DMI update driver for Linux |
 7 | [@rafael-santiago](https://github.com/rafael-santiago)/[**mr-hyde**](https://github.com/rafael-santiago/mr-hyde) | A collection of steganography tools. |
 6 | [@lpereira](https://github.com/lpereira)/[**compilador-tosco**](https://github.com/lpereira/compilador-tosco) | Compilador Sub-Pascal |
